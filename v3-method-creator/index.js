@@ -18,13 +18,11 @@ let path = '';
 rl.question('Название метода? (вводить через пробел)', (answer) => {
     console.log(`Принятое название: ${answer}`);
     methodName = answer;
-
     rl.close();
 });
 rl.question('Путь до папки с сервисом?', (answer) => {
     console.log(`Принятый путь до папки: ${answer}`);
     methodName = answer;
-
     rl.close();
 });
 
@@ -49,10 +47,6 @@ rl.question('Путь до папки с сервисом?', (answer) => {
 // добавить шаблон в payload/default.py
 // добавить добавить шаблон test_amqp/test_smoke.py
 
-
-fs.mkdir()
-
-
 // TODO проверять на длину
 // TODO проверять на русские буквы
 // TODO предлагать подтверждение результата
@@ -61,9 +55,9 @@ fs.mkdir()
 // Это работает:
 // const fs = require('fs');
 // const path = require('path');
-//
+
 // const basePath = '/home/vladimir_m/bb/v3/erai';
-//
+
 // fs.mkdir(path.join(basePath, 'src/lib/methods/test'), err => {
 //     console.log(err)
 // })
