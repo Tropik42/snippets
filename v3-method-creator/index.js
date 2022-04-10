@@ -2,93 +2,98 @@ const fs = require('fs');
 const readline = require('readline');
 const path = require('path')
 
+// МОДУЛЬ С ВЫЯСНЕНИЕМ ИНФОРМАЦИИ
+
 const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout
 });
 
-const labels = [
+const answersList = [
     {
-        question: '',
-        label: '',
-        answer: '',
-    },
-    'methodName', 'basePath'
-];
-const answersList = ['Название метода? (через пробел)', 'Путь до сервиса?'];
-// let methodName = '';
-// let basePath = '';
-
-// function getDiceAnswer() {
-//     return new Promise(resolve => {
-//         rl.question("Test ?: ", (answer) => {
-//             resolve(answer);
-//             console.log("test: ", answer);
-//             rl.close();
-//         });
-//     });
-// }
-
-const answers = [
+        answerText: 'Название метода? (через пробел)',
+        label: 'methodName',
+    }, 
     {
-        question: '',
-
+        answerText: 'Путь до сервиса?',
+        label: 'basePath',
     }
 ];
 
-function ask(questionText, answer, label) {
+/* {
+    answerText: ''
+}
+*/
+const answers = [];
+
+// задать вопросик
+function ask({answerText, label}) {
     return new Promise((resolve, reject) => {
-        rl.question(questionText, (answer) => {
-            answers.push(answer);
+        rl.question(answerText, (answer) => {
+            answers.push(
+                {
+                    answerText: answer,
+                    label,
+                }
+            );
             resolve(answer);
             console.log("test: ", answer);
         });
     });
 }
 
+// получить ответы на все вопросики
 async function getAnswers() {
-    for (let label of labels) {
-        await ask(label.question);
+    for (let answer of answersList) {
+        await ask(answer);
     }
     rl.close();
-    //this line won't execute until the answer is ready
-    console.log(answers)
+    // console.log(answers);
+    return answers;
 }
 
-getAnswers();
+// ПАРСЕР ОТВЕТОВ
 
-// function ask(questionText) {
-//     return new Promise((resolve, reject) => {
-//         rl.question(questionText, (input) => resolve(input));
-//     });
-// }
+async function getVars() {
+    let methodName = '';
+    let basePath = '';
+    const answers = await getAnswers();
+    methodName = answers.find(answer => answer.label === 'methodName').answerText;
+    basePath = answers.find(answer => answer.label === 'basePath').answerText;
 
-// ask('Название метода? (через пробел)')
-//     .then((result) => {
-//         methodName = result;
-//         console.log(result);
-//         return ask('Путь до сервиса?');
-//     })
-//     .then(result => {
-//         basePath = result;
-//         console.log(result);
-//         rl.close();
-//     });
+    const data = {
+        methodName,
+        basePath,
+    }
 
+    return data
+}
 
+// МОДУЛЬ С СОЗДАНИЕМ ПАПОК И ФАЙЛОВ
 
+async function testFs() {
+    const {basePath, methodName} = await getVars()
+    
+    fs.mkdir(path.join(basePath, `${methodName}`), err => {
+        console.log(err)
+    })
+}
 
-
-
-
-
-
-
-
+testFs()
 
 
+// fs.mkdir(path.join(basePath, 'src/lib/methods/test'), err => {
+//     console.log(err)
+// })
 
-// спрашивать путь до папки с проектом
+
+
+
+
+
+
+
+// спрашивать путь до папки с проектом DONE
 // спрашивать нужно ли добавлять шаблон документации для метода
     // если нужна дока - спросить желаете ли ввести входные/выходные параметры
 // спрашивать нужно ли создавать файл для юнит-тестов
@@ -100,9 +105,7 @@ getAnswers();
 // преобразовать название в camelCase
 
 // создать папку с методом
-// fs.mkdir(path.join(basePath, 'src/lib/methods/test'), err => {
-//     console.log(err)
-// })
+
 // создать файл index.js
 // создать файл method-schema.js
 // добавить ссылки на метод в корневой для methods файл index.js
@@ -126,3 +129,5 @@ getAnswers();
 // fs.mkdir(path.join(basePath, 'src/lib/methods/test'), err => {
 //     console.log(err)
 // })
+
+
