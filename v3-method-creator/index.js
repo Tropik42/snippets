@@ -1,4 +1,5 @@
 const fs = require('fs');
+const fsPromises = require('fs/promises')
 const readline = require('readline');
 const path = require('path')
 
@@ -74,9 +75,9 @@ async function getVars() {
 async function testFs() {
     const {basePath, methodName} = await getVars()
     
-    fs.mkdir(path.join(basePath, `${methodName}`), err => {
-        console.log(err)
-    })
+    await fsPromises.mkdir(path.join(basePath, `${methodName}`))
+    await fsPromises.writeFile(path.join(basePath, `${methodName}`, 'index.js'), 'test')
+
 }
 
 testFs()
@@ -106,7 +107,7 @@ testFs()
 
 // создать папку с методом
 
-// создать файл index.js
+// создать файл index.js DONE
 // создать файл method-schema.js
 // добавить ссылки на метод в корневой для methods файл index.js
 
