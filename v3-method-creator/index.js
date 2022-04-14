@@ -14,7 +14,7 @@ const answersList = [
     {
         answerText: 'Название метода? (через пробел)',
         label: 'methodName',
-    }, 
+    },
     {
         answerText: 'Путь до сервиса?',
         label: 'basePath',
@@ -74,7 +74,7 @@ async function getVars() {
 
 async function testFs() {
     const {basePath, methodName} = await getVars()
-    
+
     await fsPromises.mkdir(path.join(basePath, `${methodName}`))
     await fsPromises.writeFile(path.join(basePath, `${methodName}`, 'index.js'), 'test')
 
@@ -89,7 +89,7 @@ testFs()
 
 
 
-
+// top level await
 
 
 
