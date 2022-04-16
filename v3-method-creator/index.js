@@ -110,29 +110,8 @@ async function testFs() {
         var bufferedText = new Buffer(TOC+file_content);
         fs.writeSync(file, bufferedText, 0, bufferedText.length, insertPosition);
         fs.close(file);
-
-        // fs.open(path.resolve(basePath, 'doc/api/index.md'), 'r+', (err, fd) => {
-        //     //fd - это дескриптор файла
-        //     fs.write(fd, TOC, insertPosition, 'utf-8', (err) => console.log(err, insertPosition))
-        // })
     }
 }
-
-// var position = 5;
-// var file_path = 'file.txt';
-// var new_text = 'abcde';
-
-// fs.readFile(file_path, function read(err, data) {
-//     if (err) {
-//         throw err;
-//     }
-//     var file_content = data.toString();
-//     file_content = file_content.substring(position);
-//     var file = fs.openSync(file_path,'r+');
-//     var bufferedText = new Buffer(new_text+file_content);
-//     fs.writeSync(file, bufferedText, 0, bufferedText.length, position);
-//     fs.close(file);
-// });
 
 testFs()
 
