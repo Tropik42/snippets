@@ -20,7 +20,7 @@ const path = require('path');
 fs.open('test.txt', 'r+', (err, fd) => {
     //fd - это дескриптор файла
     // console.log(fd);
-    fs.read(fd, (err, data) => {
+    fs.readFile('test.txt', 'utf-8', (err, data) => {
         if (err) {
             console.error(err)
             return

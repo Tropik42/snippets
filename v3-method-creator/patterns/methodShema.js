@@ -1,5 +1,4 @@
-module.exports = {
-    methodSchemaPattern: 
+module.exports = {methodSchemaPattern: 
 `const {                
 } = require('../schema-properties.js');
 
