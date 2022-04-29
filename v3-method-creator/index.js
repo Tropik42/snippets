@@ -92,9 +92,19 @@ async function testFs() {
     const {basePath, methodName, createMethod, createDoc} = await getVars()
 
     if (createMethod) { // Создать папку с методом в src
-        await fsPromises.mkdir(path.join(basePath, 'src/lib/methods', `${methodName}`))
-        await fsPromises.writeFile(path.join(basePath, 'src/lib/methods', `${methodName}`, 'index.js'), `${methodPattern.replace(/MethodName/g, methodName)}`)
-        await fsPromises.writeFile(path.join(basePath, 'src/lib/methods', `${methodName}`, 'method-schema.js'), `${methodSchemaPattern.replace(/MethodName/g, methodName)}`)
+        await fsPromises.mkdir(
+            path.join(basePath, 'src/lib/methods', 
+            `${toKebabCase(methodName)}`)
+        )
+        await fsPromises.writeFile(
+            path.join(basePath, 'src/lib/methods', `${toKebabCase(methodName)}`, 'index.js'),
+            `${methodPattern.replace(/MethodName/g, toPascalCase(methodName))}`
+        )
+        await fsPromises.writeFile(
+            path.join(basePath, 'src/lib/methods',
+            `${toKebabCase(methodName)}`, 'method-schema.js'),
+            `${methodSchemaPattern.replace(/MethodName/g, toCamelCase(methodName))}`
+        )
     }
 
     if (createDoc) { // Вставить шаблон документации
@@ -102,15 +112,51 @@ async function testFs() {
         const insertPosition = +docText.lastIndexOf('[Output](#output-') + 51
         const position = +docText.lastIndexOf('[Output](#output-')
 
-        console.log(insertPosition, docText.length);
+        // console.log(insertPosition, docText.length);
 
         file_content = docText.substring(position+22);
-        console.log(file_content);
+        // console.log(file_content);
         var file = fs.openSync(path.resolve(basePath, 'doc/api/index.md'),'r+');
         var bufferedText = new Buffer(TOC+file_content);
         fs.writeSync(file, bufferedText, 0, bufferedText.length, insertPosition);
         fs.close(file);
     }
+}
+
+// UTILS
+function toPascalCase (string) {
+    return string
+        .toLowerCase()
+        .split(' ')
+        .map(word => word
+            .charAt(0)
+            .toUpperCase() + word.slice(1)
+        )
+        .join('')  
+}
+
+function toCamelCase (string) {
+    const result = 
+    string
+        .toLowerCase()
+        .split(' ')
+        .map(word => word
+            .charAt(0)
+            .toUpperCase() + word.slice(1)
+        )
+        .join('')
+
+    return result
+        .charAt(0)
+        .toLowerCase() + result.slice(1)
+
+}
+
+function toKebabCase (string) {
+    return string
+        .toLowerCase()
+        .split(' ')
+        .join('-')  
 }
 
 testFs()
@@ -125,9 +171,9 @@ testFs()
 
 // спрашивать путь до папки с проектом DONE
 
-// TODO: спрашивать нужно ли добавлять шаблон документации для метода
+// спрашивать нужно ли добавлять шаблон документации для метода DONE
 // если нужно добавить шаблон для документации
-    // TODO: добавить шаблон в doc/api/index.md
+    // добавить шаблон в doc/api/index.md DONE
 
     // TODO: спрашивать желаете ли ввести входные/выходные параметры 
 
@@ -136,9 +182,9 @@ testFs()
 // TODO: спрашивать нужно ли добавлять шаблон для автотестов
 // можно ещё спрашивать за коллекцию для постмана
 
-// TODO: преобразовать название в kebab-case
-// TODO: преобразовать название в PascalCase
-// TODO: преобразовать название в camelCase
+// преобразовать название в kebab-case DONE
+// преобразовать название в PascalCase DONE
+// преобразовать название в camelCase DONE
 
 // если нужен корневой метод
 // создать папку с методом DONE
@@ -164,6 +210,9 @@ testFs()
 // обработка ошибок
 // TODO: папка с названием ${name} уже существует
 // TODO: файл с названием ${name} уже существует
+
+// декомпозиция
+// TODO: убрать методы utils в отдельный файл
 
 // fs.mkdir(path.join(basePath, 'src/lib/methods/test'), err => {
 //     console.log(err)

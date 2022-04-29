@@ -3,7 +3,7 @@ module.exports = {methodSchemaPattern:
 } = require('../schema-properties.js');
 
 module.exports = {
-    id: '',
+    id: 'MethodName',
     type: 'object',
     required: ['data'],
     properties: {
