@@ -6,6 +6,7 @@ const path = require('path')
 // ШАБЛОНЫ
 const {methodPattern} = require('./patterns/method')
 const {methodSchemaPattern} = require('./patterns/methodShema')
+const {unitPattern} = require('./patterns/unit')
 const {TOC} = require('./patterns/docPattern')
 
 // МОДУЛЬ С ВЫЯСНЕНИЕМ ИНФОРМАЦИИ
@@ -31,6 +32,10 @@ const answersList = [
     {
         answerText: 'Вставить шаблон документации?',
         label: 'createDoc',
+    },
+    {
+        answerText: 'Создавать файл юнит-тестов?',
+        label: 'createUnit',
     },
 ];
 
@@ -75,12 +80,14 @@ async function getVars() {
     const basePath = answers.find(answer => answer.label === 'basePath').answerText;
     const createMethod = answers.find(answer => answer.label === 'createMethod').answerText.includes('y');
     const createDoc = answers.find(answer => answer.label === 'createDoc').answerText.includes('y');
+    const createUnit = answers.find(answer => answer.label === 'createUnit').answerText.includes('y');
 
     const data = {
         methodName,
         basePath,
         createMethod,
         createDoc,
+        createUnit,
     }
 
     return data
@@ -89,21 +96,44 @@ async function getVars() {
 // МОДУЛЬ С СОЗДАНИЕМ ПАПОК И ФАЙЛОВ
 
 async function testFs() {
-    const {basePath, methodName, createMethod, createDoc} = await getVars()
+    const {basePath, methodName, createMethod, createDoc, createUnit} = await getVars()
 
     if (createMethod) { // Создать папку с методом в src
         await fsPromises.mkdir(
-            path.join(basePath, 'src/lib/methods', 
-            `${toKebabCase(methodName)}`)
+            path.join(
+                basePath,
+                'src/lib/methods', 
+                `${toKebabCase(methodName)}`
+            )
         )
         await fsPromises.writeFile(
-            path.join(basePath, 'src/lib/methods', `${toKebabCase(methodName)}`, 'index.js'),
+            path.join(
+                basePath,
+                'src/lib/methods',
+                `${toKebabCase(methodName)}`,
+                'index.js'
+            ),
             `${methodPattern.replace(/MethodName/g, toPascalCase(methodName))}`
         )
         await fsPromises.writeFile(
-            path.join(basePath, 'src/lib/methods',
-            `${toKebabCase(methodName)}`, 'method-schema.js'),
+            path.join(
+                basePath,
+                'src/lib/methods',
+                `${toKebabCase(methodName)}`,
+                'method-schema.js'
+            ),
             `${methodSchemaPattern.replace(/MethodName/g, toCamelCase(methodName))}`
+        )
+    }
+
+    if (createUnit) {
+        await fsPromises.writeFile(
+            path.join(
+                basePath,
+                'src/test/cases',
+                `${toKebabCase(methodName)}.js`
+            ),
+            `${unitPattern.replace(/MethodName/g, toCamelCase(methodName))}`
         )
     }
 
@@ -178,7 +208,9 @@ testFs()
     // TODO: спрашивать желаете ли ввести входные/выходные параметры 
 
 
-// TODO: спрашивать нужно ли создавать файл для юнит-тестов
+// спрашивать нужно ли создавать файл для юнит-тестов DONE
+
+
 // TODO: спрашивать нужно ли добавлять шаблон для автотестов
 // можно ещё спрашивать за коллекцию для постмана
 
@@ -193,7 +225,7 @@ testFs()
     // TODO: добавить ссылки на метод в корневой для methods файл index.js
 
 // если нужен файл для юнит-тестов
-// TODO: добавить файл юнит-тестов
+// добавить файл юнит-тестов DONE
 // TODO: добавить ссылку на файл с тестом в корневой для юнит-тестов файл index.js
 // TODO: добавить ссылки на метод в корневой для methods файл index.js
 
@@ -213,6 +245,7 @@ testFs()
 
 // декомпозиция
 // TODO: убрать методы utils в отдельный файл
+// TODO: убрать вопросы (answers) в отдельный файл
 
 // fs.mkdir(path.join(basePath, 'src/lib/methods/test'), err => {
 //     console.log(err)
