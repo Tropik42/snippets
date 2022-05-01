@@ -7,7 +7,7 @@ const path = require('path')
 const {methodPattern} = require('./patterns/method')
 const {methodSchemaPattern} = require('./patterns/methodShema')
 const {unitPattern} = require('./patterns/unit')
-const {TOC} = require('./patterns/docPattern')
+const {TOCPattern, descriptionPattern} = require('./patterns/docPattern')
 
 // МОДУЛЬ С ВЫЯСНЕНИЕМ ИНФОРМАЦИИ
 
@@ -125,6 +125,23 @@ async function testFs() {
             `${methodSchemaPattern.replace(/MethodName/g, toCamelCase(methodName))}`
         )
     }
+    
+    if (createDoc) { // Вставить шаблон документации
+        const docText = await fsPromises.readFile(path.resolve(basePath, 'doc/api/index.md'), 'utf-8')
+        const insertPosition = +docText.lastIndexOf('[Output](#output-') + 51
+        const position = +docText.lastIndexOf('[Output](#output-')
+
+        file_content = docText.substring(position+22);
+        var file = fs.openSync(path.resolve(basePath, 'doc/api/index.md'),'r+');
+        var bufferedText = new Buffer(TOCPattern+file_content);
+        fs.writeSync(file, bufferedText, 0, bufferedText.length, insertPosition);
+        await fsPromises
+            .appendFile(
+                path.resolve(basePath, 'doc/api/index.md'),
+                descriptionPattern.replace(/MethodName/g, toCamelCase(methodName))
+            )
+        fs.close(file);
+    }
 
     if (createUnit) {
         await fsPromises.writeFile(
@@ -135,21 +152,6 @@ async function testFs() {
             ),
             `${unitPattern.replace(/MethodName/g, toCamelCase(methodName))}`
         )
-    }
-
-    if (createDoc) { // Вставить шаблон документации
-        const docText = await fsPromises.readFile(path.resolve(basePath, 'doc/api/index.md'), 'utf-8')
-        const insertPosition = +docText.lastIndexOf('[Output](#output-') + 51
-        const position = +docText.lastIndexOf('[Output](#output-')
-
-        // console.log(insertPosition, docText.length);
-
-        file_content = docText.substring(position+22);
-        // console.log(file_content);
-        var file = fs.openSync(path.resolve(basePath, 'doc/api/index.md'),'r+');
-        var bufferedText = new Buffer(TOC+file_content);
-        fs.writeSync(file, bufferedText, 0, bufferedText.length, insertPosition);
-        fs.close(file);
     }
 }
 
@@ -203,16 +205,10 @@ testFs()
 
 // спрашивать нужно ли добавлять шаблон документации для метода DONE
 // если нужно добавить шаблон для документации
-    // добавить шаблон в doc/api/index.md DONE
-
-    // TODO: спрашивать желаете ли ввести входные/выходные параметры 
-
+    // добавить шаблон TOC в doc/api/index.md DONE
+    // добавить шаблон description в doc/api/index.md DONE
 
 // спрашивать нужно ли создавать файл для юнит-тестов DONE
-
-
-// TODO: спрашивать нужно ли добавлять шаблон для автотестов
-// можно ещё спрашивать за коллекцию для постмана
 
 // преобразовать название в kebab-case DONE
 // преобразовать название в PascalCase DONE
@@ -246,6 +242,11 @@ testFs()
 // декомпозиция
 // TODO: убрать методы utils в отдельный файл
 // TODO: убрать вопросы (answers) в отдельный файл
+
+// чего ещё можна
+// спрашивать нужно ли добавлять шаблон для автотестов NOTE
+// можно ещё спрашивать за коллекцию для постмана NOTE
+// спрашивать желаете ли ввести входные/выходные параметры NOTE 
 
 // fs.mkdir(path.join(basePath, 'src/lib/methods/test'), err => {
 //     console.log(err)
