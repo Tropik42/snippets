@@ -15,5 +15,15 @@ class MethodName extends MethodInterface {
 }
 
 module.exports = MethodName;
+`,
+
+indexRequirePattern:
+`const methodName = require('./method-name');
+
+`,
+
+indexExportsPattern: 
+`
+    methodName,
 `
 };

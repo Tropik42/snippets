@@ -4,7 +4,11 @@ const readline = require('readline');
 const path = require('path')
 
 // ШАБЛОНЫ
-const {methodPattern} = require('./patterns/method')
+const {
+    methodPattern, 
+    indexRequirePattern, 
+    indexExportsPattern
+} = require('./patterns/method')
 const {methodSchemaPattern} = require('./patterns/methodShema')
 const {unitPattern} = require('./patterns/unit')
 const {TOCPattern, descriptionPattern} = require('./patterns/docPattern')
@@ -124,6 +128,47 @@ async function testFs() {
             ),
             `${methodSchemaPattern.replace(/MethodName/g, toCamelCase(methodName))}`
         )
+
+        // вставить название метода в require
+        // берём весь текст файла
+        const indexText = await fsPromises.readFile(path.resolve(basePath, 'src/lib/methods/index.js'), 'utf-8')
+        // определяем позицию вставки шаблона
+        const insertPosition = +indexText.lastIndexOf('module.exports')
+        // определяем позицию начала остатка файла, который должен записаться после шаблона
+        const position = +indexText.lastIndexOf('module.exports')
+        // берём остаток файла, который запишется после вставки шаблона
+        file_content = indexText.substring(position);
+        // получаем дескриптор файла
+        var file = fs.openSync(path.resolve(basePath, 'src/lib/methods/index.js'),'r+');
+        // берём шаблон и добавляем к нему остаток файла, чтобы не перезаписалось
+        var bufferedText = new Buffer(
+            indexRequirePattern
+                .replace(/methodName/g, toCamelCase(methodName))
+                .replace(/method-name/g, toKebabCase(methodName))
+            +file_content
+        );
+        // записываем в файл шаблон+остаток
+        fs.writeSync(file, bufferedText, 0, bufferedText.length, insertPosition-2);//-2 чтобы вернуться на строку выше
+        fs.close(file);
+
+        // вставить название метода в exports
+        const indexTextRequire = await fsPromises.readFile(path.resolve(basePath, 'src/lib/methods/index.js'), 'utf-8')
+        const insertPositionRequire = +indexTextRequire.lastIndexOf('};')
+        // определяем позицию начала остатка файла, который должен записаться после шаблона
+        const positionRequire = +indexTextRequire.lastIndexOf('};')
+        // берём остаток файла, который запишется после вставки шаблона
+        file_content_require = indexTextRequire.substring(positionRequire);
+        // получаем дескриптор файла
+        var fileRequire = fs.openSync(path.resolve(basePath, 'src/lib/methods/index.js'),'r+');
+        // берём шаблон и добавляем к нему остаток файла, чтобы не перезаписалось
+        var bufferedTextRequire = new Buffer(
+                indexExportsPattern
+                .replace(/methodName/g, toCamelCase(methodName))
+                +file_content_require
+            );
+        // записываем в файл шаблон+остаток
+        fs.writeSync(fileRequire, bufferedTextRequire, 0, bufferedTextRequire.length, insertPositionRequire-2);//-2 чтобы вернуться на строку выше
+        fs.close(fileRequire);
     }
     
     if (createDoc) { // Вставить шаблон документации
@@ -135,11 +180,10 @@ async function testFs() {
         var file = fs.openSync(path.resolve(basePath, 'doc/api/index.md'),'r+');
         var bufferedText = new Buffer(TOCPattern+file_content);
         fs.writeSync(file, bufferedText, 0, bufferedText.length, insertPosition);
-        await fsPromises
-            .appendFile(
-                path.resolve(basePath, 'doc/api/index.md'),
-                descriptionPattern.replace(/MethodName/g, toCamelCase(methodName))
-            )
+        await fsPromises.appendFile( // вставить описание метода
+            path.resolve(basePath, 'doc/api/index.md'),
+            descriptionPattern.replace(/MethodName/g, toCamelCase(methodName))
+        )
         fs.close(file);
     }
 
@@ -181,7 +225,6 @@ function toCamelCase (string) {
     return result
         .charAt(0)
         .toLowerCase() + result.slice(1)
-
 }
 
 function toKebabCase (string) {
@@ -207,18 +250,21 @@ testFs()
 // если нужно добавить шаблон для документации
     // добавить шаблон TOC в doc/api/index.md DONE
     // добавить шаблон description в doc/api/index.md DONE
+    // TODO: реплэйсить название в шаблоне TOC
+    // TODO: менять цифры в шаблоне TOC
 
 // спрашивать нужно ли создавать файл для юнит-тестов DONE
 
-// преобразовать название в kebab-case DONE
-// преобразовать название в PascalCase DONE
-// преобразовать название в camelCase DONE
+// преобразовывать название в kebab-case DONE
+// преобразовывать название в PascalCase DONE
+// преобразовывать название в camelCase DONE
+// TODO: преобразовывать название в слитное
 
 // если нужен корневой метод
 // создать папку с методом DONE
     // создать файл index.js DONE
     // создать файл method-schema.js DONE
-    // TODO: добавить ссылки на метод в корневой для methods файл index.js
+    // добавить ссылки на метод в корневой для methods файл index.js DONE
 
 // если нужен файл для юнит-тестов
 // добавить файл юнит-тестов DONE
@@ -242,6 +288,7 @@ testFs()
 // декомпозиция
 // TODO: убрать методы utils в отдельный файл
 // TODO: убрать вопросы (answers) в отдельный файл
+// TODO: вынести логику записи в указанную точку файла в отдельную функцию
 
 // чего ещё можна
 // спрашивать нужно ли добавлять шаблон для автотестов NOTE
