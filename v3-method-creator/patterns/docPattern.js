@@ -1,6 +1,6 @@
 module.exports = {
 TOCPattern: 
-`      - [modifyAccount](#modifyaccount)
+`      - [methodName](#methodname)
         - [Description](#description-15)
         - [Input](#input-15)
         - [Output](#output-15)

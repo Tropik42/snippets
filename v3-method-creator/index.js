@@ -178,7 +178,12 @@ async function testFs() {
 
         file_content = docText.substring(position+22);
         var file = fs.openSync(path.resolve(basePath, 'doc/api/index.md'),'r+');
-        var bufferedText = new Buffer(TOCPattern+file_content);
+        var bufferedText = new Buffer(
+                TOCPattern
+                    .replace(/methodName/g, toCamelCase(methodName))
+                    .replace(/methodname/g, toFlatCase(methodName))
+                +file_content
+            );
         fs.writeSync(file, bufferedText, 0, bufferedText.length, insertPosition);
         await fsPromises.appendFile( // вставить описание метода
             path.resolve(basePath, 'doc/api/index.md'),
@@ -234,6 +239,13 @@ function toKebabCase (string) {
         .join('-')  
 }
 
+function toFlatCase (string) {
+    return string
+        .toLowerCase()
+        .split(' ')
+        .join('')  
+}
+
 testFs()
 
 // fs.mkdir(path.join(basePath, 'src/lib/methods/test'), err => {
@@ -250,7 +262,7 @@ testFs()
 // если нужно добавить шаблон для документации
     // добавить шаблон TOC в doc/api/index.md DONE
     // добавить шаблон description в doc/api/index.md DONE
-    // TODO: реплэйсить название в шаблоне TOC
+    // реплэйсить название в шаблоне TOC DONE
     // TODO: менять цифры в шаблоне TOC
 
 // спрашивать нужно ли создавать файл для юнит-тестов DONE
@@ -289,6 +301,9 @@ testFs()
 // TODO: убрать методы utils в отдельный файл
 // TODO: убрать вопросы (answers) в отдельный файл
 
+// документация
+// ввести использование JS Doc
+
 // рефакторинг
 // TODO: вынести логику записи в указанную точку файла в отдельную функцию
 
@@ -298,10 +313,8 @@ testFs()
 // чего ещё можна
 // спрашивать нужно ли добавлять шаблон для автотестов NOTE
 // можно ещё спрашивать за коллекцию для постмана NOTE
-// спрашивать желаете ли ввести входные/выходные параметры NOTE 
+// спрашивать желаете ли ввести входные/выходные параметры NOTE
 
 // fs.mkdir(path.join(basePath, 'src/lib/methods/test'), err => {
 //     console.log(err)
 // })
-
-
