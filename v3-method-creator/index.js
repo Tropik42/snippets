@@ -175,13 +175,18 @@ async function testFs() {
         const docText = await fsPromises.readFile(path.resolve(basePath, 'doc/api/index.md'), 'utf-8')
         const insertPosition = +docText.lastIndexOf('[Output](#output-') + 51
         const position = +docText.lastIndexOf('[Output](#output-')
+        const numberOfTOCDescription = docText // найти номер метода в TOC
+            .match(/#description-[\d]{0,2}/g)
+            .pop()
+            .split('-')[1]
 
         file_content = docText.substring(position+22);
         var file = fs.openSync(path.resolve(basePath, 'doc/api/index.md'),'r+');
         var bufferedText = new Buffer(
                 TOCPattern
-                    .replace(/methodName/g, toCamelCase(methodName))
-                    .replace(/methodname/g, toFlatCase(methodName))
+                    .replace(/methodName/g, toCamelCase(methodName)) //подставить название метода
+                    .replace(/methodname/g, toFlatCase(methodName)) // подставить тег (#..)
+                    .replace(new RegExp(`${numberOfTOCDescription}`, 'g'), +numberOfTOCDescription + 1) // подставить циферки, увеличенные на 1
                 +file_content
             );
         fs.writeSync(file, bufferedText, 0, bufferedText.length, insertPosition);
@@ -263,7 +268,8 @@ testFs()
     // добавить шаблон TOC в doc/api/index.md DONE
     // добавить шаблон description в doc/api/index.md DONE
     // реплэйсить название в шаблоне TOC DONE
-    // TODO: менять цифры в шаблоне TOC
+    // менять цифры в шаблоне TOC DONE
+    // TODO: добавить цифры в шаблоне TOC, если это второй метод (проверять на наличие цифр в строке)
 
 // спрашивать нужно ли создавать файл для юнит-тестов DONE
 
