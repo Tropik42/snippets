@@ -1,10 +1,11 @@
 module.exports = {
-TOCPattern: 
+TOCPattern:
 `      - [methodName](#methodname)
-        - [Description](#description-15)
-        - [Input](#input-15)
-        - [Output](#output-15)
-        `,
+        - [Description](#description-orderNumber)
+        - [Input](#input-orderNumber)
+        - [Output](#output-orderNumber)
+        
+`,
 
 descriptionPattern:
 `

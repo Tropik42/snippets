@@ -5,8 +5,8 @@ const path = require('path')
 
 // ШАБЛОНЫ
 const {
-    methodPattern, 
-    indexRequirePattern, 
+    methodPattern,
+    indexRequirePattern,
     indexExportsPattern
 } = require('./patterns/method')
 const {methodSchemaPattern} = require('./patterns/methodShema')
@@ -106,7 +106,7 @@ async function testFs() {
         await fsPromises.mkdir(
             path.join(
                 basePath,
-                'src/lib/methods', 
+                'src/lib/methods',
                 `${toKebabCase(methodName)}`
             )
         )
@@ -170,23 +170,31 @@ async function testFs() {
         fs.writeSync(fileRequire, bufferedTextRequire, 0, bufferedTextRequire.length, insertPositionRequire-2);//-2 чтобы вернуться на строку выше
         fs.close(fileRequire);
     }
-    
+
     if (createDoc) { // Вставить шаблон документации
         const docText = await fsPromises.readFile(path.resolve(basePath, 'doc/api/index.md'), 'utf-8')
-        const insertPosition = +docText.lastIndexOf('[Output](#output-') + 51
-        const position = +docText.lastIndexOf('[Output](#output-')
-        const numberOfTOCDescription = docText // найти номер метода в TOC
+        const isSecondMethod = docText.includes('description') && !docText.includes('description-') // определить, не второй ли это метод в документации
+        const insertPosition = isSecondMethod
+            ? +docText.lastIndexOf('[Output](#output') + 48
+            : +docText.lastIndexOf('[Output](#output-') + 50
+        const position = isSecondMethod
+            ? +docText.lastIndexOf('[Output](#output') + 20
+            : +docText.lastIndexOf('[Output](#output-') + 22
+
+        const numberOfTOCDescription = isSecondMethod
+            ? '0' // если это второй метод в документации, в теге будет 1 (#description-1)
+            : docText // найти номер метода в TOC
             .match(/#description-[\d]{0,2}/g)
             .pop()
             .split('-')[1]
 
-        file_content = docText.substring(position+22);
-        var file = fs.openSync(path.resolve(basePath, 'doc/api/index.md'),'r+');
-        var bufferedText = new Buffer(
+        const file_content = docText.substring(position);
+        const file = fs.openSync(path.resolve(basePath, 'doc/api/index.md'),'r+');
+        const bufferedText = new Buffer(
                 TOCPattern
                     .replace(/methodName/g, toCamelCase(methodName)) //подставить название метода
                     .replace(/methodname/g, toFlatCase(methodName)) // подставить тег (#..)
-                    .replace(new RegExp(`${numberOfTOCDescription}`, 'g'), +numberOfTOCDescription + 1) // подставить циферки, увеличенные на 1
+                    .replace(/orderNumber/g, +numberOfTOCDescription + 1) // подставить циферки, увеличенные на 1
                 +file_content
             );
         fs.writeSync(file, bufferedText, 0, bufferedText.length, insertPosition);
@@ -218,11 +226,11 @@ function toPascalCase (string) {
             .charAt(0)
             .toUpperCase() + word.slice(1)
         )
-        .join('')  
+        .join('')
 }
 
 function toCamelCase (string) {
-    const result = 
+    const result =
     string
         .toLowerCase()
         .split(' ')
@@ -241,14 +249,14 @@ function toKebabCase (string) {
     return string
         .toLowerCase()
         .split(' ')
-        .join('-')  
+        .join('-')
 }
 
 function toFlatCase (string) {
     return string
         .toLowerCase()
         .split(' ')
-        .join('')  
+        .join('')
 }
 
 testFs()
@@ -269,7 +277,7 @@ testFs()
     // добавить шаблон description в doc/api/index.md DONE
     // реплэйсить название в шаблоне TOC DONE
     // менять цифры в шаблоне TOC DONE
-    // TODO: добавить цифры в шаблоне TOC, если это второй метод (проверять на наличие цифр в строке)
+    // добавить цифры в шаблоне TOC, если это второй метод (проверять на наличие цифр в строке) DONE
 
 // спрашивать нужно ли создавать файл для юнит-тестов DONE
 
