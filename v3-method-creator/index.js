@@ -143,7 +143,7 @@ async function testFs() {
         // берём шаблон и добавляем к нему остаток файла, чтобы не перезаписалось
         var bufferedText = new Buffer(
             indexRequirePattern
-                .replace(/methodName/g, toCamelCase(methodName))
+                .replace(/MethodName/g, toPascalCase(methodName))
                 .replace(/method-name/g, toKebabCase(methodName))
             +file_content
         );
@@ -163,7 +163,7 @@ async function testFs() {
         // берём шаблон и добавляем к нему остаток файла, чтобы не перезаписалось
         var bufferedTextRequire = new Buffer(
                 indexExportsPattern
-                .replace(/methodName/g, toCamelCase(methodName))
+                .replace(/MethodName/g, toPascalCase(methodName))
                 +file_content_require
             );
         // записываем в файл шаблон+остаток
@@ -284,14 +284,14 @@ testFs()
 // преобразовывать название в kebab-case DONE
 // преобразовывать название в PascalCase DONE
 // преобразовывать название в camelCase DONE
-// TODO: преобразовывать название в слитное
+// преобразовывать название в слитное - flatcase DONE
 
 // если нужен корневой метод
 // создать папку с методом DONE
     // создать файл index.js DONE
     // создать файл method-schema.js DONE
     // добавить ссылки на метод в корневой для methods файл index.js DONE
-    // TODO: в methods/index.js в название импортируемого класса с большой буквы
+    // в methods/index.js в название импортируемого класса с большой буквы DONE
 
 // если нужен файл для юнит-тестов
 // добавить файл юнит-тестов DONE

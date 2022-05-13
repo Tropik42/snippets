@@ -1,4 +1,4 @@
-module.exports = {methodPattern: 
+module.exports = {methodPattern:
 `const {MethodInterface} = require('@bb/offline-core');
 const methodSchema = require('./method-schema.js');
 
@@ -18,12 +18,13 @@ module.exports = MethodName;
 `,
 
 indexRequirePattern:
-`const methodName = require('./method-name');
+`
+const MethodName = require('./method-name');
 
 `,
 
-indexExportsPattern: 
+indexExportsPattern:
 `
-    methodName,
+    MethodName,
 `
 };
