@@ -1,4 +1,17 @@
-module.exports = {unitPattern: 
+module.exports = {
+
+unitIndexRequirePattern:
+`
+const methodName = require('./method-name.js');
+
+`,
+
+unitIndexExportsPattern:
+`
+    methodName,
+`,
+    
+unitPattern: 
 `const {testUtils, testStorage} = require('@bb/offline-test');
 
 const MSG = {

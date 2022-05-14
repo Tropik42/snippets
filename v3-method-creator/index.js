@@ -6,11 +6,15 @@ const path = require('path')
 // ШАБЛОНЫ
 const {
     methodPattern,
-    indexRequirePattern,
-    indexExportsPattern
+    methodIndexRequirePattern,
+    methodIndexExportsPattern
 } = require('./patterns/method')
 const {methodSchemaPattern} = require('./patterns/methodShema')
-const {unitPattern} = require('./patterns/unit')
+const {
+    unitPattern,
+    unitIndexRequirePattern,
+    unitIndexExportsPattern,
+} = require('./patterns/unit')
 const {TOCPattern, descriptionPattern} = require('./patterns/docPattern')
 
 // МОДУЛЬ С ВЫЯСНЕНИЕМ ИНФОРМАЦИИ
@@ -142,13 +146,13 @@ async function testFs() {
         var file = fs.openSync(path.resolve(basePath, 'src/lib/methods/index.js'),'r+');
         // берём шаблон и добавляем к нему остаток файла, чтобы не перезаписалось
         var bufferedText = new Buffer(
-            indexRequirePattern
+            methodIndexRequirePattern
                 .replace(/MethodName/g, toPascalCase(methodName))
                 .replace(/method-name/g, toKebabCase(methodName))
             +file_content
         );
         // записываем в файл шаблон+остаток
-        fs.writeSync(file, bufferedText, 0, bufferedText.length, insertPosition-2);//-2 чтобы вернуться на строку выше
+        fs.writeSync(file, bufferedText, 0, bufferedText.length, insertPosition-3);//-3 чтобы вернуться на строку выше
         fs.close(file);
 
         // вставить название метода в exports
@@ -162,7 +166,7 @@ async function testFs() {
         var fileRequire = fs.openSync(path.resolve(basePath, 'src/lib/methods/index.js'),'r+');
         // берём шаблон и добавляем к нему остаток файла, чтобы не перезаписалось
         var bufferedTextRequire = new Buffer(
-                indexExportsPattern
+                methodIndexExportsPattern
                 .replace(/MethodName/g, toPascalCase(methodName))
                 +file_content_require
             );
@@ -214,6 +218,47 @@ async function testFs() {
             ),
             `${unitPattern.replace(/MethodName/g, toCamelCase(methodName))}`
         )
+
+        // вставить название метода в require
+        // берём весь текст файла
+        const indexText = await fsPromises.readFile(path.resolve(basePath, 'src/test/cases/index.js'), 'utf-8')
+        // определяем позицию вставки шаблона
+        const insertPosition = +indexText.lastIndexOf('module.exports')
+        // определяем позицию начала остатка файла, который должен записаться после шаблона
+        const position = +indexText.lastIndexOf('module.exports')
+        // берём остаток файла, который запишется после вставки шаблона
+        file_content = indexText.substring(position);
+        // получаем дескриптор файла
+        var file = fs.openSync(path.resolve(basePath, 'src/test/cases/index.js'),'r+');
+        // берём шаблон и добавляем к нему остаток файла, чтобы не перезаписалось
+        var bufferedText = new Buffer(
+            unitIndexRequirePattern
+                .replace(/methodName/g, toCamelCase(methodName))
+                .replace(/method-name/g, toKebabCase(methodName))
+            +file_content
+        );
+        // записываем в файл шаблон+остаток
+        fs.writeSync(file, bufferedText, 0, bufferedText.length, insertPosition-3);//-3 чтобы вернуться на строку выше
+        fs.close(file);
+
+        // вставить название метода в exports
+        const indexTextRequire = await fsPromises.readFile(path.resolve(basePath, 'src/test/cases/index.js'), 'utf-8')
+        const insertPositionRequire = +indexTextRequire.lastIndexOf('};')
+        // определяем позицию начала остатка файла, который должен записаться после шаблона
+        const positionRequire = +indexTextRequire.lastIndexOf('};')
+        // берём остаток файла, который запишется после вставки шаблона
+        file_content_require = indexTextRequire.substring(positionRequire);
+        // получаем дескриптор файла
+        var fileRequire = fs.openSync(path.resolve(basePath, 'src/test/cases/index.js'),'r+');
+        // берём шаблон и добавляем к нему остаток файла, чтобы не перезаписалось
+        var bufferedTextRequire = new Buffer(
+                unitIndexExportsPattern
+                .replace(/methodName/g, toCamelCase(methodName))
+                +file_content_require
+            );
+        // записываем в файл шаблон+остаток
+        fs.writeSync(fileRequire, bufferedTextRequire, 0, bufferedTextRequire.length, insertPositionRequire-2);//-2 чтобы вернуться на строку выше
+        fs.close(fileRequire);
     }
 }
 
@@ -295,8 +340,7 @@ testFs()
 
 // если нужен файл для юнит-тестов
 // добавить файл юнит-тестов DONE
-// TODO: добавить ссылку на файл с тестом в корневой для юнит-тестов файл index.js
-// TODO: добавить ссылки на метод в корневой для methods файл index.js
+// добавить ссылку на файл с тестом в корневой для юнит-тестов файл index.js DONE
 
 // если нужно добавить шаблон для автотестов
 // добавить шаблон в payload/default.py
