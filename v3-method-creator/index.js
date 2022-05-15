@@ -7,15 +7,20 @@ const path = require('path')
 const {
     methodPattern,
     methodIndexRequirePattern,
-    methodIndexExportsPattern
+    methodIndexExportsPattern,
 } = require('./patterns/method')
-const {methodSchemaPattern} = require('./patterns/methodShema')
+const {
+    methodSchemaPattern,
+} = require('./patterns/methodShema')
 const {
     unitPattern,
     unitIndexRequirePattern,
     unitIndexExportsPattern,
 } = require('./patterns/unit')
-const {TOCPattern, descriptionPattern} = require('./patterns/docPattern')
+const {
+    TOCPattern, 
+    descriptionPattern,
+} = require('./patterns/docPattern')
 
 // МОДУЛЬ С ВЫЯСНЕНИЕМ ИНФОРМАЦИИ
 
@@ -313,65 +318,6 @@ testFs()
 
 
 // top level await
-
-// спрашивать путь до папки с проектом DONE
-
-// спрашивать нужно ли добавлять шаблон документации для метода DONE
-// если нужно добавить шаблон для документации
-    // добавить шаблон TOC в doc/api/index.md DONE
-    // добавить шаблон description в doc/api/index.md DONE
-    // реплэйсить название в шаблоне TOC DONE
-    // менять цифры в шаблоне TOC DONE
-    // добавить цифры в шаблоне TOC, если это второй метод (проверять на наличие цифр в строке) DONE
-
-// спрашивать нужно ли создавать файл для юнит-тестов DONE
-
-// преобразовывать название в kebab-case DONE
-// преобразовывать название в PascalCase DONE
-// преобразовывать название в camelCase DONE
-// преобразовывать название в слитное - flatcase DONE
-
-// если нужен корневой метод
-// создать папку с методом DONE
-    // создать файл index.js DONE
-    // создать файл method-schema.js DONE
-    // добавить ссылки на метод в корневой для methods файл index.js DONE
-    // в methods/index.js в название импортируемого класса с большой буквы DONE
-
-// если нужен файл для юнит-тестов
-// добавить файл юнит-тестов DONE
-// добавить ссылку на файл с тестом в корневой для юнит-тестов файл index.js DONE
-
-// если нужно добавить шаблон для автотестов
-// добавить шаблон в payload/default.py
-// добавить добавить шаблон test_amqp/test_smoke.py
-
-// обработка ответов
-// TODO: проверять на длину
-// TODO: проверять на русские буквы
-// TODO: предлагать подтверждение результата
-
-// обработка ошибок
-// TODO: папка с названием ${name} уже существует
-// TODO: файл с названием ${name} уже существует
-
-// декомпозиция
-// TODO: убрать методы utils в отдельный файл
-// TODO: убрать вопросы (answers) в отдельный файл
-
-// документация
-// ввести использование JS Doc
-
-// рефакторинг
-// TODO: вынести логику записи в указанную точку файла в отдельную функцию
-
-// кроссплатформенность
-// TODO: в ubuntu не работает добавление названия класса в экспортируемые классы в methods/index.js
-
-// чего ещё можна
-// спрашивать нужно ли добавлять шаблон для автотестов NOTE
-// можно ещё спрашивать за коллекцию для постмана NOTE
-// спрашивать желаете ли ввести входные/выходные параметры NOTE
 
 // fs.mkdir(path.join(basePath, 'src/lib/methods/test'), err => {
 //     console.log(err)
