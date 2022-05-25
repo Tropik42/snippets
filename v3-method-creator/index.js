@@ -61,23 +61,37 @@ const answers = [];
 // задать вопросик
 function ask({answerText, label}) {
     return new Promise((resolve, reject) => {
-        rl.question(answerText, (answer) => {
-            answers.push(
-                {
-                    answerText: answer,
-                    label,
+        try {
+            rl.question(answerText, (answer) => {
+                if (answer.length < 5) {
+                    throw new Error('Коротковато будет!')
                 }
-            );
-            resolve(answer);
-            console.log("test: ", answer);
-        });
+                answers.push(
+                    {
+                        answerText: answer,
+                        label,
+                    }
+                );
+                resolve(answer);
+                console.error("test: ", answer);
+            });
+        } catch (error) {
+            console.log(error);
+        }
+
     });
 }
 
+// https://habr.com/ru/company/ruvds/blog/431078/
+
 // получить ответы на все вопросики
 async function getAnswers() {
-    for (let answer of answersList) {
-        await ask(answer);
+    try {
+        for (let answer of answersList) {
+            await ask(answer);
+        }
+    } catch (error) {
+        console.error(error);
     }
     rl.close();
     // console.log(answers);
