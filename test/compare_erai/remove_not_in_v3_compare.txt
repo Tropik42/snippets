@@ -1,0 +1,3640 @@
+Данные из таблицы transactions:
+{"eraiId":"00586119-47be-424c-9e4a-e809ed54581b","eraiAmount":"500.00","hallId":1705,"eraiOccurredAt":"2022-05-08 20:52:17+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"499862","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:52:00","hallId":1705}
+ Номер транзакции: 1
+
+Данные из таблицы transactions:
+{"eraiId":"01502f77-2c64-4944-9193-7b1b234d06cb","eraiAmount":"1000.00","hallId":1661,"eraiOccurredAt":"2022-05-07 19:27:56+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469643","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 19:27:00","hallId":1661}
+ Номер транзакции: 2
+
+Данные из таблицы transactions:
+{"eraiId":"0260bd1d-beb4-43f5-81cf-b78333f25f2c","eraiAmount":"3000.00","hallId":1819,"eraiOccurredAt":"2022-05-08 20:55:14+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"497472","bankReport":40,"amount":"3000.00","utcDatetime":"2022-05-08 20:55:00","hallId":1819}
+ Номер транзакции: 3
+
+Данные из таблицы transactions:
+{"eraiId":"02902e9b-f124-472b-b9ea-894927b7eb4e","eraiAmount":"400.00","hallId":1153,"eraiOccurredAt":"2022-05-08 20:47:03+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"491967","bankReport":40,"amount":"400.00","utcDatetime":"2022-05-08 20:46:00","hallId":1153}
+ Номер транзакции: 4
+
+Данные из таблицы transactions:
+{"eraiId":"02dec05b-f28a-4b78-9b32-ba79fa147ac1","eraiAmount":"1500.00","hallId":1610,"eraiOccurredAt":"2022-05-07 20:42:21+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469170","bankReport":38,"amount":"1500.00","utcDatetime":"2022-05-07 20:42:00","hallId":1610}
+ Номер транзакции: 5
+
+Данные из таблицы transactions:
+{"eraiId":"0348ac30-3b84-40b9-9571-8bd78f77e215","eraiAmount":"500.00","hallId":1392,"eraiOccurredAt":"2022-05-07 19:38:36+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"467428","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 19:38:00","hallId":1392}
+ Номер транзакции: 6
+
+Данные из таблицы transactions:
+{"eraiId":"03502af3-7b45-43b2-b385-1400759de3f2","eraiAmount":"2000.00","hallId":1860,"eraiOccurredAt":"2022-05-07 19:10:30+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"472020","bankReport":38,"amount":"2000.00","utcDatetime":"2022-05-07 19:10:00","hallId":1860}
+ Номер транзакции: 7
+
+Данные из таблицы transactions:
+{"eraiId":"0384a498-4173-4f94-b2ee-61616fd808e4","eraiAmount":"700.00","hallId":70,"eraiOccurredAt":"2022-05-08 20:51:07+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"498804","bankReport":40,"amount":"700.00","utcDatetime":"2022-05-08 20:50:00","hallId":70}
+ Номер транзакции: 8
+
+Данные из таблицы transactions:
+{"eraiId":"0393f51e-e1a7-4661-a415-938968df9dc6","eraiAmount":"900.00","hallId":599,"eraiOccurredAt":"2022-05-07 20:32:13+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"473457","bankReport":38,"amount":"900.00","utcDatetime":"2022-05-07 20:32:00","hallId":599}
+ Номер транзакции: 9
+
+Данные из таблицы transactions:
+{"eraiId":"03da9f7f-39a6-4981-ba5c-d34c74731571","eraiAmount":"1000.00","hallId":683,"eraiOccurredAt":"2022-05-07 16:47:52+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463817","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 16:47:00","hallId":683}
+ Номер транзакции: 10
+
+Данные из таблицы transactions:
+{"eraiId":"03fa3ec4-7b0a-4f25-ba93-e5b9c8b86deb","eraiAmount":"1000.00","hallId":1836,"eraiOccurredAt":"2022-05-07 16:19:15+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"472473","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 16:19:00","hallId":1836}
+ Номер транзакции: 11
+
+Данные из таблицы transactions:
+{"eraiId":"041a62be-1c98-467e-9fa4-c8c5f0030b90","eraiAmount":"1000.00","hallId":341,"eraiOccurredAt":"2022-05-07 16:47:19+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463241","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 16:47:00","hallId":341}
+ Номер транзакции: 12
+
+Данные из таблицы transactions:
+{"eraiId":"053b6f98-14d2-44fd-a597-a9224c13299a","eraiAmount":"200.00","hallId":1571,"eraiOccurredAt":"2022-05-07 19:15:04+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"468740","bankReport":38,"amount":"200.00","utcDatetime":"2022-05-07 19:14:00","hallId":1571}
+ Номер транзакции: 13
+
+Данные из таблицы transactions:
+{"eraiId":"05819fe1-4727-4c5b-ac74-292e1073c018","eraiAmount":"15000.00","hallId":1774,"eraiOccurredAt":"2022-05-07 20:20:04+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"474453","bankReport":38,"amount":"15000.00","utcDatetime":"2022-05-07 20:19:00","hallId":1774}
+ Номер транзакции: 14
+
+Данные из таблицы transactions:
+{"eraiId":"05ac51c2-8a24-4d68-a475-b2435f2284e7","eraiAmount":"450.00","hallId":1117,"eraiOccurredAt":"2022-05-08 20:57:58+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"491910","bankReport":40,"amount":"450.00","utcDatetime":"2022-05-08 20:57:00","hallId":1117}
+ Номер транзакции: 15
+
+Данные из таблицы transactions:
+{"eraiId":"069cd986-8a66-41f3-b946-6936fd6673c8","eraiAmount":"2000.00","hallId":861,"eraiOccurredAt":"2022-05-08 20:56:09+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"491054","bankReport":40,"amount":"2000.00","utcDatetime":"2022-05-08 20:56:00","hallId":861}
+ Номер транзакции: 16
+
+Данные из таблицы transactions:
+{"eraiId":"06a30aa6-55bc-489f-8439-e9acf1955766","eraiAmount":"950.00","hallId":508,"eraiOccurredAt":"2022-05-07 20:03:50+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463546","bankReport":38,"amount":"950.00","utcDatetime":"2022-05-07 20:03:00","hallId":508}
+ Номер транзакции: 17
+
+Данные из таблицы transactions:
+{"eraiId":"08e21c8a-59e4-46c9-8d54-2d1f66ec7982","eraiAmount":"500.00","hallId":1699,"eraiOccurredAt":"2022-05-07 20:14:46+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"475791","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 20:14:00","hallId":1699}
+ Номер транзакции: 18
+
+Данные из таблицы transactions:
+{"eraiId":"08e3d943-1277-4e85-882a-45f6b0db1c44","eraiAmount":"3000.00","hallId":1839,"eraiOccurredAt":"2022-05-07 15:37:59+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"475266","bankReport":38,"amount":"3000.00","utcDatetime":"2022-05-07 15:37:00","hallId":1839}
+ Номер транзакции: 19
+
+Данные из таблицы transactions:
+{"eraiId":"090ee9a7-58f7-4eb4-9ef8-886c465b6d2d","eraiAmount":"1000.00","hallId":1950,"eraiOccurredAt":"2022-05-08 20:47:12+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"500176","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:47:00","hallId":1950}
+ Номер транзакции: 20
+
+Данные из таблицы transactions:
+{"eraiId":"096919d7-67cd-4d0f-acac-98259ee6510f","eraiAmount":"1000.00","hallId":683,"eraiOccurredAt":"2022-05-07 16:05:21+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463813","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 16:05:00","hallId":683}
+ Номер транзакции: 21
+
+Данные из таблицы transactions:
+{"eraiId":"099771b8-233e-4ab7-8f35-f3763b7103a9","eraiAmount":"250.00","hallId":683,"eraiOccurredAt":"2022-05-07 17:29:42+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463820","bankReport":38,"amount":"250.00","utcDatetime":"2022-05-07 17:29:00","hallId":683}
+ Номер транзакции: 22
+
+Данные из таблицы transactions:
+{"eraiId":"09a3fea0-7b0a-451a-b023-1342757a83af","eraiAmount":"600.00","hallId":1692,"eraiOccurredAt":"2022-05-08 20:50:54+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"496128","bankReport":40,"amount":"600.00","utcDatetime":"2022-05-08 20:50:00","hallId":1692}
+ Номер транзакции: 23
+
+Данные из таблицы transactions:
+{"eraiId":"09d129a0-0254-4deb-82d1-432928486476","eraiAmount":"1000.00","hallId":1876,"eraiOccurredAt":"2022-05-08 20:46:44+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"499993","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:45:00","hallId":1876}
+ Номер транзакции: 24
+
+Данные из таблицы transactions:
+{"eraiId":"0a38a7f0-60b3-4ad6-9d2d-a6d894a6fd64","eraiAmount":"8000.00","hallId":1368,"eraiOccurredAt":"2022-05-08 20:52:09+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"493579","bankReport":40,"amount":"8000.00","utcDatetime":"2022-05-08 20:52:00","hallId":1368}
+ Номер транзакции: 25
+
+Данные из таблицы transactions:
+{"eraiId":"0a65e5cd-ae96-4b33-bc36-506a9b0437d2","eraiAmount":"500.00","hallId":1664,"eraiOccurredAt":"2022-05-08 20:59:02+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"496204","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:58:00","hallId":1664}
+ Номер транзакции: 26
+
+Данные из таблицы transactions:
+{"eraiId":"0a8b2fca-0058-42ba-91c0-a2acd2d3653f","eraiAmount":"4000.00","hallId":1490,"eraiOccurredAt":"2022-05-08 20:53:36+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"494230","bankReport":40,"amount":"4000.00","utcDatetime":"2022-05-08 20:53:00","hallId":1490}
+ Номер транзакции: 27
+
+Данные из таблицы transactions:
+{"eraiId":"0ad357b6-e244-414b-b39a-184f4c18d645","eraiAmount":"2000.00","hallId":1334,"eraiOccurredAt":"2022-05-08 20:52:13+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"492876","bankReport":40,"amount":"2000.00","utcDatetime":"2022-05-08 20:52:00","hallId":1334}
+ Номер транзакции: 28
+
+Данные из таблицы transactions:
+{"eraiId":"0b2d3f8d-d3d2-43b4-8014-864135a6e95b","eraiAmount":"1000.00","hallId":1839,"eraiOccurredAt":"2022-05-07 16:02:56+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"475267","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 16:02:00","hallId":1839}
+ Номер транзакции: 29
+
+Данные из таблицы transactions:
+{"eraiId":"0b801301-d170-4b73-90e1-d14d8b041f9f","eraiAmount":"300.00","hallId":1610,"eraiOccurredAt":"2022-05-07 20:42:43+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469171","bankReport":38,"amount":"300.00","utcDatetime":"2022-05-07 20:42:00","hallId":1610}
+ Номер транзакции: 30
+
+Данные из таблицы transactions:
+{"eraiId":"0b96ef3f-884e-4651-a862-cc11fef6408e","eraiAmount":"6500.00","hallId":1701,"eraiOccurredAt":"2022-05-08 20:50:56+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"496784","bankReport":40,"amount":"6500.00","utcDatetime":"2022-05-08 20:50:00","hallId":1701}
+ Номер транзакции: 31
+
+Данные из таблицы transactions:
+{"eraiId":"0ba671a6-8d73-4811-be8e-ecfed5ffd0d2","eraiAmount":"300.00","hallId":683,"eraiOccurredAt":"2022-05-07 18:01:04+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463828","bankReport":38,"amount":"300.00","utcDatetime":"2022-05-07 18:01:00","hallId":683}
+ Номер транзакции: 32
+
+Данные из таблицы transactions:
+{"eraiId":"0c0f3d92-13fc-4110-abbe-5a11b355adb5","eraiAmount":"1600.00","hallId":1449,"eraiOccurredAt":"2022-05-07 20:32:09+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"468013","bankReport":38,"amount":"1600.00","utcDatetime":"2022-05-07 20:32:00","hallId":1449}
+ Номер транзакции: 33
+
+Данные из таблицы transactions:
+{"eraiId":"0ca1d936-c50b-41f0-a4bb-0818230c4998","eraiAmount":"1000.00","hallId":1449,"eraiOccurredAt":"2022-05-07 20:14:54+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"468012","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 20:14:00","hallId":1449}
+ Номер транзакции: 34
+
+Данные из таблицы transactions:
+{"eraiId":"0d07a476-965a-422c-ab00-0dcbc838d958","eraiAmount":"5000.00","hallId":119,"eraiOccurredAt":"2022-05-07 20:38:44+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"462640","bankReport":38,"amount":"5000.00","utcDatetime":"2022-05-07 20:38:00","hallId":119}
+ Номер транзакции: 35
+
+Данные из таблицы transactions:
+{"eraiId":"0d32ad25-2645-48eb-b263-3762dca73eba","eraiAmount":"1000.00","hallId":683,"eraiOccurredAt":"2022-05-07 15:09:32+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463806","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 15:09:00","hallId":683}
+ Номер транзакции: 36
+
+Данные из таблицы transactions:
+{"eraiId":"0d91647e-21ec-456d-97f3-16ed133702e3","eraiAmount":"500.00","hallId":1599,"eraiOccurredAt":"2022-05-08 20:46:37+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"495207","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:46:00","hallId":1599}
+ Номер транзакции: 37
+
+Данные из таблицы transactions:
+{"eraiId":"0e735088-7093-4264-b3f4-009c57966e7e","eraiAmount":"1000.00","hallId":1439,"eraiOccurredAt":"2022-05-07 19:25:43+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"473212","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 19:25:00","hallId":1439}
+ Номер транзакции: 38
+
+Данные из таблицы transactions:
+{"eraiId":"0f09024f-7a24-47c6-9863-71f674a28b0f","eraiAmount":"200.00","hallId":1291,"eraiOccurredAt":"2022-05-07 19:02:24+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"466099","bankReport":38,"amount":"200.00","utcDatetime":"2022-05-07 19:02:00","hallId":1291}
+ Номер транзакции: 39
+
+Данные из таблицы transactions:
+{"eraiId":"0f188b09-ff1f-4c0f-8e3e-5ca960ba926d","eraiAmount":"700.00","hallId":1613,"eraiOccurredAt":"2022-05-08 20:55:50+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"495396","bankReport":40,"amount":"700.00","utcDatetime":"2022-05-08 20:55:00","hallId":1613}
+ Номер транзакции: 40
+
+Данные из таблицы transactions:
+{"eraiId":"0f3aa6b3-55fe-46c7-b86c-165b4a264408","eraiAmount":"250.00","hallId":683,"eraiOccurredAt":"2022-05-07 17:48:43+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463826","bankReport":38,"amount":"250.00","utcDatetime":"2022-05-07 17:48:00","hallId":683}
+ Номер транзакции: 41
+
+Данные из таблицы transactions:
+{"eraiId":"0f43b9ad-2a40-448f-a08b-cde60ec8e85a","eraiAmount":"5000.00","hallId":1777,"eraiOccurredAt":"2022-05-07 19:50:09+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"471180","bankReport":38,"amount":"5000.00","utcDatetime":"2022-05-07 19:50:00","hallId":1777}
+ Номер транзакции: 42
+
+Данные из таблицы transactions:
+{"eraiId":"0f6c1dde-c8dd-490c-923f-6570e34c9eb7","eraiAmount":"500.00","hallId":119,"eraiOccurredAt":"2022-05-07 20:41:23+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"462641","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 20:41:00","hallId":119}
+ Номер транзакции: 43
+
+Данные из таблицы transactions:
+{"eraiId":"0f91a73d-f0ac-4daf-8820-c2654237c8b4","eraiAmount":"1000.00","hallId":1876,"eraiOccurredAt":"2022-05-08 20:46:48+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"499993","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:45:00","hallId":1876}
+ Номер транзакции: 44
+
+Данные из таблицы transactions:
+{"eraiId":"11c1854a-bb2f-431e-bd47-a75f73c51d92","eraiAmount":"10000.00","hallId":1669,"eraiOccurredAt":"2022-05-07 14:15:15+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469849","bankReport":38,"amount":"10000.00","utcDatetime":"2022-05-07 14:15:00","hallId":1669}
+ Номер транзакции: 45
+
+Данные из таблицы transactions:
+{"eraiId":"13148021-ed89-4bc9-8d79-0b058f95d9be","eraiAmount":"2000.00","hallId":1610,"eraiOccurredAt":"2022-05-07 17:07:52+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469152","bankReport":38,"amount":"2000.00","utcDatetime":"2022-05-07 17:07:00","hallId":1610}
+ Номер транзакции: 46
+
+Данные из таблицы transactions:
+{"eraiId":"1398df07-1936-4ef4-a483-8bd802623b01","eraiAmount":"2000.00","hallId":1044,"eraiOccurredAt":"2022-05-07 19:25:11+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"473538","bankReport":38,"amount":"2000.00","utcDatetime":"2022-05-07 19:25:00","hallId":1044}
+ Номер транзакции: 47
+
+Данные из таблицы transactions:
+{"eraiId":"13c124ca-c628-4006-9eb6-b04623f61a0c","eraiAmount":"1000.00","hallId":186,"eraiOccurredAt":"2022-05-07 20:38:42+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"462753","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 20:38:00","hallId":186}
+ Номер транзакции: 48
+
+Данные из таблицы transactions:
+{"eraiId":"1481e3c0-1954-4060-a445-b32c5701e7f8","eraiAmount":"500.00","hallId":1380,"eraiOccurredAt":"2022-05-07 19:27:38+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"466688","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 19:27:00","hallId":1380}
+ Номер транзакции: 49
+
+Данные из таблицы transactions:
+{"eraiId":"1499485d-6c81-4aa2-b268-cffb5721c49e","eraiAmount":"300.00","hallId":1359,"eraiOccurredAt":"2022-05-07 20:17:50+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"466461","bankReport":38,"amount":"300.00","utcDatetime":"2022-05-07 20:17:00","hallId":1359}
+ Номер транзакции: 50
+
+Данные из таблицы transactions:
+{"eraiId":"1555a446-407c-4a48-b7ad-4801adb81a41","eraiAmount":"500.00","hallId":1933,"eraiOccurredAt":"2022-05-08 20:51:13+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"500113","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:51:00","hallId":1933}
+ Номер транзакции: 51
+
+Данные из таблицы transactions:
+{"eraiId":"161ad259-e871-4482-bec4-23cd2a25f2bd","eraiAmount":"2000.00","hallId":60,"eraiOccurredAt":"2022-05-07 18:56:59+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"462233","bankReport":38,"amount":"2000.00","utcDatetime":"2022-05-07 18:56:00","hallId":60}
+ Номер транзакции: 52
+
+Данные из таблицы transactions:
+{"eraiId":"16496190-1b24-4136-b73f-7e04db0c8733","eraiAmount":"155.00","hallId":1490,"eraiOccurredAt":"2022-05-08 20:48:48+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"494229","bankReport":40,"amount":"155.00","utcDatetime":"2022-05-08 20:48:00","hallId":1490}
+ Номер транзакции: 53
+
+Данные из таблицы transactions:
+{"eraiId":"16e153dc-4f1c-4690-b344-81c6c7306c0e","eraiAmount":"2000.00","hallId":549,"eraiOccurredAt":"2022-05-08 20:54:10+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"490509","bankReport":40,"amount":"2000.00","utcDatetime":"2022-05-08 20:54:00","hallId":549}
+ Номер транзакции: 54
+
+Данные из таблицы transactions:
+{"eraiId":"174a6086-84f7-47d0-94b6-0a451448c2eb","eraiAmount":"400.00","hallId":1874,"eraiOccurredAt":"2022-05-07 20:05:21+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"475319","bankReport":38,"amount":"400.00","utcDatetime":"2022-05-07 20:05:00","hallId":1874}
+ Номер транзакции: 55
+
+Данные из таблицы transactions:
+{"eraiId":"17ec12ac-5fa6-4d4e-9035-4b36ce053b5f","eraiAmount":"100.00","hallId":1443,"eraiOccurredAt":"2022-05-08 20:55:46+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"499713","bankReport":40,"amount":"100.00","utcDatetime":"2022-05-08 20:55:00","hallId":1443}
+ Номер транзакции: 56
+
+Данные из таблицы transactions:
+{"eraiId":"18446996-25bb-425c-ba4c-e35a3a58c350","eraiAmount":"3800.00","hallId":1227,"eraiOccurredAt":"2022-05-07 19:24:37+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"465561","bankReport":38,"amount":"3800.00","utcDatetime":"2022-05-07 19:24:00","hallId":1227}
+ Номер транзакции: 57
+
+Данные из таблицы transactions:
+{"eraiId":"18d976be-680b-413b-baa6-5e4e8363374e","eraiAmount":"3000.00","hallId":1610,"eraiOccurredAt":"2022-05-07 17:49:31+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469154","bankReport":38,"amount":"3000.00","utcDatetime":"2022-05-07 17:49:00","hallId":1610}
+ Номер транзакции: 58
+
+Данные из таблицы transactions:
+{"eraiId":"19272f1a-23eb-495f-b43b-04cb9c92dccc","eraiAmount":"700.00","hallId":1836,"eraiOccurredAt":"2022-05-07 18:59:32+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"472478","bankReport":38,"amount":"700.00","utcDatetime":"2022-05-07 18:59:00","hallId":1836}
+ Номер транзакции: 59
+
+Данные из таблицы transactions:
+{"eraiId":"192f39e5-191d-4a34-b251-7309f6ebb3a2","eraiAmount":"500.00","hallId":1359,"eraiOccurredAt":"2022-05-07 19:47:24+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"466459","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 19:47:00","hallId":1359}
+ Номер транзакции: 60
+
+Данные из таблицы transactions:
+{"eraiId":"19e57ac6-f228-4327-be85-8cf2618143b2","eraiAmount":"1000.00","hallId":1874,"eraiOccurredAt":"2022-05-07 19:28:30+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"475317","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 19:28:00","hallId":1874}
+ Номер транзакции: 61
+
+Данные из таблицы transactions:
+{"eraiId":"1a8a54dc-fc33-4e48-ac31-1aa8edfc116e","eraiAmount":"100.00","hallId":1240,"eraiOccurredAt":"2022-05-07 19:30:17+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"465945","bankReport":38,"amount":"100.00","utcDatetime":"2022-05-07 19:30:00","hallId":1240}
+ Номер транзакции: 62
+
+Данные из таблицы transactions:
+{"eraiId":"1b72402c-9c7c-4057-9b66-f2ba2509abde","eraiAmount":"500.00","hallId":119,"eraiOccurredAt":"2022-05-07 20:18:56+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"462636","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 20:19:00","hallId":119}
+ Номер транзакции: 63
+
+Данные из таблицы transactions:
+{"eraiId":"1bfd6f26-c79f-4103-ba20-dedbdb195ba8","eraiAmount":"100.00","hallId":599,"eraiOccurredAt":"2022-05-07 19:10:23+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"473447","bankReport":38,"amount":"100.00","utcDatetime":"2022-05-07 19:09:00","hallId":599}
+ Номер транзакции: 64
+
+Данные из таблицы transactions:
+{"eraiId":"1c24db02-4aec-49d9-9f16-11c552d41159","eraiAmount":"200.00","hallId":1662,"eraiOccurredAt":"2022-05-07 20:10:37+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"475597","bankReport":38,"amount":"200.00","utcDatetime":"2022-05-07 20:10:00","hallId":1662}
+ Номер транзакции: 65
+
+Данные из таблицы transactions:
+{"eraiId":"1c2b1838-f6d2-44b7-992b-332d80014708","eraiAmount":"3000.00","hallId":1826,"eraiOccurredAt":"2022-05-08 20:59:19+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"497549","bankReport":40,"amount":"3000.00","utcDatetime":"2022-05-08 20:59:00","hallId":1826}
+ Номер транзакции: 66
+
+Данные из таблицы transactions:
+{"eraiId":"1c3d08b4-f31a-4351-ae93-87772dc8f779","eraiAmount":"500.00","hallId":1449,"eraiOccurredAt":"2022-05-07 19:21:04+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"468010","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 19:20:00","hallId":1449}
+ Номер транзакции: 67
+
+Данные из таблицы transactions:
+{"eraiId":"1dc6005c-fb5c-47af-88c7-e7ad95909ffa","eraiAmount":"150.00","hallId":1443,"eraiOccurredAt":"2022-05-08 20:55:30+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"499712","bankReport":40,"amount":"150.00","utcDatetime":"2022-05-08 20:55:00","hallId":1443}
+ Номер транзакции: 68
+
+Данные из таблицы transactions:
+{"eraiId":"1e7e6f61-8e0e-40e7-826a-621951140239","eraiAmount":"6000.00","hallId":1118,"eraiOccurredAt":"2022-05-08 20:49:36+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"501022","bankReport":40,"amount":"6000.00","utcDatetime":"2022-05-08 20:49:00","hallId":1118}
+ Номер транзакции: 69
+
+Данные из таблицы transactions:
+{"eraiId":"1eb1476e-b3f4-4b1a-97c4-878abe912584","eraiAmount":"1000.00","hallId":106,"eraiOccurredAt":"2022-05-08 20:59:29+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"489546","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:59:00","hallId":106}
+ Номер транзакции: 70
+
+Данные из таблицы transactions:
+{"eraiId":"1ed88276-73bb-4d35-868b-232bb455aa45","eraiAmount":"1000.00","hallId":683,"eraiOccurredAt":"2022-05-07 16:44:33+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463816","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 16:44:00","hallId":683}
+ Номер транзакции: 71
+
+Данные из таблицы transactions:
+{"eraiId":"1f39d8a0-9e74-486a-a778-6c18afb5b1db","eraiAmount":"1000.00","hallId":1380,"eraiOccurredAt":"2022-05-07 19:55:39+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"466690","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 19:55:00","hallId":1380}
+ Номер транзакции: 72
+
+Данные из таблицы transactions:
+{"eraiId":"1f42a51e-2e72-4483-b761-c26dd1729c65","eraiAmount":"1000.00","hallId":1610,"eraiOccurredAt":"2022-05-07 20:15:52+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469163","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 20:14:00","hallId":1610}
+ Номер транзакции: 73
+
+Данные из таблицы transactions:
+{"eraiId":"1f4a086a-4de5-4998-a2c8-c96156664508","eraiAmount":"15000.00","hallId":1947,"eraiOccurredAt":"2022-05-08 20:48:53+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"500334","bankReport":40,"amount":"15000.00","utcDatetime":"2022-05-08 20:48:00","hallId":1947}
+ Номер транзакции: 74
+
+Данные из таблицы transactions:
+{"eraiId":"2016d950-78f9-4574-a659-ea973fa34138","eraiAmount":"1000.00","hallId":1529,"eraiOccurredAt":"2022-05-07 19:17:39+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"468436","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 19:17:00","hallId":1529}
+ Номер транзакции: 75
+
+Данные из таблицы transactions:
+{"eraiId":"20ad34ee-5763-41f4-ba7e-53969db858f6","eraiAmount":"270.00","hallId":1660,"eraiOccurredAt":"2022-05-08 20:45:47+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"495793","bankReport":40,"amount":"270.00","utcDatetime":"2022-05-08 20:45:00","hallId":1660}
+ Номер транзакции: 76
+
+Данные из таблицы transactions:
+{"eraiId":"22005144-0855-4aa7-8da3-0c7ba3bfca22","eraiAmount":"2000.00","hallId":1338,"eraiOccurredAt":"2022-05-08 20:54:18+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"493298","bankReport":40,"amount":"2000.00","utcDatetime":"2022-05-08 20:54:00","hallId":1338}
+ Номер транзакции: 77
+
+Данные из таблицы transactions:
+{"eraiId":"2217666b-171c-480d-b677-ac62af996ee6","eraiAmount":"700.00","hallId":599,"eraiOccurredAt":"2022-05-07 19:56:41+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"473453","bankReport":38,"amount":"700.00","utcDatetime":"2022-05-07 19:56:00","hallId":599}
+ Номер транзакции: 78
+
+Данные из таблицы transactions:
+{"eraiId":"23fefbc9-cf5a-4683-aa96-39a5cd620644","eraiAmount":"100.00","hallId":1669,"eraiOccurredAt":"2022-05-07 16:26:32+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469871","bankReport":38,"amount":"100.00","utcDatetime":"2022-05-07 16:26:00","hallId":1669}
+ Номер транзакции: 79
+
+Данные из таблицы transactions:
+{"eraiId":"24d6a785-6c35-4c6f-8688-8107b6ba5aa4","eraiAmount":"500.00","hallId":1840,"eraiOccurredAt":"2022-05-07 19:00:46+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"473361","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 19:00:00","hallId":1840}
+ Номер транзакции: 80
+
+Данные из таблицы transactions:
+{"eraiId":"2575e909-f8e2-4e40-b379-8828370c879a","eraiAmount":"1000.00","hallId":1302,"eraiOccurredAt":"2022-05-08 20:58:05+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"492816","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:58:00","hallId":1302}
+ Номер транзакции: 81
+
+Данные из таблицы transactions:
+{"eraiId":"25cd14b6-75a5-4c8b-bf36-61dcc70b1a93","eraiAmount":"500.00","hallId":1364,"eraiOccurredAt":"2022-05-08 20:55:01+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"499913","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:54:00","hallId":1364}
+ Номер транзакции: 82
+
+Данные из таблицы transactions:
+{"eraiId":"26a81a90-3caa-461e-b4cd-61ba08fdd521","eraiAmount":"250.00","hallId":1582,"eraiOccurredAt":"2022-05-08 20:52:44+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"495001","bankReport":40,"amount":"250.00","utcDatetime":"2022-05-08 20:52:00","hallId":1582}
+ Номер транзакции: 83
+
+Данные из таблицы transactions:
+{"eraiId":"2720415e-a5a7-4ac9-8845-1dd034cae970","eraiAmount":"500.00","hallId":1669,"eraiOccurredAt":"2022-05-07 14:29:28+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469853","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 14:29:00","hallId":1669}
+ Номер транзакции: 84
+
+Данные из таблицы transactions:
+{"eraiId":"28027b67-8164-4f23-ac9d-abd5d6630a8a","eraiAmount":"2000.00","hallId":1383,"eraiOccurredAt":"2022-05-07 20:34:28+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"466923","bankReport":38,"amount":"2000.00","utcDatetime":"2022-05-07 20:34:00","hallId":1383}
+ Номер транзакции: 85
+
+Данные из таблицы transactions:
+{"eraiId":"283c5b3b-a18a-4c2e-a171-c4ba03453765","eraiAmount":"1000.00","hallId":683,"eraiOccurredAt":"2022-05-07 18:43:57+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463832","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 18:43:00","hallId":683}
+ Номер транзакции: 86
+
+Данные из таблицы transactions:
+{"eraiId":"28870a23-fbdd-4331-bb4e-e38fbbb71d0f","eraiAmount":"1000.00","hallId":1460,"eraiOccurredAt":"2022-05-08 20:51:55+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"500692","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:51:00","hallId":1460}
+ Номер транзакции: 87
+
+Данные из таблицы transactions:
+{"eraiId":"28da8921-611b-4381-9495-f7fe836e49bc","eraiAmount":"5000.00","hallId":1826,"eraiOccurredAt":"2022-05-08 20:51:26+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"497547","bankReport":40,"amount":"5000.00","utcDatetime":"2022-05-08 20:51:00","hallId":1826}
+ Номер транзакции: 88
+
+Данные из таблицы transactions:
+{"eraiId":"296d2f20-a026-47a5-a2f9-136e4a088f0a","eraiAmount":"1000.00","hallId":1777,"eraiOccurredAt":"2022-05-07 19:17:20+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"471175","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 19:17:00","hallId":1777}
+ Номер транзакции: 89
+
+Данные из таблицы transactions:
+{"eraiId":"2a42fddf-1b1d-4590-a2e4-17036fb47329","eraiAmount":"15000.00","hallId":1610,"eraiOccurredAt":"2022-05-07 18:31:04+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469158","bankReport":38,"amount":"15000.00","utcDatetime":"2022-05-07 18:30:00","hallId":1610}
+ Номер транзакции: 90
+
+Данные из таблицы transactions:
+{"eraiId":"2a5b9826-3ec8-4e31-8a69-bd9b317fe4d5","eraiAmount":"3000.00","hallId":60,"eraiOccurredAt":"2022-05-07 15:36:39+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"462230","bankReport":38,"amount":"3000.00","utcDatetime":"2022-05-07 15:36:00","hallId":60}
+ Номер транзакции: 91
+
+Данные из таблицы transactions:
+{"eraiId":"2b074c61-5e6f-43ed-8ad2-b0d5017574d0","eraiAmount":"49000.00","hallId":1291,"eraiOccurredAt":"2022-05-07 19:58:56+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"466101","bankReport":38,"amount":"49000.00","utcDatetime":"2022-05-07 19:58:00","hallId":1291}
+ Номер транзакции: 92
+
+Данные из таблицы transactions:
+{"eraiId":"2b2fc4a7-5352-4016-b5bc-21e4cccbc39e","eraiAmount":"500.00","hallId":1380,"eraiOccurredAt":"2022-05-07 19:54:54+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"466689","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 19:54:00","hallId":1380}
+ Номер транзакции: 93
+
+Данные из таблицы transactions:
+{"eraiId":"2bacc180-b8f1-4832-bf98-0127dce69482","eraiAmount":"3000.00","hallId":1516,"eraiOccurredAt":"2022-05-07 20:35:27+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"468329","bankReport":38,"amount":"3000.00","utcDatetime":"2022-05-07 20:35:00","hallId":1516}
+ Номер транзакции: 94
+
+Данные из таблицы transactions:
+{"eraiId":"2c425a60-e4d4-4c73-b9f6-794b9672cc42","eraiAmount":"2000.00","hallId":60,"eraiOccurredAt":"2022-05-07 15:50:03+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"462231","bankReport":38,"amount":"2000.00","utcDatetime":"2022-05-07 15:49:00","hallId":60}
+ Номер транзакции: 95
+
+Данные из таблицы transactions:
+{"eraiId":"2c524dc0-904f-4864-973f-4fe183c2b9c8","eraiAmount":"1100.00","hallId":1669,"eraiOccurredAt":"2022-05-07 16:20:04+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469868","bankReport":38,"amount":"1100.00","utcDatetime":"2022-05-07 16:20:00","hallId":1669}
+ Номер транзакции: 96
+
+Данные из таблицы transactions:
+{"eraiId":"2d3e9203-027a-4305-b57f-20eecd34f601","eraiAmount":"500.00","hallId":1108,"eraiOccurredAt":"2022-05-08 20:50:58+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"491867","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:50:00","hallId":1108}
+ Номер транзакции: 97
+
+Данные из таблицы transactions:
+{"eraiId":"2de94bf3-f90f-4a69-a647-dceba61e8954","eraiAmount":"10000.00","hallId":1610,"eraiOccurredAt":"2022-05-07 18:02:47+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469155","bankReport":38,"amount":"10000.00","utcDatetime":"2022-05-07 18:01:00","hallId":1610}
+ Номер транзакции: 98
+
+Данные из таблицы transactions:
+{"eraiId":"2e69db59-22de-4b3c-89d2-0ea9376c0ac8","eraiAmount":"1000.00","hallId":884,"eraiOccurredAt":"2022-05-08 20:45:20+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"491083","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:45:00","hallId":884}
+ Номер транзакции: 99
+
+Данные из таблицы transactions:
+{"eraiId":"2f492717-4b88-413e-985c-0e7bfe43a75f","eraiAmount":"1000.00","hallId":683,"eraiOccurredAt":"2022-05-07 19:49:48+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463839","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 19:49:00","hallId":683}
+ Номер транзакции: 100
+
+Данные из таблицы transactions:
+{"eraiId":"2f564062-26ab-4f65-982c-ed7c6b76cc2a","eraiAmount":"1000.00","hallId":1334,"eraiOccurredAt":"2022-05-08 20:55:56+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"492877","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:55:00","hallId":1334}
+ Номер транзакции: 101
+
+Данные из таблицы transactions:
+{"eraiId":"3219653c-d622-4dcb-aae4-9363a94e7fb0","eraiAmount":"1500.00","hallId":643,"eraiOccurredAt":"2022-05-07 20:02:53+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"464552","bankReport":38,"amount":"1500.00","utcDatetime":"2022-05-07 20:02:00","hallId":643}
+ Номер транзакции: 102
+
+Данные из таблицы transactions:
+{"eraiId":"32dee277-01a6-4535-8dff-aa856e6a0409","eraiAmount":"300.00","hallId":1529,"eraiOccurredAt":"2022-05-07 19:34:42+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"468437","bankReport":38,"amount":"300.00","utcDatetime":"2022-05-07 19:34:00","hallId":1529}
+ Номер транзакции: 103
+
+Данные из таблицы transactions:
+{"eraiId":"33ae86d6-b125-4120-bd3a-a58e479b10f8","eraiAmount":"100.00","hallId":1707,"eraiOccurredAt":"2022-05-07 19:21:52+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"470335","bankReport":38,"amount":"100.00","utcDatetime":"2022-05-07 19:21:00","hallId":1707}
+ Номер транзакции: 104
+
+Данные из таблицы transactions:
+{"eraiId":"3467f4a3-7463-4752-84c1-4f809ba1eeb1","eraiAmount":"1000.00","hallId":501,"eraiOccurredAt":"2022-05-07 20:08:11+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463521","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 20:07:00","hallId":501}
+ Номер транзакции: 105
+
+Данные из таблицы transactions:
+{"eraiId":"350f34c1-1641-4113-9b10-b783cf1a3cfb","eraiAmount":"100.00","hallId":1629,"eraiOccurredAt":"2022-05-07 19:17:17+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469273","bankReport":38,"amount":"100.00","utcDatetime":"2022-05-07 19:17:00","hallId":1629}
+ Номер транзакции: 106
+
+Данные из таблицы transactions:
+{"eraiId":"35916a69-c5b5-46f7-8c00-a1eddf73b6e0","eraiAmount":"700.00","hallId":1391,"eraiOccurredAt":"2022-05-07 19:42:51+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"467373","bankReport":38,"amount":"700.00","utcDatetime":"2022-05-07 19:42:00","hallId":1391}
+ Номер транзакции: 107
+
+Данные из таблицы transactions:
+{"eraiId":"35e46217-5bb8-4c0d-9345-9ea6b7ad36a1","eraiAmount":"300.00","hallId":777,"eraiOccurredAt":"2022-05-07 19:15:22+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"473297","bankReport":38,"amount":"300.00","utcDatetime":"2022-05-07 19:15:00","hallId":777}
+ Номер транзакции: 108
+
+Данные из таблицы transactions:
+{"eraiId":"36c3b0fd-0ba6-42c6-9321-8d5471c0dfbb","eraiAmount":"5000.00","hallId":1669,"eraiOccurredAt":"2022-05-07 16:33:15+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469872","bankReport":38,"amount":"5000.00","utcDatetime":"2022-05-07 16:33:00","hallId":1669}
+ Номер транзакции: 109
+
+Данные из таблицы transactions:
+{"eraiId":"37efae5f-58ec-4cd3-8b20-de7bcd170f85","eraiAmount":"1000.00","hallId":549,"eraiOccurredAt":"2022-05-08 20:45:16+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"490507","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:45:00","hallId":549}
+ Номер транзакции: 110
+
+Данные из таблицы transactions:
+{"eraiId":"3845d4bb-8d60-46cf-9064-a909d9f73634","eraiAmount":"2000.00","hallId":1669,"eraiOccurredAt":"2022-05-07 14:07:29+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469846","bankReport":38,"amount":"2000.00","utcDatetime":"2022-05-07 14:07:00","hallId":1669}
+ Номер транзакции: 111
+
+Данные из таблицы transactions:
+{"eraiId":"38488787-f1d2-4b53-a203-f0f5b118fdc1","eraiAmount":"1000.00","hallId":599,"eraiOccurredAt":"2022-05-07 20:26:16+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"473456","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 20:26:00","hallId":599}
+ Номер транзакции: 112
+
+Данные из таблицы transactions:
+{"eraiId":"38f7d09b-e417-4848-9e19-df29834282eb","eraiAmount":"3000.00","hallId":1610,"eraiOccurredAt":"2022-05-07 20:24:25+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469168","bankReport":38,"amount":"3000.00","utcDatetime":"2022-05-07 20:24:00","hallId":1610}
+ Номер транзакции: 113
+
+Данные из таблицы transactions:
+{"eraiId":"3928554e-6598-4288-b791-52f0d6de1a31","eraiAmount":"1000.00","hallId":1846,"eraiOccurredAt":"2022-05-07 17:25:02+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"475721","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 17:24:00","hallId":1846}
+ Номер транзакции: 114
+
+Данные из таблицы transactions:
+{"eraiId":"396eb1a7-e4fe-4abb-a70f-079c8aba4337","eraiAmount":"5000.00","hallId":1239,"eraiOccurredAt":"2022-05-08 20:53:19+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"492613","bankReport":40,"amount":"5000.00","utcDatetime":"2022-05-08 20:53:00","hallId":1239}
+ Номер транзакции: 115
+
+Данные из таблицы transactions:
+{"eraiId":"39721777-d60d-4ce2-bc32-30e5d0c05858","eraiAmount":"800.00","hallId":1857,"eraiOccurredAt":"2022-05-07 20:29:08+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"471985","bankReport":38,"amount":"800.00","utcDatetime":"2022-05-07 20:29:00","hallId":1857}
+ Номер транзакции: 116
+
+Данные из таблицы transactions:
+{"eraiId":"39f34f14-c93c-46c6-b901-191a29f94806","eraiAmount":"20000.00","hallId":1852,"eraiOccurredAt":"2022-05-07 19:46:26+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"474291","bankReport":38,"amount":"20000.00","utcDatetime":"2022-05-07 19:46:00","hallId":1852}
+ Номер транзакции: 117
+
+Данные из таблицы transactions:
+{"eraiId":"39feea9c-eace-4536-a1a9-98fbcc2f13ee","eraiAmount":"1000.00","hallId":1938,"eraiOccurredAt":"2022-05-08 20:45:42+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"500932","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:45:00","hallId":1938}
+ Номер транзакции: 118
+
+Данные из таблицы transactions:
+{"eraiId":"3a33eba2-ef63-482e-82b3-45ea0c5dc3ee","eraiAmount":"1500.00","hallId":1588,"eraiOccurredAt":"2022-05-07 19:41:18+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"468892","bankReport":38,"amount":"1500.00","utcDatetime":"2022-05-07 19:41:00","hallId":1588}
+ Номер транзакции: 119
+
+Данные из таблицы transactions:
+{"eraiId":"3a926015-b3a3-4ef4-ace0-53ec6f9ae05a","eraiAmount":"1000.00","hallId":1878,"eraiOccurredAt":"2022-05-08 20:45:18+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"497991","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:45:00","hallId":1878}
+ Номер транзакции: 120
+
+Данные из таблицы transactions:
+{"eraiId":"3b86876c-dbe6-4497-86d9-34519d9aaf9b","eraiAmount":"5000.00","hallId":1661,"eraiOccurredAt":"2022-05-07 19:38:30+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469644","bankReport":38,"amount":"5000.00","utcDatetime":"2022-05-07 19:38:00","hallId":1661}
+ Номер транзакции: 121
+
+Данные из таблицы transactions:
+{"eraiId":"3b8b244a-ce92-4861-994a-ac04c55d121c","eraiAmount":"500.00","hallId":1302,"eraiOccurredAt":"2022-05-08 20:58:22+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"492817","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:58:00","hallId":1302}
+ Номер транзакции: 122
+
+Данные из таблицы transactions:
+{"eraiId":"3bcbb62d-5c2a-49ca-852a-eb51d105a6bf","eraiAmount":"500.00","hallId":453,"eraiOccurredAt":"2022-05-08 20:54:15+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"490404","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:54:00","hallId":453}
+ Номер транзакции: 123
+
+Данные из таблицы transactions:
+{"eraiId":"3c057d0b-1faa-4b5a-8b49-687047e00826","eraiAmount":"2000.00","hallId":1610,"eraiOccurredAt":"2022-05-07 20:12:09+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469162","bankReport":38,"amount":"2000.00","utcDatetime":"2022-05-07 20:12:00","hallId":1610}
+ Номер транзакции: 124
+
+Данные из таблицы transactions:
+{"eraiId":"3d37800a-c381-44c2-a7e2-7de51ec420f2","eraiAmount":"1000.00","hallId":1532,"eraiOccurredAt":"2022-05-07 20:31:44+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"468454","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 20:31:00","hallId":1532}
+ Номер транзакции: 125
+
+Данные из таблицы transactions:
+{"eraiId":"3d39661d-0744-420b-9d5c-a647888c1bf8","eraiAmount":"5000.00","hallId":99,"eraiOccurredAt":"2022-05-08 20:54:49+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"489429","bankReport":40,"amount":"5000.00","utcDatetime":"2022-05-08 20:54:00","hallId":99}
+ Номер транзакции: 126
+
+Данные из таблицы transactions:
+{"eraiId":"3dfa9198-13fa-4848-afd6-48ffcf168573","eraiAmount":"1000.00","hallId":1076,"eraiOccurredAt":"2022-05-08 20:56:16+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"491827","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:56:00","hallId":1076}
+ Номер транзакции: 127
+
+Данные из таблицы transactions:
+{"eraiId":"3ed0cc38-c8b6-44fd-a517-a7f16aa8866c","eraiAmount":"100.00","hallId":124,"eraiOccurredAt":"2022-05-07 15:19:27+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"462686","bankReport":38,"amount":"100.00","utcDatetime":"2022-05-07 15:19:00","hallId":124}
+ Номер транзакции: 128
+
+Данные из таблицы transactions:
+{"eraiId":"3efcce4e-754e-4225-8dd4-01045356039a","eraiAmount":"5000.00","hallId":1777,"eraiOccurredAt":"2022-05-07 20:37:17+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"471183","bankReport":38,"amount":"5000.00","utcDatetime":"2022-05-07 20:37:00","hallId":1777}
+ Номер транзакции: 129
+
+Данные из таблицы transactions:
+{"eraiId":"3f02d5e2-dc4c-404d-9aad-a350d13f8b42","eraiAmount":"100.00","hallId":1949,"eraiOccurredAt":"2022-05-07 20:07:16+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"474594","bankReport":38,"amount":"100.00","utcDatetime":"2022-05-07 20:07:00","hallId":1949}
+ Номер транзакции: 130
+
+Данные из таблицы transactions:
+{"eraiId":"3f9cf15d-4ccb-435e-b862-efd99bfab8d0","eraiAmount":"2000.00","hallId":212,"eraiOccurredAt":"2022-05-08 20:57:59+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"489772","bankReport":40,"amount":"2000.00","utcDatetime":"2022-05-08 20:57:00","hallId":212}
+ Номер транзакции: 131
+
+Данные из таблицы transactions:
+{"eraiId":"3ffdf67a-8892-411e-ac13-fc6b33461823","eraiAmount":"100.00","hallId":1707,"eraiOccurredAt":"2022-05-07 19:21:18+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"470335","bankReport":38,"amount":"100.00","utcDatetime":"2022-05-07 19:21:00","hallId":1707}
+ Номер транзакции: 132
+
+Данные из таблицы transactions:
+{"eraiId":"401fdf33-e35c-48b9-a3da-ea51c5f633c3","eraiAmount":"10000.00","hallId":501,"eraiOccurredAt":"2022-05-07 20:19:12+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463522","bankReport":38,"amount":"10000.00","utcDatetime":"2022-05-07 20:19:00","hallId":501}
+ Номер транзакции: 133
+
+Данные из таблицы transactions:
+{"eraiId":"4043236d-0357-4991-8552-e892a27f6746","eraiAmount":"3000.00","hallId":60,"eraiOccurredAt":"2022-05-07 15:29:46+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"462229","bankReport":38,"amount":"3000.00","utcDatetime":"2022-05-07 15:29:00","hallId":60}
+ Номер транзакции: 134
+
+Данные из таблицы transactions:
+{"eraiId":"409ad5e2-4d14-493b-b5fc-1ba8a27d1272","eraiAmount":"1000.00","hallId":1610,"eraiOccurredAt":"2022-05-07 18:30:10+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469157","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 18:29:00","hallId":1610}
+ Номер транзакции: 135
+
+Данные из таблицы transactions:
+{"eraiId":"41a5b82e-655a-4a32-8db2-3e582d0d81c7","eraiAmount":"500.00","hallId":1837,"eraiOccurredAt":"2022-05-08 20:49:20+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"498198","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:48:00","hallId":1837}
+ Номер транзакции: 136
+
+Данные из таблицы transactions:
+{"eraiId":"41aaebdc-1592-44a5-8a5f-240169be3e27","eraiAmount":"3000.00","hallId":1490,"eraiOccurredAt":"2022-05-08 20:48:17+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"494228","bankReport":40,"amount":"3000.00","utcDatetime":"2022-05-08 20:48:00","hallId":1490}
+ Номер транзакции: 137
+
+Данные из таблицы transactions:
+{"eraiId":"42989720-6509-4bad-809f-7a4ed107b326","eraiAmount":"10000.00","hallId":1647,"eraiOccurredAt":"2022-05-08 20:46:21+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"495638","bankReport":40,"amount":"10000.00","utcDatetime":"2022-05-08 20:46:00","hallId":1647}
+ Номер транзакции: 138
+
+Данные из таблицы transactions:
+{"eraiId":"42bfd577-4e10-4180-b808-875f72d53895","eraiAmount":"1000.00","hallId":1700,"eraiOccurredAt":"2022-05-08 20:55:05+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"496910","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:55:00","hallId":1700}
+ Номер транзакции: 139
+
+Данные из таблицы transactions:
+{"eraiId":"4309cafc-5bd2-4d93-bee2-b682483b7371","eraiAmount":"250.00","hallId":99,"eraiOccurredAt":"2022-05-08 20:55:35+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"489430","bankReport":40,"amount":"250.00","utcDatetime":"2022-05-08 20:55:00","hallId":99}
+ Номер транзакции: 140
+
+Данные из таблицы transactions:
+{"eraiId":"43c58fc4-b46f-497e-8695-589b83bfe5b7","eraiAmount":"1000.00","hallId":508,"eraiOccurredAt":"2022-05-07 19:59:26+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463545","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 19:59:00","hallId":508}
+ Номер транзакции: 141
+
+Данные из таблицы transactions:
+{"eraiId":"446a2e51-eb27-4155-b4ad-ea9fe6f23d0f","eraiAmount":"25000.00","hallId":1610,"eraiOccurredAt":"2022-05-07 18:45:50+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469161","bankReport":38,"amount":"25000.00","utcDatetime":"2022-05-07 18:45:00","hallId":1610}
+ Номер транзакции: 142
+
+Данные из таблицы transactions:
+{"eraiId":"465d9b44-99ad-4c96-8136-421d24e818b7","eraiAmount":"1000.00","hallId":345,"eraiOccurredAt":"2022-05-07 16:15:36+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463327","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 16:15:00","hallId":345}
+ Номер транзакции: 143
+
+Данные из таблицы transactions:
+{"eraiId":"4670195a-6c3f-49d9-bc9b-c948c8851df3","eraiAmount":"200.00","hallId":1408,"eraiOccurredAt":"2022-05-08 20:53:51+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"493872","bankReport":40,"amount":"200.00","utcDatetime":"2022-05-08 20:53:00","hallId":1408}
+ Номер транзакции: 144
+
+Данные из таблицы transactions:
+{"eraiId":"4725fadb-a5cb-42e7-addd-c3dd84ef715d","eraiAmount":"2000.00","hallId":1392,"eraiOccurredAt":"2022-05-07 20:43:41+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"467431","bankReport":38,"amount":"2000.00","utcDatetime":"2022-05-07 20:43:00","hallId":1392}
+ Номер транзакции: 145
+
+Данные из таблицы transactions:
+{"eraiId":"47e6fea9-2882-450d-8c9e-82c9b3380207","eraiAmount":"200.00","hallId":1571,"eraiOccurredAt":"2022-05-07 19:07:23+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"468739","bankReport":38,"amount":"200.00","utcDatetime":"2022-05-07 19:07:00","hallId":1571}
+ Номер транзакции: 146
+
+Данные из таблицы transactions:
+{"eraiId":"48c81586-8c30-4411-a700-5630c6c6d760","eraiAmount":"500.00","hallId":1383,"eraiOccurredAt":"2022-05-07 20:30:58+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"466922","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 20:30:00","hallId":1383}
+ Номер транзакции: 147
+
+Данные из таблицы transactions:
+{"eraiId":"48d048bd-79c1-45a0-acb3-b98ef0db8787","eraiAmount":"150.00","hallId":599,"eraiOccurredAt":"2022-05-07 19:57:12+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"473454","bankReport":38,"amount":"150.00","utcDatetime":"2022-05-07 19:57:00","hallId":599}
+ Номер транзакции: 148
+
+Данные из таблицы transactions:
+{"eraiId":"4a57966b-a3d5-4bb7-94c7-951ffbbab63e","eraiAmount":"1000.00","hallId":124,"eraiOccurredAt":"2022-05-07 15:18:59+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"462685","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 15:18:00","hallId":124}
+ Номер транзакции: 149
+
+Данные из таблицы transactions:
+{"eraiId":"4a9dbb5f-cf72-476e-9632-6b57f68d7a74","eraiAmount":"300.00","hallId":1859,"eraiOccurredAt":"2022-05-07 19:45:44+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"472873","bankReport":38,"amount":"300.00","utcDatetime":"2022-05-07 19:45:00","hallId":1859}
+ Номер транзакции: 150
+
+Данные из таблицы transactions:
+{"eraiId":"4abd2f7c-8de5-43f2-b0de-f7c02fb62a73","eraiAmount":"500.00","hallId":1035,"eraiOccurredAt":"2022-05-08 20:52:09+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"491643","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:51:00","hallId":1035}
+ Номер транзакции: 151
+
+Данные из таблицы transactions:
+{"eraiId":"4ac3a084-0587-4afe-9e1c-955362756c31","eraiAmount":"1000.00","hallId":1610,"eraiOccurredAt":"2022-05-07 18:37:44+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469159","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 18:37:00","hallId":1610}
+ Номер транзакции: 152
+
+Данные из таблицы transactions:
+{"eraiId":"4b4d76e8-0234-4007-9485-7f8668b3da9f","eraiAmount":"2000.00","hallId":1460,"eraiOccurredAt":"2022-05-08 20:48:15+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"500691","bankReport":40,"amount":"2000.00","utcDatetime":"2022-05-08 20:48:00","hallId":1460}
+ Номер транзакции: 153
+
+Данные из таблицы transactions:
+{"eraiId":"4b8060bc-a970-4d34-aed4-3e441fdee23c","eraiAmount":"1000.00","hallId":1839,"eraiOccurredAt":"2022-05-07 19:00:16+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"475270","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 19:00:00","hallId":1839}
+ Номер транзакции: 154
+
+Данные из таблицы transactions:
+{"eraiId":"4bf0644d-a3b0-4c2e-9250-d8c14f9105a0","eraiAmount":"1000.00","hallId":1894,"eraiOccurredAt":"2022-05-07 19:07:15+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"475223","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 19:07:00","hallId":1894}
+ Номер транзакции: 155
+
+Данные из таблицы transactions:
+{"eraiId":"4cce039e-2325-4827-9f99-bb6f6f334bc5","eraiAmount":"1300.00","hallId":1840,"eraiOccurredAt":"2022-05-07 13:23:44+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"473357","bankReport":38,"amount":"1300.00","utcDatetime":"2022-05-07 13:23:00","hallId":1840}
+ Номер транзакции: 156
+
+Данные из таблицы transactions:
+{"eraiId":"4d76e0ba-22d5-470b-abb0-5f6ea68ead05","eraiAmount":"250.00","hallId":1184,"eraiOccurredAt":"2022-05-07 20:10:55+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"465385","bankReport":38,"amount":"250.00","utcDatetime":"2022-05-07 20:10:00","hallId":1184}
+ Номер транзакции: 157
+
+Данные из таблицы transactions:
+{"eraiId":"4e2c3536-29b1-41f0-a96a-e2f6043eb3aa","eraiAmount":"1000.00","hallId":1388,"eraiOccurredAt":"2022-05-08 20:52:51+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"493691","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:52:00","hallId":1388}
+ Номер транзакции: 158
+
+Данные из таблицы transactions:
+{"eraiId":"4e755ad9-7a54-47d8-99f1-894d7109d134","eraiAmount":"2000.00","hallId":1460,"eraiOccurredAt":"2022-05-08 20:57:48+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"500696","bankReport":40,"amount":"2000.00","utcDatetime":"2022-05-08 20:57:00","hallId":1460}
+ Номер транзакции: 159
+
+Данные из таблицы transactions:
+{"eraiId":"4e98afdb-efa3-4e14-b9c1-94e17c33026c","eraiAmount":"1000.00","hallId":1457,"eraiOccurredAt":"2022-05-08 20:54:21+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"494440","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:53:00","hallId":1457}
+ Номер транзакции: 160
+
+Данные из таблицы transactions:
+{"eraiId":"4e9f1733-c830-4335-844d-80b4d0d4a68b","eraiAmount":"500.00","hallId":1800,"eraiOccurredAt":"2022-05-07 19:01:15+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"473505","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 19:01:00","hallId":1800}
+ Номер транзакции: 161
+
+Данные из таблицы transactions:
+{"eraiId":"4f7e9c61-e9de-4780-92cd-cbecb5b08790","eraiAmount":"500.00","hallId":1383,"eraiOccurredAt":"2022-05-07 20:09:39+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"466919","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 20:09:00","hallId":1383}
+ Номер транзакции: 162
+
+Данные из таблицы transactions:
+{"eraiId":"4f8548e5-0c77-4800-afec-f0e4de896d88","eraiAmount":"1000.00","hallId":186,"eraiOccurredAt":"2022-05-07 20:44:20+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"462755","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 20:43:00","hallId":186}
+ Номер транзакции: 163
+
+Данные из таблицы transactions:
+{"eraiId":"4fa5d5b6-e9e5-4b0f-bdbe-35129b07bf60","eraiAmount":"4000.00","hallId":1449,"eraiOccurredAt":"2022-05-07 19:34:33+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"468011","bankReport":38,"amount":"4000.00","utcDatetime":"2022-05-07 19:34:00","hallId":1449}
+ Номер транзакции: 164
+
+Данные из таблицы transactions:
+{"eraiId":"50b4a6bb-5906-4c24-8a25-c386b9671644","eraiAmount":"2000.00","hallId":25,"eraiOccurredAt":"2022-05-08 20:48:44+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"500460","bankReport":40,"amount":"2000.00","utcDatetime":"2022-05-08 20:48:00","hallId":25}
+ Номер транзакции: 165
+
+Данные из таблицы transactions:
+{"eraiId":"50ef3f31-a05a-46b2-8bce-abd0e1f3558e","eraiAmount":"3000.00","hallId":93,"eraiOccurredAt":"2022-05-08 20:56:49+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"498669","bankReport":40,"amount":"3000.00","utcDatetime":"2022-05-08 20:56:00","hallId":93}
+ Номер транзакции: 166
+
+Данные из таблицы transactions:
+{"eraiId":"512d62ac-ea6c-43c3-b8a5-13347414e6c9","eraiAmount":"2000.00","hallId":1610,"eraiOccurredAt":"2022-05-07 20:15:27+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469164","bankReport":38,"amount":"2000.00","utcDatetime":"2022-05-07 20:15:00","hallId":1610}
+ Номер транзакции: 167
+
+Данные из таблицы transactions:
+{"eraiId":"515e0d1b-4800-4fc2-9240-cc3bc44c8ecb","eraiAmount":"1000.00","hallId":683,"eraiOccurredAt":"2022-05-07 19:42:13+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463838","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 19:42:00","hallId":683}
+ Номер транзакции: 168
+
+Данные из таблицы transactions:
+{"eraiId":"51f5517b-92c0-43a5-bdc1-261852aac1aa","eraiAmount":"900.00","hallId":1669,"eraiOccurredAt":"2022-05-07 14:15:35+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469850","bankReport":38,"amount":"900.00","utcDatetime":"2022-05-07 14:15:00","hallId":1669}
+ Номер транзакции: 169
+
+Данные из таблицы transactions:
+{"eraiId":"524c04b3-8700-4e82-983d-4ccd7adc843c","eraiAmount":"500.00","hallId":1359,"eraiOccurredAt":"2022-05-07 19:18:34+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"466454","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 19:18:00","hallId":1359}
+ Номер транзакции: 170
+
+Данные из таблицы transactions:
+{"eraiId":"5447449c-a3e4-420c-9aab-75043c4c1708","eraiAmount":"200.00","hallId":1949,"eraiOccurredAt":"2022-05-07 20:07:44+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"474595","bankReport":38,"amount":"200.00","utcDatetime":"2022-05-07 20:07:00","hallId":1949}
+ Номер транзакции: 171
+
+Данные из таблицы transactions:
+{"eraiId":"54958c12-0bf8-416e-9711-70afddbe91f9","eraiAmount":"2000.00","hallId":1669,"eraiOccurredAt":"2022-05-07 14:31:52+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469854","bankReport":38,"amount":"2000.00","utcDatetime":"2022-05-07 14:31:00","hallId":1669}
+ Номер транзакции: 172
+
+Данные из таблицы transactions:
+{"eraiId":"54d59692-d993-40d5-b777-a2c8a5e9a807","eraiAmount":"1500.00","hallId":1610,"eraiOccurredAt":"2022-05-07 20:22:15+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469167","bankReport":38,"amount":"1500.00","utcDatetime":"2022-05-07 20:22:00","hallId":1610}
+ Номер транзакции: 173
+
+Данные из таблицы transactions:
+{"eraiId":"5547a4ed-ec4d-4b25-a2c5-37239ba2ab51","eraiAmount":"500.00","hallId":1532,"eraiOccurredAt":"2022-05-07 19:49:54+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"468452","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 19:49:00","hallId":1532}
+ Номер транзакции: 174
+
+Данные из таблицы transactions:
+{"eraiId":"55f5d730-4be8-4590-8b02-5b4e52bebbfa","eraiAmount":"1500.00","hallId":778,"eraiOccurredAt":"2022-05-08 20:50:21+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"490899","bankReport":40,"amount":"1500.00","utcDatetime":"2022-05-08 20:50:00","hallId":778}
+ Номер транзакции: 175
+
+Данные из таблицы transactions:
+{"eraiId":"565f88af-36cf-40a0-b653-f0b7e542aec2","eraiAmount":"2000.00","hallId":508,"eraiOccurredAt":"2022-05-07 19:11:12+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463543","bankReport":38,"amount":"2000.00","utcDatetime":"2022-05-07 19:11:00","hallId":508}
+ Номер транзакции: 176
+
+Данные из таблицы transactions:
+{"eraiId":"5676e5c9-9c78-4886-bd9b-7f17b076b70d","eraiAmount":"1000.00","hallId":1860,"eraiOccurredAt":"2022-05-07 20:01:02+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"472022","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 20:00:00","hallId":1860}
+ Номер транзакции: 177
+
+Данные из таблицы transactions:
+{"eraiId":"5696f39f-777f-4818-ba54-224fffe82fa1","eraiAmount":"200.00","hallId":1669,"eraiOccurredAt":"2022-05-07 14:03:10+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469845","bankReport":38,"amount":"200.00","utcDatetime":"2022-05-07 14:03:00","hallId":1669}
+ Номер транзакции: 178
+
+Данные из таблицы transactions:
+{"eraiId":"570d3c83-d8ae-4d32-a97c-8478633bcc3f","eraiAmount":"2000.00","hallId":1380,"eraiOccurredAt":"2022-05-07 20:07:14+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"466691","bankReport":38,"amount":"2000.00","utcDatetime":"2022-05-07 20:07:00","hallId":1380}
+ Номер транзакции: 179
+
+Данные из таблицы transactions:
+{"eraiId":"574c93d2-d825-4515-bf67-9acdacb8c11d","eraiAmount":"1000.00","hallId":1388,"eraiOccurredAt":"2022-05-08 20:53:00+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"493691","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:52:00","hallId":1388}
+ Номер транзакции: 180
+
+Данные из таблицы transactions:
+{"eraiId":"579b97da-a3fc-4f0b-944c-41a9bf08e4d8","eraiAmount":"500.00","hallId":1836,"eraiOccurredAt":"2022-05-07 18:18:09+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"472477","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 18:18:00","hallId":1836}
+ Номер транзакции: 181
+
+Данные из таблицы transactions:
+{"eraiId":"59508542-f5b9-4350-a601-22ede487d88f","eraiAmount":"500.00","hallId":1836,"eraiOccurredAt":"2022-05-07 14:05:58+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"472469","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 14:05:00","hallId":1836}
+ Номер транзакции: 182
+
+Данные из таблицы transactions:
+{"eraiId":"597783a0-76de-46bc-8039-d60054d04755","eraiAmount":"1000.00","hallId":1664,"eraiOccurredAt":"2022-05-08 20:46:17+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"496202","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:46:00","hallId":1664}
+ Номер транзакции: 183
+
+Данные из таблицы transactions:
+{"eraiId":"5a7485eb-38a7-4815-8e8b-4ebd317163de","eraiAmount":"20000.00","hallId":1836,"eraiOccurredAt":"2022-05-07 17:52:07+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"472476","bankReport":38,"amount":"20000.00","utcDatetime":"2022-05-07 17:51:00","hallId":1836}
+ Номер транзакции: 184
+
+Данные из таблицы transactions:
+{"eraiId":"5aafc0bc-f6b6-4157-a404-9cf50196aca6","eraiAmount":"10000.00","hallId":1950,"eraiOccurredAt":"2022-05-08 20:52:54+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"500177","bankReport":40,"amount":"10000.00","utcDatetime":"2022-05-08 20:52:00","hallId":1950}
+ Номер транзакции: 185
+
+Данные из таблицы transactions:
+{"eraiId":"5af4686a-03d9-4b52-8daf-c6fbfc06d5d9","eraiAmount":"2538.00","hallId":1840,"eraiOccurredAt":"2022-05-07 15:29:28+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"473358","bankReport":38,"amount":"2538.00","utcDatetime":"2022-05-07 15:29:00","hallId":1840}
+ Номер транзакции: 186
+
+Данные из таблицы transactions:
+{"eraiId":"5c160da4-8170-42d9-bfc0-67e4d1c930bf","eraiAmount":"1000.00","hallId":1588,"eraiOccurredAt":"2022-05-07 19:01:26+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"468890","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 19:01:00","hallId":1588}
+ Номер транзакции: 187
+
+Данные из таблицы transactions:
+{"eraiId":"5c5bc975-ff6d-4a98-829a-56fba33092b3","eraiAmount":"2000.00","hallId":1585,"eraiOccurredAt":"2022-05-08 20:53:55+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"495315","bankReport":40,"amount":"2000.00","utcDatetime":"2022-05-08 20:53:00","hallId":1585}
+ Номер транзакции: 188
+
+Данные из таблицы transactions:
+{"eraiId":"5c835e95-74c8-4d2d-822b-541050fc7811","eraiAmount":"500.00","hallId":1669,"eraiOccurredAt":"2022-05-07 14:14:45+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469848","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 14:14:00","hallId":1669}
+ Номер транзакции: 189
+
+Данные из таблицы transactions:
+{"eraiId":"5dc99f3e-72da-4862-bbdd-8bf1668af53b","eraiAmount":"500.00","hallId":1627,"eraiOccurredAt":"2022-05-07 20:09:20+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469242","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 20:09:00","hallId":1627}
+ Номер транзакции: 190
+
+Данные из таблицы transactions:
+{"eraiId":"5ff87e99-000e-4865-8a57-dc8f6c6b2604","eraiAmount":"500.00","hallId":1684,"eraiOccurredAt":"2022-05-08 20:50:59+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"498618","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:50:00","hallId":1684}
+ Номер транзакции: 191
+
+Данные из таблицы transactions:
+{"eraiId":"6231f911-0757-40b8-adc0-cb070965226a","eraiAmount":"1000.00","hallId":1669,"eraiOccurredAt":"2022-05-07 14:44:14+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469857","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 14:44:00","hallId":1669}
+ Номер транзакции: 192
+
+Данные из таблицы transactions:
+{"eraiId":"62488fe8-14e6-4ccd-bc8e-ebf1dd3f6d71","eraiAmount":"500.00","hallId":1380,"eraiOccurredAt":"2022-05-07 20:24:22+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"466693","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 20:24:00","hallId":1380}
+ Номер транзакции: 193
+
+Данные из таблицы transactions:
+{"eraiId":"627a254c-bdbc-4752-a85e-d65f06875a3b","eraiAmount":"500.00","hallId":1517,"eraiOccurredAt":"2022-05-07 20:32:52+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"468368","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 20:32:00","hallId":1517}
+ Номер транзакции: 194
+
+Данные из таблицы transactions:
+{"eraiId":"6282a240-2b51-4847-b18c-2ccd26a4e300","eraiAmount":"1000.00","hallId":345,"eraiOccurredAt":"2022-05-07 16:34:05+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463329","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 16:33:00","hallId":345}
+ Номер транзакции: 195
+
+Данные из таблицы transactions:
+{"eraiId":"64524c5f-597b-4d95-8a90-ec02c09eaa26","eraiAmount":"1000.00","hallId":1777,"eraiOccurredAt":"2022-05-07 19:13:36+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"471174","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 19:13:00","hallId":1777}
+ Номер транзакции: 196
+
+Данные из таблицы transactions:
+{"eraiId":"645381d6-598c-485d-aec6-50e596f9ee07","eraiAmount":"200.00","hallId":1044,"eraiOccurredAt":"2022-05-07 19:53:25+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"473539","bankReport":38,"amount":"200.00","utcDatetime":"2022-05-07 19:53:00","hallId":1044}
+ Номер транзакции: 197
+
+Данные из таблицы transactions:
+{"eraiId":"6489a3a5-0bb2-45d5-96bc-4f1b14074237","eraiAmount":"2000.00","hallId":60,"eraiOccurredAt":"2022-05-07 15:26:24+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"462228","bankReport":38,"amount":"2000.00","utcDatetime":"2022-05-07 15:26:00","hallId":60}
+ Номер транзакции: 198
+
+Данные из таблицы transactions:
+{"eraiId":"64d1f62e-89d2-443e-9228-ab5815acdb23","eraiAmount":"150.00","hallId":1391,"eraiOccurredAt":"2022-05-07 20:25:37+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"467375","bankReport":38,"amount":"150.00","utcDatetime":"2022-05-07 20:25:00","hallId":1391}
+ Номер транзакции: 199
+
+Данные из таблицы transactions:
+{"eraiId":"64ead6eb-6d4f-4d16-9b01-33be3ec7b0ca","eraiAmount":"2000.00","hallId":1669,"eraiOccurredAt":"2022-05-07 16:11:01+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469865","bankReport":38,"amount":"2000.00","utcDatetime":"2022-05-07 16:10:00","hallId":1669}
+ Номер транзакции: 200
+
+Данные из таблицы transactions:
+{"eraiId":"653dad7b-f8fb-4432-8e2d-b4914217f47c","eraiAmount":"300.00","hallId":1227,"eraiOccurredAt":"2022-05-07 19:06:38+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"465656","bankReport":38,"amount":"300.00","utcDatetime":"2022-05-07 19:06:00","hallId":1227}
+ Номер транзакции: 201
+
+Данные из таблицы transactions:
+{"eraiId":"65997330-0762-4bbd-a56c-482921a15be7","eraiAmount":"250.00","hallId":683,"eraiOccurredAt":"2022-05-07 19:36:46+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463837","bankReport":38,"amount":"250.00","utcDatetime":"2022-05-07 19:36:00","hallId":683}
+ Номер транзакции: 202
+
+Данные из таблицы transactions:
+{"eraiId":"65f3d2c4-6da9-4bcd-8c8f-95a4dff88040","eraiAmount":"100.00","hallId":599,"eraiOccurredAt":"2022-05-07 19:37:12+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"473450","bankReport":38,"amount":"100.00","utcDatetime":"2022-05-07 19:37:00","hallId":599}
+ Номер транзакции: 203
+
+Данные из таблицы transactions:
+{"eraiId":"667eb273-6762-46dc-9d40-2719ba6b904a","eraiAmount":"1000.00","hallId":1777,"eraiOccurredAt":"2022-05-07 19:57:25+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"471182","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 19:57:00","hallId":1777}
+ Номер транзакции: 204
+
+Данные из таблицы transactions:
+{"eraiId":"66c86ace-e6ae-48b1-8662-8fc164e95b58","eraiAmount":"1000.00","hallId":1846,"eraiOccurredAt":"2022-05-07 20:30:05+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"475724","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 20:29:00","hallId":1846}
+ Номер транзакции: 205
+
+Данные из таблицы transactions:
+{"eraiId":"66f72321-35a8-4341-b1a3-ceada25dc2ee","eraiAmount":"12500.00","hallId":1588,"eraiOccurredAt":"2022-05-07 19:51:50+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"468893","bankReport":38,"amount":"12500.00","utcDatetime":"2022-05-07 19:51:00","hallId":1588}
+ Номер транзакции: 206
+
+Данные из таблицы transactions:
+{"eraiId":"670fcb44-481c-47d9-b14a-6598e1920ced","eraiAmount":"400.00","hallId":1707,"eraiOccurredAt":"2022-05-07 19:30:07+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"470337","bankReport":38,"amount":"400.00","utcDatetime":"2022-05-07 19:29:00","hallId":1707}
+ Номер транзакции: 207
+
+Данные из таблицы transactions:
+{"eraiId":"67179a9d-1867-43eb-8fb4-c4158010f0bd","eraiAmount":"250.00","hallId":1153,"eraiOccurredAt":"2022-05-08 20:47:58+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"491968","bankReport":40,"amount":"250.00","utcDatetime":"2022-05-08 20:47:00","hallId":1153}
+ Номер транзакции: 208
+
+Данные из таблицы transactions:
+{"eraiId":"678d68d4-7fde-4423-95a2-81de8b47ee1f","eraiAmount":"500.00","hallId":1836,"eraiOccurredAt":"2022-05-07 15:09:55+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"472472","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 15:09:00","hallId":1836}
+ Номер транзакции: 209
+
+Данные из таблицы transactions:
+{"eraiId":"67a4e94d-5605-49b9-89d1-83ddd02244ee","eraiAmount":"1000.00","hallId":683,"eraiOccurredAt":"2022-05-07 19:04:19+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463833","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 19:04:00","hallId":683}
+ Номер транзакции: 210
+
+Данные из таблицы transactions:
+{"eraiId":"68d09d67-e1d4-4c79-9100-a297d79fad60","eraiAmount":"1000.00","hallId":420,"eraiOccurredAt":"2022-05-08 20:51:04+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"490268","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:51:00","hallId":420}
+ Номер транзакции: 211
+
+Данные из таблицы transactions:
+{"eraiId":"68e5200d-e115-45dc-995c-c3fe489af56c","eraiAmount":"1500.00","hallId":1669,"eraiOccurredAt":"2022-05-07 14:16:01+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469851","bankReport":38,"amount":"1500.00","utcDatetime":"2022-05-07 14:15:00","hallId":1669}
+ Номер транзакции: 212
+
+Данные из таблицы transactions:
+{"eraiId":"6919cea3-6a29-4ee1-a26c-474acdb0a7b4","eraiAmount":"5000.00","hallId":1943,"eraiOccurredAt":"2022-05-08 20:45:48+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"500898","bankReport":40,"amount":"5000.00","utcDatetime":"2022-05-08 20:45:00","hallId":1943}
+ Номер транзакции: 213
+
+Данные из таблицы transactions:
+{"eraiId":"69a0b7c6-2dab-449d-84d7-bcfe55501ed8","eraiAmount":"200.00","hallId":1179,"eraiOccurredAt":"2022-05-07 17:17:13+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"465360","bankReport":38,"amount":"200.00","utcDatetime":"2022-05-07 17:17:00","hallId":1179}
+ Номер транзакции: 214
+
+Данные из таблицы transactions:
+{"eraiId":"6ae27341-430c-4271-bd3a-83d6a065fc9d","eraiAmount":"1000.00","hallId":341,"eraiOccurredAt":"2022-05-07 17:08:10+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463245","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 17:08:00","hallId":341}
+ Номер транзакции: 215
+
+Данные из таблицы transactions:
+{"eraiId":"6b622558-18c0-4a3a-8842-18e3c61cae96","eraiAmount":"500.00","hallId":1247,"eraiOccurredAt":"2022-05-08 20:54:23+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"499601","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:54:00","hallId":1247}
+ Номер транзакции: 216
+
+Данные из таблицы transactions:
+{"eraiId":"6c70a022-5b55-404b-a647-ad97b4eb671d","eraiAmount":"1000.00","hallId":253,"eraiOccurredAt":"2022-05-08 20:48:59+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"489955","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:48:00","hallId":253}
+ Номер транзакции: 217
+
+Данные из таблицы transactions:
+{"eraiId":"6c787e85-c5dd-4a3a-a830-a4a4e1d0ddff","eraiAmount":"2000.00","hallId":60,"eraiOccurredAt":"2022-05-07 19:57:58+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"462235","bankReport":38,"amount":"2000.00","utcDatetime":"2022-05-07 19:57:00","hallId":60}
+ Номер транзакции: 218
+
+Данные из таблицы transactions:
+{"eraiId":"6cabc252-5eb9-4631-9e2f-ff5538c50332","eraiAmount":"500.00","hallId":1610,"eraiOccurredAt":"2022-05-07 18:44:14+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469160","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 18:44:00","hallId":1610}
+ Номер транзакции: 219
+
+Данные из таблицы transactions:
+{"eraiId":"6d69273d-185d-4f76-a87a-ca98d46a14ff","eraiAmount":"1000.00","hallId":1044,"eraiOccurredAt":"2022-05-07 20:11:10+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"473540","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 20:11:00","hallId":1044}
+ Номер транзакции: 220
+
+Данные из таблицы transactions:
+{"eraiId":"6e51e5c9-34e3-4c3b-9252-a00c0be21b26","eraiAmount":"300.00","hallId":1439,"eraiOccurredAt":"2022-05-07 18:40:21+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"473210","bankReport":38,"amount":"300.00","utcDatetime":"2022-05-07 18:40:00","hallId":1439}
+ Номер транзакции: 221
+
+Данные из таблицы transactions:
+{"eraiId":"6e88d1c0-3858-4bcb-b33b-f9f8d70ec360","eraiAmount":"350.00","hallId":1439,"eraiOccurredAt":"2022-05-07 19:03:17+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"473211","bankReport":38,"amount":"350.00","utcDatetime":"2022-05-07 19:03:00","hallId":1439}
+ Номер транзакции: 222
+
+Данные из таблицы transactions:
+{"eraiId":"6e8e5cf8-1485-4b60-a3ae-9ed3c1fda2c8","eraiAmount":"500.00","hallId":1388,"eraiOccurredAt":"2022-05-08 20:45:55+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"493690","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:45:00","hallId":1388}
+ Номер транзакции: 223
+
+Данные из таблицы transactions:
+{"eraiId":"6e8f9fe8-84e7-4409-915b-5a64624bc924","eraiAmount":"700.00","hallId":1999,"eraiOccurredAt":"2022-05-07 19:51:29+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"473380","bankReport":38,"amount":"700.00","utcDatetime":"2022-05-07 19:51:00","hallId":1999}
+ Номер транзакции: 224
+
+Данные из таблицы transactions:
+{"eraiId":"6f405f1a-8c22-4198-904f-86ac7860668c","eraiAmount":"500.00","hallId":1034,"eraiOccurredAt":"2022-05-08 20:45:59+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"491632","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:45:00","hallId":1034}
+ Номер транзакции: 225
+
+Данные из таблицы transactions:
+{"eraiId":"6f7750e7-8834-4a4b-94ca-9168810add1a","eraiAmount":"20000.00","hallId":1669,"eraiOccurredAt":"2022-05-07 14:49:10+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469859","bankReport":38,"amount":"20000.00","utcDatetime":"2022-05-07 14:49:00","hallId":1669}
+ Номер транзакции: 226
+
+Данные из таблицы transactions:
+{"eraiId":"6fac4818-e65e-4462-bcfd-d3c3e2f1f34c","eraiAmount":"200.00","hallId":1529,"eraiOccurredAt":"2022-05-07 19:11:15+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"468435","bankReport":38,"amount":"200.00","utcDatetime":"2022-05-07 19:11:00","hallId":1529}
+ Номер транзакции: 227
+
+Данные из таблицы transactions:
+{"eraiId":"6fcb89e0-51ea-447c-8262-5a3f4519f1c0","eraiAmount":"5000.00","hallId":1669,"eraiOccurredAt":"2022-05-07 16:18:12+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469867","bankReport":38,"amount":"5000.00","utcDatetime":"2022-05-07 16:18:00","hallId":1669}
+ Номер транзакции: 228
+
+Данные из таблицы transactions:
+{"eraiId":"700e01ca-d077-4708-8236-55d5ab7cf7ce","eraiAmount":"2000.00","hallId":1867,"eraiOccurredAt":"2022-05-08 20:49:52+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"497968","bankReport":40,"amount":"2000.00","utcDatetime":"2022-05-08 20:49:00","hallId":1867}
+ Номер транзакции: 229
+
+Данные из таблицы transactions:
+{"eraiId":"702a9c43-8861-4234-9722-cb20638c3a8b","eraiAmount":"2000.00","hallId":1669,"eraiOccurredAt":"2022-05-07 15:13:21+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469861","bankReport":38,"amount":"2000.00","utcDatetime":"2022-05-07 15:13:00","hallId":1669}
+ Номер транзакции: 230
+
+Данные из таблицы transactions:
+{"eraiId":"70fdb601-2603-43d3-a238-b71616a26b3e","eraiAmount":"1000.00","hallId":1669,"eraiOccurredAt":"2022-05-07 14:23:04+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469852","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 14:23:00","hallId":1669}
+ Номер транзакции: 231
+
+Данные из таблицы transactions:
+{"eraiId":"7138e1a5-8c49-4dc7-98d4-265eece460aa","eraiAmount":"1000.00","hallId":1186,"eraiOccurredAt":"2022-05-08 20:46:36+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"499457","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:46:00","hallId":1186}
+ Номер транзакции: 232
+
+Данные из таблицы transactions:
+{"eraiId":"7172ecb2-7ee6-4081-8e98-57f53618fa5e","eraiAmount":"500.00","hallId":1840,"eraiOccurredAt":"2022-05-07 16:47:08+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"473359","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 16:47:00","hallId":1840}
+ Номер транзакции: 233
+
+Данные из таблицы transactions:
+{"eraiId":"71c91fc6-e4a7-48cc-ad71-9dca27f49598","eraiAmount":"600.00","hallId":599,"eraiOccurredAt":"2022-05-07 20:04:19+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"473455","bankReport":38,"amount":"600.00","utcDatetime":"2022-05-07 20:04:00","hallId":599}
+ Номер транзакции: 234
+
+Данные из таблицы transactions:
+{"eraiId":"71d72f21-43ef-429d-81f3-954959942505","eraiAmount":"200.00","hallId":1662,"eraiOccurredAt":"2022-05-07 20:16:43+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"475599","bankReport":38,"amount":"200.00","utcDatetime":"2022-05-07 20:16:00","hallId":1662}
+ Номер транзакции: 235
+
+Данные из таблицы transactions:
+{"eraiId":"7265647a-1b10-41d4-8437-5d6d5e9e3de4","eraiAmount":"250.00","hallId":1529,"eraiOccurredAt":"2022-05-07 19:05:39+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"468434","bankReport":38,"amount":"250.00","utcDatetime":"2022-05-07 19:05:00","hallId":1529}
+ Номер транзакции: 236
+
+Данные из таблицы transactions:
+{"eraiId":"72ebba8e-be5f-4dd9-8a40-b00890104906","eraiAmount":"1000.00","hallId":508,"eraiOccurredAt":"2022-05-07 20:15:02+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463547","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 20:14:00","hallId":508}
+ Номер транзакции: 237
+
+Данные из таблицы transactions:
+{"eraiId":"73076314-ec69-4d04-82c8-cd2ea953e4ee","eraiAmount":"1000.00","hallId":778,"eraiOccurredAt":"2022-05-08 20:45:50+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"490898","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:45:00","hallId":778}
+ Номер транзакции: 238
+
+Данные из таблицы transactions:
+{"eraiId":"74457477-3895-4bd4-ba88-a31d69f3f8c1","eraiAmount":"5000.00","hallId":124,"eraiOccurredAt":"2022-05-07 15:30:35+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"462687","bankReport":38,"amount":"5000.00","utcDatetime":"2022-05-07 15:30:00","hallId":124}
+ Номер транзакции: 239
+
+Данные из таблицы transactions:
+{"eraiId":"74b4fdfd-944d-4784-923a-9e9ea82e4cb5","eraiAmount":"5000.00","hallId":1669,"eraiOccurredAt":"2022-05-07 16:21:47+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469869","bankReport":38,"amount":"5000.00","utcDatetime":"2022-05-07 16:21:00","hallId":1669}
+ Номер транзакции: 240
+
+Данные из таблицы transactions:
+{"eraiId":"74f5481b-2517-493c-9f60-7284ab673edf","eraiAmount":"900.00","hallId":1585,"eraiOccurredAt":"2022-05-08 20:48:57+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"495309","bankReport":40,"amount":"900.00","utcDatetime":"2022-05-08 20:48:00","hallId":1585}
+ Номер транзакции: 241
+
+Данные из таблицы transactions:
+{"eraiId":"75044ac7-7f0c-4545-9cfe-f5b8017db2ad","eraiAmount":"500.00","hallId":345,"eraiOccurredAt":"2022-05-07 15:07:06+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463324","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 15:07:00","hallId":345}
+ Номер транзакции: 242
+
+Данные из таблицы transactions:
+{"eraiId":"75177969-4bc4-442f-8e06-56b468a7b5d7","eraiAmount":"1000.00","hallId":1829,"eraiOccurredAt":"2022-05-08 20:58:53+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"497618","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:58:00","hallId":1829}
+ Номер транзакции: 243
+
+Данные из таблицы transactions:
+{"eraiId":"75cd4ae7-3d55-4d52-8f22-40dd31ed00f2","eraiAmount":"1000.00","hallId":1696,"eraiOccurredAt":"2022-05-08 20:51:37+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"496889","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:51:00","hallId":1696}
+ Номер транзакции: 244
+
+Данные из таблицы transactions:
+{"eraiId":"7611d953-3a59-4ef8-b954-447cb4b959b9","eraiAmount":"250.00","hallId":99,"eraiOccurredAt":"2022-05-08 20:50:25+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"489457","bankReport":40,"amount":"250.00","utcDatetime":"2022-05-08 20:50:00","hallId":99}
+ Номер транзакции: 245
+
+Данные из таблицы transactions:
+{"eraiId":"77fa6e8e-b774-498c-9460-822918efbbf0","eraiAmount":"500.00","hallId":1566,"eraiOccurredAt":"2022-05-08 20:55:40+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"494945","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:55:00","hallId":1566}
+ Номер транзакции: 246
+
+Данные из таблицы transactions:
+{"eraiId":"7878ed68-3859-4c33-8ff7-f1af48dec22e","eraiAmount":"2000.00","hallId":341,"eraiOccurredAt":"2022-05-07 17:16:45+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463246","bankReport":38,"amount":"2000.00","utcDatetime":"2022-05-07 17:16:00","hallId":341}
+ Номер транзакции: 247
+
+Данные из таблицы transactions:
+{"eraiId":"78a396a6-7f2e-4786-b2ab-067fc7e6874d","eraiAmount":"2000.00","hallId":1364,"eraiOccurredAt":"2022-05-08 20:47:09+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"499912","bankReport":40,"amount":"2000.00","utcDatetime":"2022-05-08 20:47:00","hallId":1364}
+ Номер транзакции: 248
+
+Данные из таблицы transactions:
+{"eraiId":"78be0701-e9a7-4972-b026-8c145c3a6d75","eraiAmount":"438.00","hallId":1291,"eraiOccurredAt":"2022-05-07 19:15:47+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"466100","bankReport":38,"amount":"438.00","utcDatetime":"2022-05-07 19:15:00","hallId":1291}
+ Номер транзакции: 249
+
+Данные из таблицы transactions:
+{"eraiId":"791593bd-2b58-407c-8e13-f8e2e5b66e2c","eraiAmount":"300.00","hallId":1669,"eraiOccurredAt":"2022-05-07 16:09:13+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469864","bankReport":38,"amount":"300.00","utcDatetime":"2022-05-07 16:09:00","hallId":1669}
+ Номер транзакции: 250
+
+Данные из таблицы transactions:
+{"eraiId":"794dbb6a-3ea9-465d-a94d-db6111138792","eraiAmount":"5000.00","hallId":1999,"eraiOccurredAt":"2022-05-07 20:26:41+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"472921","bankReport":38,"amount":"5000.00","utcDatetime":"2022-05-07 20:26:00","hallId":1999}
+ Номер транзакции: 251
+
+Данные из таблицы transactions:
+{"eraiId":"795a9dc9-41da-489a-bdd2-d4ac20d4ca41","eraiAmount":"200.00","hallId":1229,"eraiOccurredAt":"2022-05-08 20:47:02+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"492438","bankReport":40,"amount":"200.00","utcDatetime":"2022-05-08 20:46:00","hallId":1229}
+ Номер транзакции: 252
+
+Данные из таблицы transactions:
+{"eraiId":"7a474f20-e7cb-404e-a182-b4513da5fc51","eraiAmount":"300.00","hallId":202,"eraiOccurredAt":"2022-05-07 20:00:38+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"462778","bankReport":38,"amount":"300.00","utcDatetime":"2022-05-07 20:00:00","hallId":202}
+ Номер транзакции: 253
+
+Данные из таблицы transactions:
+{"eraiId":"7b044144-b3b0-4d47-a1cb-4877f60fd1e7","eraiAmount":"700.00","hallId":683,"eraiOccurredAt":"2022-05-07 16:56:35+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463818","bankReport":38,"amount":"700.00","utcDatetime":"2022-05-07 16:56:00","hallId":683}
+ Номер транзакции: 254
+
+Данные из таблицы transactions:
+{"eraiId":"7b37bd78-275d-4ec7-9234-480039a068db","eraiAmount":"300.00","hallId":345,"eraiOccurredAt":"2022-05-07 19:11:56+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463333","bankReport":38,"amount":"300.00","utcDatetime":"2022-05-07 19:12:00","hallId":345}
+ Номер транзакции: 255
+
+Данные из таблицы transactions:
+{"eraiId":"7b99d0d4-c98a-4854-80a1-9bd0a2ca3c71","eraiAmount":"200.00","hallId":1302,"eraiOccurredAt":"2022-05-08 20:58:36+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"492818","bankReport":40,"amount":"200.00","utcDatetime":"2022-05-08 20:58:00","hallId":1302}
+ Номер транзакции: 256
+
+Данные из таблицы transactions:
+{"eraiId":"7bad89c3-9392-4a10-92cd-4f58f92252bf","eraiAmount":"1000.00","hallId":1839,"eraiOccurredAt":"2022-05-07 17:50:51+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"475269","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 17:50:00","hallId":1839}
+ Номер транзакции: 257
+
+Данные из таблицы transactions:
+{"eraiId":"7c42606e-59aa-4ec8-b6fa-697a14e3bada","eraiAmount":"300.00","hallId":1707,"eraiOccurredAt":"2022-05-07 19:51:15+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"470338","bankReport":38,"amount":"300.00","utcDatetime":"2022-05-07 19:51:00","hallId":1707}
+ Номер транзакции: 258
+
+Данные из таблицы transactions:
+{"eraiId":"7c62c71e-2695-4db4-8a61-4682679cc888","eraiAmount":"2500.00","hallId":1443,"eraiOccurredAt":"2022-05-08 20:49:38+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"499710","bankReport":40,"amount":"2500.00","utcDatetime":"2022-05-08 20:49:00","hallId":1443}
+ Номер транзакции: 259
+
+Данные из таблицы transactions:
+{"eraiId":"7c7d1eb2-dd9e-4279-9731-b0ee46020437","eraiAmount":"1000.00","hallId":1516,"eraiOccurredAt":"2022-05-07 20:44:39+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"468330","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 20:44:00","hallId":1516}
+ Номер транзакции: 260
+
+Данные из таблицы transactions:
+{"eraiId":"7ce227dc-d09e-4827-8d01-3c52acac4c98","eraiAmount":"1000.00","hallId":1529,"eraiOccurredAt":"2022-05-07 20:22:25+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"468438","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 20:22:00","hallId":1529}
+ Номер транзакции: 261
+
+Данные из таблицы transactions:
+{"eraiId":"7d3a190f-8f30-46c2-a05a-c3b23714ac67","eraiAmount":"1000.00","hallId":1938,"eraiOccurredAt":"2022-05-08 20:54:51+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"500933","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:54:00","hallId":1938}
+ Номер транзакции: 262
+
+Данные из таблицы transactions:
+{"eraiId":"7db8d7e6-9947-4cf8-bb89-7cd12c2c07ad","eraiAmount":"1000.00","hallId":683,"eraiOccurredAt":"2022-05-07 15:17:03+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463807","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 15:16:00","hallId":683}
+ Номер транзакции: 263
+
+Данные из таблицы transactions:
+{"eraiId":"7fa91f2a-a0bb-48dc-b7e4-09ef17d076ff","eraiAmount":"1000.00","hallId":1669,"eraiOccurredAt":"2022-05-07 18:16:34+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469873","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 18:16:00","hallId":1669}
+ Номер транзакции: 264
+
+Данные из таблицы transactions:
+{"eraiId":"7fd2e429-b7ca-46e6-a0c8-56b5b93831d2","eraiAmount":"3000.00","hallId":1213,"eraiOccurredAt":"2022-05-08 20:45:03+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"492282","bankReport":40,"amount":"3000.00","utcDatetime":"2022-05-08 20:45:00","hallId":1213}
+ Номер транзакции: 265
+
+Данные из таблицы transactions:
+{"eraiId":"80a29cd9-f61b-47ef-87fb-55ac8f983506","eraiAmount":"3700.00","hallId":1669,"eraiOccurredAt":"2022-05-07 14:43:44+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469856","bankReport":38,"amount":"3700.00","utcDatetime":"2022-05-07 14:43:00","hallId":1669}
+ Номер транзакции: 266
+
+Данные из таблицы transactions:
+{"eraiId":"80ec7750-c535-4691-a190-c54d8e9f965a","eraiAmount":"1000.00","hallId":1852,"eraiOccurredAt":"2022-05-07 17:28:09+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"474289","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 17:28:00","hallId":1852}
+ Номер транзакции: 267
+
+Данные из таблицы transactions:
+{"eraiId":"812988b7-00a3-4486-9864-4a19975b1b98","eraiAmount":"300.00","hallId":1383,"eraiOccurredAt":"2022-05-07 19:49:54+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"466918","bankReport":38,"amount":"300.00","utcDatetime":"2022-05-07 19:49:00","hallId":1383}
+ Номер транзакции: 268
+
+Данные из таблицы transactions:
+{"eraiId":"81e14a5a-63f1-46ea-a69a-ea6b75191ceb","eraiAmount":"20.00","hallId":599,"eraiOccurredAt":"2022-05-07 19:49:50+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"473452","bankReport":38,"amount":"20.00","utcDatetime":"2022-05-07 19:49:00","hallId":599}
+ Номер транзакции: 269
+
+Данные из таблицы transactions:
+{"eraiId":"8226de6c-3fa1-44d6-acf7-c9d42ccecf2d","eraiAmount":"250.00","hallId":683,"eraiOccurredAt":"2022-05-07 17:49:17+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463826","bankReport":38,"amount":"250.00","utcDatetime":"2022-05-07 17:48:00","hallId":683}
+ Номер транзакции: 270
+
+Данные из таблицы transactions:
+{"eraiId":"826cbcf3-795f-452d-9265-68007d067f96","eraiAmount":"2000.00","hallId":60,"eraiOccurredAt":"2022-05-07 20:05:52+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"462236","bankReport":38,"amount":"2000.00","utcDatetime":"2022-05-07 20:05:00","hallId":60}
+ Номер транзакции: 271
+
+Данные из таблицы transactions:
+{"eraiId":"828784fa-1156-417f-9f29-e98d848ab177","eraiAmount":"500.00","hallId":1595,"eraiOccurredAt":"2022-05-07 19:52:12+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"468952","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 19:52:00","hallId":1595}
+ Номер транзакции: 272
+
+Данные из таблицы transactions:
+{"eraiId":"834b633a-2594-4431-8dd5-ec0136976ca9","eraiAmount":"10000.00","hallId":1957,"eraiOccurredAt":"2022-05-08 20:47:22+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"500663","bankReport":40,"amount":"10000.00","utcDatetime":"2022-05-08 20:47:00","hallId":1957}
+ Номер транзакции: 273
+
+Данные из таблицы transactions:
+{"eraiId":"85eb0944-23bc-4e90-98f0-3abbc6fb60f0","eraiAmount":"1000.00","hallId":683,"eraiOccurredAt":"2022-05-07 18:02:35+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463829","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 18:02:00","hallId":683}
+ Номер транзакции: 274
+
+Данные из таблицы transactions:
+{"eraiId":"8665099b-8037-4e08-ae85-bdcfafb328e5","eraiAmount":"1000.00","hallId":1846,"eraiOccurredAt":"2022-05-07 17:35:26+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"475722","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 17:35:00","hallId":1846}
+ Номер транзакции: 275
+
+Данные из таблицы transactions:
+{"eraiId":"86da2a33-9171-4715-8a5b-9edf3186850a","eraiAmount":"1000.00","hallId":1480,"eraiOccurredAt":"2022-05-07 20:11:18+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"467799","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 20:11:00","hallId":1480}
+ Номер транзакции: 276
+
+Данные из таблицы transactions:
+{"eraiId":"874374e3-9f76-47fe-8fae-1dfd08c44cb8","eraiAmount":"180.00","hallId":1227,"eraiOccurredAt":"2022-05-07 19:28:04+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"465657","bankReport":38,"amount":"180.00","utcDatetime":"2022-05-07 19:28:00","hallId":1227}
+ Номер транзакции: 277
+
+Данные из таблицы transactions:
+{"eraiId":"8809ec4b-692c-4d13-a2cf-e7219ecb6ddd","eraiAmount":"900.00","hallId":1585,"eraiOccurredAt":"2022-05-08 20:51:11+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"495312","bankReport":40,"amount":"900.00","utcDatetime":"2022-05-08 20:50:00","hallId":1585}
+ Номер транзакции: 278
+
+Данные из таблицы transactions:
+{"eraiId":"880d8f58-ab71-4780-bddb-2ded08484677","eraiAmount":"500.00","hallId":1184,"eraiOccurredAt":"2022-05-07 20:12:20+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"465386","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 20:12:00","hallId":1184}
+ Номер транзакции: 279
+
+Данные из таблицы transactions:
+{"eraiId":"882ea6f1-581f-4eb5-a6d2-863e55463976","eraiAmount":"1000.00","hallId":1391,"eraiOccurredAt":"2022-05-07 19:14:08+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"467371","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 19:14:00","hallId":1391}
+ Номер транзакции: 280
+
+Данные из таблицы transactions:
+{"eraiId":"88af524b-009f-476a-ad49-3fe600c760e6","eraiAmount":"400.00","hallId":1422,"eraiOccurredAt":"2022-05-08 20:47:15+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"493924","bankReport":40,"amount":"400.00","utcDatetime":"2022-05-08 20:47:00","hallId":1422}
+ Номер транзакции: 281
+
+Данные из таблицы transactions:
+{"eraiId":"8904b094-3b75-4ea5-8c52-4f52dea72b95","eraiAmount":"150.00","hallId":1184,"eraiOccurredAt":"2022-05-07 19:05:09+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"465384","bankReport":38,"amount":"150.00","utcDatetime":"2022-05-07 19:04:00","hallId":1184}
+ Номер транзакции: 282
+
+Данные из таблицы transactions:
+{"eraiId":"895adbc1-d26e-4b92-8c69-5cabac846286","eraiAmount":"1000.00","hallId":1439,"eraiOccurredAt":"2022-05-07 19:34:47+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"473213","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 19:34:00","hallId":1439}
+ Номер транзакции: 283
+
+Данные из таблицы transactions:
+{"eraiId":"89fdb5c7-e8b5-4cf8-bc05-22ab5a4bd068","eraiAmount":"2000.00","hallId":1380,"eraiOccurredAt":"2022-05-07 19:11:16+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"466686","bankReport":38,"amount":"2000.00","utcDatetime":"2022-05-07 19:11:00","hallId":1380}
+ Номер транзакции: 284
+
+Данные из таблицы transactions:
+{"eraiId":"8b089f41-314d-4238-b94f-2508103f2459","eraiAmount":"1000.00","hallId":1566,"eraiOccurredAt":"2022-05-08 20:57:43+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"494947","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:57:00","hallId":1566}
+ Номер транзакции: 285
+
+Данные из таблицы transactions:
+{"eraiId":"8b4b3670-824c-4dc5-91ec-ab978fc573eb","eraiAmount":"1000.00","hallId":1234,"eraiOccurredAt":"2022-05-08 20:46:52+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"492573","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:46:00","hallId":1234}
+ Номер транзакции: 286
+
+Данные из таблицы transactions:
+{"eraiId":"8bd95ff7-4813-4b06-9b85-734ec066ef69","eraiAmount":"1000.00","hallId":1777,"eraiOccurredAt":"2022-05-07 19:11:19+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"471173","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 19:11:00","hallId":1777}
+ Номер транзакции: 287
+
+Данные из таблицы transactions:
+{"eraiId":"8bf15eb6-448c-46d5-bf1b-15bcd0c678e1","eraiAmount":"200.00","hallId":599,"eraiOccurredAt":"2022-05-07 19:29:06+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"473449","bankReport":38,"amount":"200.00","utcDatetime":"2022-05-07 19:28:00","hallId":599}
+ Номер транзакции: 288
+
+Данные из таблицы transactions:
+{"eraiId":"8c31ccfa-8cb7-436b-849b-45a29dc79adb","eraiAmount":"500.00","hallId":1627,"eraiOccurredAt":"2022-05-07 19:08:55+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469240","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 19:08:00","hallId":1627}
+ Номер транзакции: 289
+
+Данные из таблицы transactions:
+{"eraiId":"8c3af8f7-19be-4446-a7e5-a4985bd24540","eraiAmount":"9500.00","hallId":1677,"eraiOccurredAt":"2022-05-08 20:48:56+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"496030","bankReport":40,"amount":"9500.00","utcDatetime":"2022-05-08 20:48:00","hallId":1677}
+ Номер транзакции: 290
+
+Данные из таблицы transactions:
+{"eraiId":"8cb47809-4761-4f26-9ec4-64ed9bbe3a5a","eraiAmount":"100.00","hallId":1227,"eraiOccurredAt":"2022-05-07 19:51:06+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"465659","bankReport":38,"amount":"100.00","utcDatetime":"2022-05-07 19:51:00","hallId":1227}
+ Номер транзакции: 291
+
+Данные из таблицы transactions:
+{"eraiId":"8d9ad877-4f2a-478c-97dc-5574c4e2acc1","eraiAmount":"200.00","hallId":1777,"eraiOccurredAt":"2022-05-07 19:33:19+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"471178","bankReport":38,"amount":"200.00","utcDatetime":"2022-05-07 19:32:00","hallId":1777}
+ Номер транзакции: 292
+
+Данные из таблицы transactions:
+{"eraiId":"8da9b250-26ee-4696-a251-dda95cb65d89","eraiAmount":"5000.00","hallId":1517,"eraiOccurredAt":"2022-05-07 20:06:48+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"468366","bankReport":38,"amount":"5000.00","utcDatetime":"2022-05-07 20:06:00","hallId":1517}
+ Номер транзакции: 293
+
+Данные из таблицы transactions:
+{"eraiId":"8de11a0e-9a60-4eed-8d24-bf4f7eef88cf","eraiAmount":"1000.00","hallId":1900,"eraiOccurredAt":"2022-05-08 20:54:51+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"498130","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:54:00","hallId":1900}
+ Номер транзакции: 294
+
+Данные из таблицы transactions:
+{"eraiId":"8f989dfa-8929-4050-a861-d6630b6c570c","eraiAmount":"7000.00","hallId":1669,"eraiOccurredAt":"2022-05-07 14:38:46+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469855","bankReport":38,"amount":"7000.00","utcDatetime":"2022-05-07 14:38:00","hallId":1669}
+ Номер транзакции: 295
+
+Данные из таблицы transactions:
+{"eraiId":"902adbae-1868-4e1b-92cf-10e421aeb857","eraiAmount":"50.00","hallId":683,"eraiOccurredAt":"2022-05-07 17:41:44+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463825","bankReport":38,"amount":"50.00","utcDatetime":"2022-05-07 17:41:00","hallId":683}
+ Номер транзакции: 296
+
+Данные из таблицы transactions:
+{"eraiId":"90854448-4396-42a5-97a0-79ac52e4894e","eraiAmount":"300.00","hallId":124,"eraiOccurredAt":"2022-05-07 15:53:36+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"462688","bankReport":38,"amount":"300.00","utcDatetime":"2022-05-07 15:53:00","hallId":124}
+ Номер транзакции: 297
+
+Данные из таблицы transactions:
+{"eraiId":"91e9dd32-c29d-4dad-9774-04a1658cb685","eraiAmount":"1000.00","hallId":1227,"eraiOccurredAt":"2022-05-07 19:06:17+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"465560","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 19:06:00","hallId":1227}
+ Номер транзакции: 298
+
+Данные из таблицы transactions:
+{"eraiId":"928dc7a3-c54f-4499-99d8-041820e0131e","eraiAmount":"1000.00","hallId":683,"eraiOccurredAt":"2022-05-07 19:34:57+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463836","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 19:34:00","hallId":683}
+ Номер транзакции: 299
+
+Данные из таблицы transactions:
+{"eraiId":"92e37e0e-671a-4d81-b27b-713483e10f94","eraiAmount":"300.00","hallId":1767,"eraiOccurredAt":"2022-05-07 19:01:08+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"471122","bankReport":38,"amount":"300.00","utcDatetime":"2022-05-07 19:01:00","hallId":1767}
+ Номер транзакции: 300
+
+Данные из таблицы transactions:
+{"eraiId":"935cd2f8-b1e4-45ee-b2f5-1f5a8d5f8c24","eraiAmount":"1000.00","hallId":683,"eraiOccurredAt":"2022-05-07 17:30:26+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463822","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 17:30:00","hallId":683}
+ Номер транзакции: 301
+
+Данные из таблицы transactions:
+{"eraiId":"94b483d6-366b-4444-9527-c0c12b4a4ee3","eraiAmount":"500.00","hallId":1240,"eraiOccurredAt":"2022-05-07 20:07:25+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"465946","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 20:07:00","hallId":1240}
+ Номер транзакции: 302
+
+Данные из таблицы transactions:
+{"eraiId":"94d6bd20-7cc7-40d6-9893-b77ab5627247","eraiAmount":"1500.00","hallId":1532,"eraiOccurredAt":"2022-05-07 20:41:17+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"468455","bankReport":38,"amount":"1500.00","utcDatetime":"2022-05-07 20:41:00","hallId":1532}
+ Номер транзакции: 303
+
+Данные из таблицы transactions:
+{"eraiId":"95bf3988-fe86-4f6b-9c59-72607f35b58b","eraiAmount":"250.00","hallId":1227,"eraiOccurredAt":"2022-05-07 20:15:36+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"465660","bankReport":38,"amount":"250.00","utcDatetime":"2022-05-07 20:15:00","hallId":1227}
+ Номер транзакции: 304
+
+Данные из таблицы transactions:
+{"eraiId":"96a3e8d3-8dc9-45e2-b576-8c30a3f5b840","eraiAmount":"2000.00","hallId":549,"eraiOccurredAt":"2022-05-08 20:51:46+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"490508","bankReport":40,"amount":"2000.00","utcDatetime":"2022-05-08 20:51:00","hallId":549}
+ Номер транзакции: 305
+
+Данные из таблицы transactions:
+{"eraiId":"96b300db-3ab1-4968-897e-f4f1cd061f33","eraiAmount":"500.00","hallId":1627,"eraiOccurredAt":"2022-05-07 19:54:16+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469241","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 19:54:00","hallId":1627}
+ Номер транзакции: 306
+
+Данные из таблицы transactions:
+{"eraiId":"97c6584e-16a9-496c-a1cc-ddfa1370d1d8","eraiAmount":"5000.00","hallId":1781,"eraiOccurredAt":"2022-05-07 17:40:46+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"471202","bankReport":38,"amount":"5000.00","utcDatetime":"2022-05-07 17:40:00","hallId":1781}
+ Номер транзакции: 307
+
+Данные из таблицы transactions:
+{"eraiId":"97faed46-3c04-4c7b-8abc-3a460d16c8ee","eraiAmount":"400.00","hallId":106,"eraiOccurredAt":"2022-05-08 20:59:08+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"489545","bankReport":40,"amount":"400.00","utcDatetime":"2022-05-08 20:59:00","hallId":106}
+ Номер транзакции: 308
+
+Данные из таблицы transactions:
+{"eraiId":"9804c294-cdd6-424a-877c-b70f519d457b","eraiAmount":"900.00","hallId":1585,"eraiOccurredAt":"2022-05-08 20:49:32+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"495309","bankReport":40,"amount":"900.00","utcDatetime":"2022-05-08 20:48:00","hallId":1585}
+ Номер транзакции: 309
+
+Данные из таблицы transactions:
+{"eraiId":"985e8667-ac1d-4ec3-8480-a8f4ea7822a9","eraiAmount":"20000.00","hallId":1836,"eraiOccurredAt":"2022-05-07 15:07:27+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"472471","bankReport":38,"amount":"20000.00","utcDatetime":"2022-05-07 15:06:00","hallId":1836}
+ Номер транзакции: 310
+
+Данные из таблицы transactions:
+{"eraiId":"98fa7af5-3662-4f94-95a6-34a5ba9f00b7","eraiAmount":"1000.00","hallId":1593,"eraiOccurredAt":"2022-05-07 20:37:29+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"468922","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 20:37:00","hallId":1593}
+ Номер транзакции: 311
+
+Данные из таблицы transactions:
+{"eraiId":"9999c8ca-b4cf-48b2-9c92-b81a397be290","eraiAmount":"23.00","hallId":1888,"eraiOccurredAt":"2022-05-07 19:01:10+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"472216","bankReport":38,"amount":"23.00","utcDatetime":"2022-05-07 19:00:00","hallId":1888}
+ Номер транзакции: 312
+
+Данные из таблицы transactions:
+{"eraiId":"99f35337-3f19-45c2-be4f-b6b266f0d2a9","eraiAmount":"300.00","hallId":1662,"eraiOccurredAt":"2022-05-07 20:13:24+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"475598","bankReport":38,"amount":"300.00","utcDatetime":"2022-05-07 20:13:00","hallId":1662}
+ Номер транзакции: 313
+
+Данные из таблицы transactions:
+{"eraiId":"9a6b9473-6289-4f98-86ea-bb906053da69","eraiAmount":"200.00","hallId":1247,"eraiOccurredAt":"2022-05-08 20:45:35+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"499600","bankReport":40,"amount":"200.00","utcDatetime":"2022-05-08 20:45:00","hallId":1247}
+ Номер транзакции: 314
+
+Данные из таблицы transactions:
+{"eraiId":"9b7aa16b-2716-489e-8f67-737607375200","eraiAmount":"500.00","hallId":599,"eraiOccurredAt":"2022-05-07 20:44:43+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"473458","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 20:44:00","hallId":599}
+ Номер транзакции: 315
+
+Данные из таблицы transactions:
+{"eraiId":"9b9f883f-1b42-40e6-84d2-020836944466","eraiAmount":"5000.00","hallId":987,"eraiOccurredAt":"2022-05-08 20:50:04+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"498547","bankReport":40,"amount":"5000.00","utcDatetime":"2022-05-08 20:49:00","hallId":987}
+ Номер транзакции: 316
+
+Данные из таблицы transactions:
+{"eraiId":"9c0d9908-d097-49f9-9dc3-56215cf40d12","eraiAmount":"2000.00","hallId":1595,"eraiOccurredAt":"2022-05-07 19:01:27+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"468950","bankReport":38,"amount":"2000.00","utcDatetime":"2022-05-07 19:01:00","hallId":1595}
+ Номер транзакции: 317
+
+Данные из таблицы transactions:
+{"eraiId":"9c92a61d-546e-49d0-a656-b82abef52c7b","eraiAmount":"1000.00","hallId":1663,"eraiOccurredAt":"2022-05-08 20:46:45+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"495897","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:46:00","hallId":1663}
+ Номер транзакции: 318
+
+Данные из таблицы transactions:
+{"eraiId":"9cb0af64-e519-4951-a5c1-def94c19bead","eraiAmount":"500.00","hallId":1516,"eraiOccurredAt":"2022-05-07 20:34:55+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"468328","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 20:34:00","hallId":1516}
+ Номер транзакции: 319
+
+Данные из таблицы transactions:
+{"eraiId":"9cb1ea5f-e0ff-42b6-9b64-c1e7ecc7660f","eraiAmount":"5000.00","hallId":245,"eraiOccurredAt":"2022-05-08 20:54:48+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"489923","bankReport":40,"amount":"5000.00","utcDatetime":"2022-05-08 20:54:00","hallId":245}
+ Номер транзакции: 320
+
+Данные из таблицы transactions:
+{"eraiId":"9e449d94-0b83-45d8-894c-771d9e5a1aaf","eraiAmount":"500.00","hallId":1240,"eraiOccurredAt":"2022-05-07 20:12:49+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"465947","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 20:12:00","hallId":1240}
+ Номер транзакции: 321
+
+Данные из таблицы transactions:
+{"eraiId":"9f728a2c-2f5f-44f1-82e1-3a3f5f0e871e","eraiAmount":"1000.00","hallId":1359,"eraiOccurredAt":"2022-05-07 20:05:17+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"466460","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 20:05:00","hallId":1359}
+ Номер транзакции: 322
+
+Данные из таблицы transactions:
+{"eraiId":"9f8e2909-981f-408c-aada-df7d8248d2b8","eraiAmount":"50.00","hallId":1595,"eraiOccurredAt":"2022-05-07 20:17:33+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"468953","bankReport":38,"amount":"50.00","utcDatetime":"2022-05-07 20:17:00","hallId":1595}
+ Номер транзакции: 323
+
+Данные из таблицы transactions:
+{"eraiId":"a00fbf70-13e9-437d-a78c-bb30dd30a2f4","eraiAmount":"400.00","hallId":1460,"eraiOccurredAt":"2022-05-08 20:57:12+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"500695","bankReport":40,"amount":"400.00","utcDatetime":"2022-05-08 20:57:00","hallId":1460}
+ Номер транзакции: 324
+
+Данные из таблицы transactions:
+{"eraiId":"a047526d-6df4-436b-8283-be9d66c27bf7","eraiAmount":"500.00","hallId":1383,"eraiOccurredAt":"2022-05-07 20:11:03+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"466920","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 20:10:00","hallId":1383}
+ Номер транзакции: 325
+
+Данные из таблицы transactions:
+{"eraiId":"a0f69a7c-7fb4-4aa9-8967-c5c9c0b505c2","eraiAmount":"500.00","hallId":1852,"eraiOccurredAt":"2022-05-07 17:23:50+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"474288","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 17:23:00","hallId":1852}
+ Номер транзакции: 326
+
+Данные из таблицы transactions:
+{"eraiId":"a1a08b65-4b9b-44c8-83f3-56d608f5c506","eraiAmount":"4000.00","hallId":1291,"eraiOccurredAt":"2022-05-07 20:39:16+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"466102","bankReport":38,"amount":"4000.00","utcDatetime":"2022-05-07 20:39:00","hallId":1291}
+ Номер транзакции: 327
+
+Данные из таблицы transactions:
+{"eraiId":"a1b05fec-8162-4c79-911c-e7cea390c930","eraiAmount":"100.00","hallId":599,"eraiOccurredAt":"2022-05-07 19:46:46+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"473451","bankReport":38,"amount":"100.00","utcDatetime":"2022-05-07 19:46:00","hallId":599}
+ Номер транзакции: 328
+
+Данные из таблицы transactions:
+{"eraiId":"a2503f87-e3c7-476b-b9ff-6010f7045521","eraiAmount":"100.00","hallId":1629,"eraiOccurredAt":"2022-05-07 20:06:58+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469275","bankReport":38,"amount":"100.00","utcDatetime":"2022-05-07 20:06:00","hallId":1629}
+ Номер транзакции: 329
+
+Данные из таблицы transactions:
+{"eraiId":"a560e59e-3838-4e6b-b0ed-7aa07a2f4013","eraiAmount":"3000.00","hallId":1544,"eraiOccurredAt":"2022-05-07 20:33:53+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"473366","bankReport":38,"amount":"3000.00","utcDatetime":"2022-05-07 20:33:00","hallId":1544}
+ Номер транзакции: 330
+
+Данные из таблицы transactions:
+{"eraiId":"a56140c7-b678-4301-9447-b4590b104ad0","eraiAmount":"2000.00","hallId":1781,"eraiOccurredAt":"2022-05-07 17:44:37+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"471203","bankReport":38,"amount":"2000.00","utcDatetime":"2022-05-07 17:44:00","hallId":1781}
+ Номер транзакции: 331
+
+Данные из таблицы transactions:
+{"eraiId":"a5df091c-575a-4f35-a6dd-f77bb8d2a326","eraiAmount":"1000.00","hallId":683,"eraiOccurredAt":"2022-05-07 15:55:11+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463811","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 15:55:00","hallId":683}
+ Номер транзакции: 332
+
+Данные из таблицы transactions:
+{"eraiId":"a5e65ff9-70d0-4670-992a-1a49bdf84735","eraiAmount":"1000.00","hallId":1610,"eraiOccurredAt":"2022-05-07 20:43:59+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469172","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 20:43:00","hallId":1610}
+ Номер транзакции: 333
+
+Данные из таблицы transactions:
+{"eraiId":"a5f87c78-4c07-40c0-a64c-7eba51496e44","eraiAmount":"4000.00","hallId":1669,"eraiOccurredAt":"2022-05-07 16:13:54+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469866","bankReport":38,"amount":"4000.00","utcDatetime":"2022-05-07 16:13:00","hallId":1669}
+ Номер транзакции: 334
+
+Данные из таблицы transactions:
+{"eraiId":"a7508338-e458-4f52-8a5f-610e33cada17","eraiAmount":"2500.00","hallId":1229,"eraiOccurredAt":"2022-05-08 20:58:47+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"492439","bankReport":40,"amount":"2500.00","utcDatetime":"2022-05-08 20:58:00","hallId":1229}
+ Номер транзакции: 335
+
+Данные из таблицы transactions:
+{"eraiId":"a7e906f3-b162-446f-a3e7-6f49705a9cb7","eraiAmount":"1000.00","hallId":683,"eraiOccurredAt":"2022-05-07 18:10:37+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463830","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 18:10:00","hallId":683}
+ Номер транзакции: 336
+
+Данные из таблицы transactions:
+{"eraiId":"a94682e2-a19c-48be-853b-2ac8fc4c49b9","eraiAmount":"500.00","hallId":1422,"eraiOccurredAt":"2022-05-08 20:45:19+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"493923","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:45:00","hallId":1422}
+ Номер транзакции: 337
+
+Данные из таблицы transactions:
+{"eraiId":"a9620006-db6b-4eb0-9e2f-f8e95de0275c","eraiAmount":"6000.00","hallId":1874,"eraiOccurredAt":"2022-05-07 19:55:02+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"475318","bankReport":38,"amount":"6000.00","utcDatetime":"2022-05-07 19:54:00","hallId":1874}
+ Номер транзакции: 338
+
+Данные из таблицы transactions:
+{"eraiId":"a97ab663-e6a1-444c-b48f-5e359ff2b07e","eraiAmount":"10000.00","hallId":1610,"eraiOccurredAt":"2022-05-07 17:30:07+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469153","bankReport":38,"amount":"10000.00","utcDatetime":"2022-05-07 17:29:00","hallId":1610}
+ Номер транзакции: 339
+
+Данные из таблицы transactions:
+{"eraiId":"a9990cad-d9b9-4b6b-800f-2f6e6bb935d9","eraiAmount":"5000.00","hallId":1365,"eraiOccurredAt":"2022-05-08 20:51:15+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"493076","bankReport":40,"amount":"5000.00","utcDatetime":"2022-05-08 20:51:00","hallId":1365}
+ Номер транзакции: 340
+
+Данные из таблицы transactions:
+{"eraiId":"a9c218c3-7758-4fd3-9646-af7add7db0dc","eraiAmount":"900.00","hallId":1585,"eraiOccurredAt":"2022-05-08 20:50:05+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"495310","bankReport":40,"amount":"900.00","utcDatetime":"2022-05-08 20:49:00","hallId":1585}
+ Номер транзакции: 341
+
+Данные из таблицы transactions:
+{"eraiId":"aa09eaee-b550-4f5c-8e16-e9bad5c4c948","eraiAmount":"1000.00","hallId":1359,"eraiOccurredAt":"2022-05-07 19:35:14+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"466456","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 19:35:00","hallId":1359}
+ Номер транзакции: 342
+
+Данные из таблицы transactions:
+{"eraiId":"aa66293c-5468-4fa5-95b6-fac5b814f350","eraiAmount":"2400.00","hallId":119,"eraiOccurredAt":"2022-05-07 20:20:00+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"462637","bankReport":38,"amount":"2400.00","utcDatetime":"2022-05-07 20:19:00","hallId":119}
+ Номер транзакции: 343
+
+Данные из таблицы transactions:
+{"eraiId":"aae6168c-1bfe-4db8-a296-b04366401717","eraiAmount":"500.00","hallId":683,"eraiOccurredAt":"2022-05-07 17:27:04+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463819","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 17:27:00","hallId":683}
+ Номер транзакции: 344
+
+Данные из таблицы transactions:
+{"eraiId":"aaec39bb-233e-4018-9a83-135115c4eec4","eraiAmount":"1000.00","hallId":1532,"eraiOccurredAt":"2022-05-07 20:01:39+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"468453","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 20:01:00","hallId":1532}
+ Номер транзакции: 345
+
+Данные из таблицы transactions:
+{"eraiId":"aaf0e6e9-0058-48a0-9b6e-ad559df9b7ea","eraiAmount":"7000.00","hallId":1826,"eraiOccurredAt":"2022-05-08 20:58:40+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"497548","bankReport":40,"amount":"7000.00","utcDatetime":"2022-05-08 20:58:00","hallId":1826}
+ Номер транзакции: 346
+
+Данные из таблицы transactions:
+{"eraiId":"acdbaee7-8e49-4b2f-bfd2-3a1f124ee718","eraiAmount":"1000.00","hallId":1457,"eraiOccurredAt":"2022-05-08 20:53:06+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"494439","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:52:00","hallId":1457}
+ Номер транзакции: 347
+
+Данные из таблицы transactions:
+{"eraiId":"ad066060-cd0d-426d-870a-421be8861e7e","eraiAmount":"500.00","hallId":1383,"eraiOccurredAt":"2022-05-07 19:29:47+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"466917","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 19:29:00","hallId":1383}
+ Номер транзакции: 348
+
+Данные из таблицы transactions:
+{"eraiId":"ad1fa466-af23-4ae8-9599-c1df143daf47","eraiAmount":"1000.00","hallId":643,"eraiOccurredAt":"2022-05-07 20:12:00+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"464553","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 20:11:00","hallId":643}
+ Номер транзакции: 349
+
+Данные из таблицы transactions:
+{"eraiId":"add0368b-0534-4b93-ad94-2faef32870b0","eraiAmount":"2000.00","hallId":60,"eraiOccurredAt":"2022-05-07 19:11:39+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"462234","bankReport":38,"amount":"2000.00","utcDatetime":"2022-05-07 19:11:00","hallId":60}
+ Номер транзакции: 350
+
+Данные из таблицы transactions:
+{"eraiId":"addc31ba-284c-48f4-9d93-02b4a2557109","eraiAmount":"1000.00","hallId":683,"eraiOccurredAt":"2022-05-07 15:35:07+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463809","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 15:35:00","hallId":683}
+ Номер транзакции: 351
+
+Данные из таблицы transactions:
+{"eraiId":"ae475f7f-1511-4bf7-92a9-79b387b53446","eraiAmount":"1000.00","hallId":1642,"eraiOccurredAt":"2022-05-08 20:59:03+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"495626","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:58:00","hallId":1642}
+ Номер транзакции: 352
+
+Данные из таблицы transactions:
+{"eraiId":"aec36b27-e060-413f-8eca-0af322a9d69e","eraiAmount":"5000.00","hallId":1891,"eraiOccurredAt":"2022-05-08 20:58:08+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"498077","bankReport":40,"amount":"5000.00","utcDatetime":"2022-05-08 20:58:00","hallId":1891}
+ Номер транзакции: 353
+
+Данные из таблицы transactions:
+{"eraiId":"af2815e9-b9a3-40da-ac06-92858fabe8db","eraiAmount":"2000.00","hallId":777,"eraiOccurredAt":"2022-05-07 19:14:48+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"473296","bankReport":38,"amount":"2000.00","utcDatetime":"2022-05-07 19:14:00","hallId":777}
+ Номер транзакции: 354
+
+Данные из таблицы transactions:
+{"eraiId":"af84037b-45c0-41e1-8f31-7e6a19a56143","eraiAmount":"2000.00","hallId":1392,"eraiOccurredAt":"2022-05-07 20:09:03+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"467429","bankReport":38,"amount":"2000.00","utcDatetime":"2022-05-07 20:08:00","hallId":1392}
+ Номер транзакции: 355
+
+Данные из таблицы transactions:
+{"eraiId":"af93f9bc-25a0-4999-ada8-a07015123995","eraiAmount":"1000.00","hallId":1593,"eraiOccurredAt":"2022-05-07 20:07:03+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"468921","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 20:06:00","hallId":1593}
+ Номер транзакции: 356
+
+Данные из таблицы transactions:
+{"eraiId":"afc70c69-6aed-4d40-b82d-eb5f29dce127","eraiAmount":"300.00","hallId":1701,"eraiOccurredAt":"2022-05-08 20:51:15+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"496294","bankReport":40,"amount":"300.00","utcDatetime":"2022-05-08 20:51:00","hallId":1701}
+ Номер транзакции: 357
+
+Данные из таблицы transactions:
+{"eraiId":"b16a49c4-cc5b-499a-8ae2-64bc62cfeddc","eraiAmount":"500.00","hallId":1853,"eraiOccurredAt":"2022-05-08 20:58:04+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"497788","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:58:00","hallId":1853}
+ Номер транзакции: 358
+
+Данные из таблицы transactions:
+{"eraiId":"b1876c73-6397-449c-b9a4-11102217319b","eraiAmount":"500.00","hallId":1891,"eraiOccurredAt":"2022-05-08 20:53:12+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"498076","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:53:00","hallId":1891}
+ Номер транзакции: 359
+
+Данные из таблицы transactions:
+{"eraiId":"b2459aeb-bf0d-448a-87ce-29d2f87d0342","eraiAmount":"1000.00","hallId":1383,"eraiOccurredAt":"2022-05-07 20:12:52+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"466921","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 20:12:00","hallId":1383}
+ Номер транзакции: 360
+
+Данные из таблицы transactions:
+{"eraiId":"b30e4294-0318-42dd-9c70-57fbf2b937c7","eraiAmount":"6000.00","hallId":1661,"eraiOccurredAt":"2022-05-07 20:24:00+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469645","bankReport":38,"amount":"6000.00","utcDatetime":"2022-05-07 20:23:00","hallId":1661}
+ Номер транзакции: 361
+
+Данные из таблицы transactions:
+{"eraiId":"b3379641-0ea7-4880-87d3-d05fde82804a","eraiAmount":"1000.00","hallId":345,"eraiOccurredAt":"2022-05-07 17:50:01+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463332","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 17:49:00","hallId":345}
+ Номер транзакции: 362
+
+Данные из таблицы transactions:
+{"eraiId":"b3e433e1-45ac-4e92-aa7b-0eac82b2bb33","eraiAmount":"500.00","hallId":1380,"eraiOccurredAt":"2022-05-07 20:11:04+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"466692","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 20:11:00","hallId":1380}
+ Номер транзакции: 363
+
+Данные из таблицы transactions:
+{"eraiId":"b43ef85f-31bc-498e-86b3-ab9339652168","eraiAmount":"2700.00","hallId":861,"eraiOccurredAt":"2022-05-08 20:51:40+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"491053","bankReport":40,"amount":"2700.00","utcDatetime":"2022-05-08 20:51:00","hallId":861}
+ Номер транзакции: 364
+
+Данные из таблицы transactions:
+{"eraiId":"b4aa7c1e-431c-4142-aa38-792de4e8bab3","eraiAmount":"1000.00","hallId":1777,"eraiOccurredAt":"2022-05-07 19:31:59+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"471176","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 19:31:00","hallId":1777}
+ Номер транзакции: 365
+
+Данные из таблицы transactions:
+{"eraiId":"b536f34f-3460-4302-8dcc-d46a69d57614","eraiAmount":"2000.00","hallId":1610,"eraiOccurredAt":"2022-05-07 20:15:06+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469164","bankReport":38,"amount":"2000.00","utcDatetime":"2022-05-07 20:15:00","hallId":1610}
+ Номер транзакции: 366
+
+Данные из таблицы transactions:
+{"eraiId":"b5df768d-d192-47af-8869-4e0db441d7f2","eraiAmount":"1000.00","hallId":345,"eraiOccurredAt":"2022-05-07 16:25:28+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463328","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 16:25:00","hallId":345}
+ Номер транзакции: 367
+
+Данные из таблицы transactions:
+{"eraiId":"b5fb5348-bbdf-4b6d-98f6-1b01b25a20b0","eraiAmount":"1000.00","hallId":683,"eraiOccurredAt":"2022-05-07 16:38:12+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463815","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 16:38:00","hallId":683}
+ Номер транзакции: 368
+
+Данные из таблицы transactions:
+{"eraiId":"b71ee623-938f-4aa9-bfb9-e2a8f44f9939","eraiAmount":"690.00","hallId":1035,"eraiOccurredAt":"2022-05-08 20:46:01+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"491642","bankReport":40,"amount":"690.00","utcDatetime":"2022-05-08 20:45:00","hallId":1035}
+ Номер транзакции: 369
+
+Данные из таблицы transactions:
+{"eraiId":"b7591b3b-fcc7-45af-9bec-6b2c0bf02071","eraiAmount":"500.00","hallId":1365,"eraiOccurredAt":"2022-05-08 20:54:16+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"493077","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:54:00","hallId":1365}
+ Номер транзакции: 370
+
+Данные из таблицы transactions:
+{"eraiId":"b86a4bbc-736a-4a51-9f3f-a9b9c72e3615","eraiAmount":"400.00","hallId":1391,"eraiOccurredAt":"2022-05-07 20:36:27+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"467376","bankReport":38,"amount":"400.00","utcDatetime":"2022-05-07 20:36:00","hallId":1391}
+ Номер транзакции: 371
+
+Данные из таблицы transactions:
+{"eraiId":"b889e470-673a-456d-84dc-8d02ccb20879","eraiAmount":"1000.00","hallId":1701,"eraiOccurredAt":"2022-05-08 20:47:50+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"496783","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:47:00","hallId":1701}
+ Номер транзакции: 372
+
+Данные из таблицы transactions:
+{"eraiId":"b89954f9-a6ca-42e7-ab1c-3258c65d9d91","eraiAmount":"800.00","hallId":884,"eraiOccurredAt":"2022-05-08 20:54:15+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"491085","bankReport":40,"amount":"800.00","utcDatetime":"2022-05-08 20:54:00","hallId":884}
+ Номер транзакции: 373
+
+Данные из таблицы transactions:
+{"eraiId":"b8d09f03-888e-48ff-9c8e-0f0ff2ac9949","eraiAmount":"5000.00","hallId":1517,"eraiOccurredAt":"2022-05-07 20:20:08+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"468367","bankReport":38,"amount":"5000.00","utcDatetime":"2022-05-07 20:19:00","hallId":1517}
+ Номер транзакции: 374
+
+Данные из таблицы transactions:
+{"eraiId":"b8df74e4-b854-4536-9506-c666889c1a7e","eraiAmount":"600.00","hallId":1961,"eraiOccurredAt":"2022-05-08 20:55:32+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"500597","bankReport":40,"amount":"600.00","utcDatetime":"2022-05-08 20:55:00","hallId":1961}
+ Номер транзакции: 375
+
+Данные из таблицы transactions:
+{"eraiId":"b92005c6-6eb0-49bc-8eda-181e77f1928a","eraiAmount":"1000.00","hallId":1874,"eraiOccurredAt":"2022-05-07 19:12:59+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"475316","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 19:12:00","hallId":1874}
+ Номер транзакции: 376
+
+Данные из таблицы transactions:
+{"eraiId":"b9df616b-c6d1-46b4-84df-08618c7399a9","eraiAmount":"400.00","hallId":1595,"eraiOccurredAt":"2022-05-07 19:16:38+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"468951","bankReport":38,"amount":"400.00","utcDatetime":"2022-05-07 19:16:00","hallId":1595}
+ Номер транзакции: 377
+
+Данные из таблицы transactions:
+{"eraiId":"b9e78bf8-b381-4b67-a6ba-227a4012f982","eraiAmount":"1000.00","hallId":1664,"eraiOccurredAt":"2022-05-08 20:49:19+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"496203","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:49:00","hallId":1664}
+ Номер транзакции: 378
+
+Данные из таблицы transactions:
+{"eraiId":"bab1ca08-0283-40ab-b188-3bbb231ee77f","eraiAmount":"2000.00","hallId":1642,"eraiOccurredAt":"2022-05-08 20:58:41+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"495625","bankReport":40,"amount":"2000.00","utcDatetime":"2022-05-08 20:58:00","hallId":1642}
+ Номер транзакции: 379
+
+Данные из таблицы transactions:
+{"eraiId":"bb297e73-c48d-4da9-b048-0f8536588d35","eraiAmount":"1000.00","hallId":683,"eraiOccurredAt":"2022-05-07 15:56:20+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463811","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 15:55:00","hallId":683}
+ Номер транзакции: 380
+
+Данные из таблицы transactions:
+{"eraiId":"bbaa6c19-dfb9-41c1-b3bf-c67991ed55a1","eraiAmount":"200.00","hallId":1655,"eraiOccurredAt":"2022-05-08 20:55:15+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"495699","bankReport":40,"amount":"200.00","utcDatetime":"2022-05-08 20:54:00","hallId":1655}
+ Номер транзакции: 381
+
+Данные из таблицы transactions:
+{"eraiId":"bd347366-349d-40ff-8335-bb3d6d1e5344","eraiAmount":"1000.00","hallId":1460,"eraiOccurredAt":"2022-05-08 20:55:48+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"500694","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:55:00","hallId":1460}
+ Номер транзакции: 382
+
+Данные из таблицы transactions:
+{"eraiId":"bd7ea5d6-bcf9-45e4-8465-f4bdde0360e0","eraiAmount":"2000.00","hallId":1359,"eraiOccurredAt":"2022-05-07 19:27:02+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"466455","bankReport":38,"amount":"2000.00","utcDatetime":"2022-05-07 19:26:00","hallId":1359}
+ Номер транзакции: 383
+
+Данные из таблицы transactions:
+{"eraiId":"bdd2e8f4-34e8-4760-bdeb-7d75a225fc5e","eraiAmount":"100.00","hallId":599,"eraiOccurredAt":"2022-05-07 19:09:10+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"473447","bankReport":38,"amount":"100.00","utcDatetime":"2022-05-07 19:09:00","hallId":599}
+ Номер транзакции: 384
+
+Данные из таблицы transactions:
+{"eraiId":"bede0e79-29bf-4d9e-abed-2e6a2a581dfd","eraiAmount":"1000.00","hallId":1337,"eraiOccurredAt":"2022-05-08 20:51:36+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"492908","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:51:00","hallId":1337}
+ Номер транзакции: 385
+
+Данные из таблицы transactions:
+{"eraiId":"bf7ccc0b-1365-4cb8-851b-a8d005338d16","eraiAmount":"500.00","hallId":222,"eraiOccurredAt":"2022-05-08 20:55:39+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"499326","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:55:00","hallId":222}
+ Номер транзакции: 386
+
+Данные из таблицы transactions:
+{"eraiId":"bf91ba57-bc77-43ce-b93d-5f4f2ad7e3d5","eraiAmount":"500.00","hallId":202,"eraiOccurredAt":"2022-05-07 20:01:07+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"462779","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 20:01:00","hallId":202}
+ Номер транзакции: 387
+
+Данные из таблицы transactions:
+{"eraiId":"bfe3e2ea-55ae-4a82-b766-741e69b8c62e","eraiAmount":"2000.00","hallId":1226,"eraiOccurredAt":"2022-05-08 20:58:56+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"499779","bankReport":40,"amount":"2000.00","utcDatetime":"2022-05-08 20:58:00","hallId":1226}
+ Номер транзакции: 388
+
+Данные из таблицы transactions:
+{"eraiId":"bffcacc1-0faf-4d70-acc1-1d57c1d7255e","eraiAmount":"2000.00","hallId":1836,"eraiOccurredAt":"2022-05-07 16:48:14+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"472474","bankReport":38,"amount":"2000.00","utcDatetime":"2022-05-07 16:48:00","hallId":1836}
+ Номер транзакции: 389
+
+Данные из таблицы transactions:
+{"eraiId":"c0013684-9956-4784-941d-354872b819bb","eraiAmount":"950.00","hallId":1774,"eraiOccurredAt":"2022-05-07 19:01:03+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"474451","bankReport":38,"amount":"950.00","utcDatetime":"2022-05-07 19:00:00","hallId":1774}
+ Номер транзакции: 390
+
+Данные из таблицы transactions:
+{"eraiId":"c073ce16-212d-4c93-968d-827453b2ba07","eraiAmount":"2900.00","hallId":1699,"eraiOccurredAt":"2022-05-07 20:40:02+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"475793","bankReport":38,"amount":"2900.00","utcDatetime":"2022-05-07 20:39:00","hallId":1699}
+ Номер транзакции: 391
+
+Данные из таблицы transactions:
+{"eraiId":"c1fb89d5-7660-489f-97f1-2e6c1f7a417c","eraiAmount":"1000.00","hallId":1117,"eraiOccurredAt":"2022-05-08 20:51:22+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"491909","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:51:00","hallId":1117}
+ Номер транзакции: 392
+
+Данные из таблицы transactions:
+{"eraiId":"c2d98b52-6c06-4998-8ae6-9bd8a6bcc1cf","eraiAmount":"500.00","hallId":119,"eraiOccurredAt":"2022-05-07 20:38:00+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"462639","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 20:37:00","hallId":119}
+ Номер транзакции: 393
+
+Данные из таблицы transactions:
+{"eraiId":"c2f81f47-1f02-4631-bf14-7b262075ca4a","eraiAmount":"1000.00","hallId":1359,"eraiOccurredAt":"2022-05-07 19:17:58+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"466453","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 19:17:00","hallId":1359}
+ Номер транзакции: 394
+
+Данные из таблицы transactions:
+{"eraiId":"c2fef40d-c54e-42da-bd69-c3e06ceafd69","eraiAmount":"500.00","hallId":306,"eraiOccurredAt":"2022-05-08 20:54:25+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"490009","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:54:00","hallId":306}
+ Номер транзакции: 395
+
+Данные из таблицы transactions:
+{"eraiId":"c4725115-7aa2-4255-9912-17e72e4b6dce","eraiAmount":"1000.00","hallId":1199,"eraiOccurredAt":"2022-05-08 20:47:02+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"492198","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:46:00","hallId":1199}
+ Номер транзакции: 396
+
+Данные из таблицы transactions:
+{"eraiId":"c5b99d55-8369-490f-9b69-8c78983ef87b","eraiAmount":"800.00","hallId":186,"eraiOccurredAt":"2022-05-07 20:39:05+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"462754","bankReport":38,"amount":"800.00","utcDatetime":"2022-05-07 20:38:00","hallId":186}
+ Номер транзакции: 397
+
+Данные из таблицы transactions:
+{"eraiId":"c6dec3cd-af31-498b-ac17-792baf8e3e33","eraiAmount":"400.00","hallId":1941,"eraiOccurredAt":"2022-05-08 20:48:11+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"500046","bankReport":40,"amount":"400.00","utcDatetime":"2022-05-08 20:48:00","hallId":1941}
+ Номер транзакции: 398
+
+Данные из таблицы transactions:
+{"eraiId":"c6e796fb-5962-4f2f-b278-65c7918fae79","eraiAmount":"80.00","hallId":1359,"eraiOccurredAt":"2022-05-07 19:47:05+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"466457","bankReport":38,"amount":"80.00","utcDatetime":"2022-05-07 19:46:00","hallId":1359}
+ Номер транзакции: 399
+
+Данные из таблицы transactions:
+{"eraiId":"c79ddc30-c1ee-4c58-af94-6f32e980e1cf","eraiAmount":"500.00","hallId":1655,"eraiOccurredAt":"2022-05-08 20:57:02+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"495700","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:56:00","hallId":1655}
+ Номер транзакции: 400
+
+Данные из таблицы transactions:
+{"eraiId":"c7ae4495-10f3-40ff-8b18-739f2d0f50db","eraiAmount":"1000.00","hallId":1610,"eraiOccurredAt":"2022-05-07 20:14:43+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469163","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 20:14:00","hallId":1610}
+ Номер транзакции: 401
+
+Данные из таблицы transactions:
+{"eraiId":"c7f7a678-33cc-48a1-a6a2-b6b6fb5c377c","eraiAmount":"500.00","hallId":1701,"eraiOccurredAt":"2022-05-08 20:53:03+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"496785","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:52:00","hallId":1701}
+ Номер транзакции: 402
+
+Данные из таблицы transactions:
+{"eraiId":"c8031d2d-2930-4222-8d54-71e32d5145ff","eraiAmount":"3000.00","hallId":1588,"eraiOccurredAt":"2022-05-07 19:25:50+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"468891","bankReport":38,"amount":"3000.00","utcDatetime":"2022-05-07 19:25:00","hallId":1588}
+ Номер транзакции: 403
+
+Данные из таблицы transactions:
+{"eraiId":"c82109e8-606b-40f0-a8ec-505d5713d88a","eraiAmount":"1500.00","hallId":1949,"eraiOccurredAt":"2022-05-07 20:00:19+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"474593","bankReport":38,"amount":"1500.00","utcDatetime":"2022-05-07 20:00:00","hallId":1949}
+ Номер транзакции: 404
+
+Данные из таблицы transactions:
+{"eraiId":"c8edbec3-4bbb-45a5-82f8-334c4f824241","eraiAmount":"1000.00","hallId":1610,"eraiOccurredAt":"2022-05-07 20:44:42+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469172","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 20:43:00","hallId":1610}
+ Номер транзакции: 405
+
+Данные из таблицы transactions:
+{"eraiId":"c9249df1-77a8-4944-85b2-6202bc792821","eraiAmount":"2000.00","hallId":60,"eraiOccurredAt":"2022-05-07 15:50:26+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"462231","bankReport":38,"amount":"2000.00","utcDatetime":"2022-05-07 15:49:00","hallId":60}
+ Номер транзакции: 406
+
+Данные из таблицы transactions:
+{"eraiId":"c9c17f6c-d358-40a6-9995-5027ac90c694","eraiAmount":"1000.00","hallId":1337,"eraiOccurredAt":"2022-05-08 20:57:48+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"492909","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:57:00","hallId":1337}
+ Номер транзакции: 407
+
+Данные из таблицы transactions:
+{"eraiId":"caa0e26a-b63e-4a80-b3e5-33d655c05f64","eraiAmount":"1000.00","hallId":1669,"eraiOccurredAt":"2022-05-07 18:51:15+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469874","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 18:51:00","hallId":1669}
+ Номер транзакции: 408
+
+Данные из таблицы transactions:
+{"eraiId":"cac09816-5f28-4fc1-a36d-6aa45cfaf28e","eraiAmount":"50.00","hallId":1774,"eraiOccurredAt":"2022-05-07 19:01:49+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"474452","bankReport":38,"amount":"50.00","utcDatetime":"2022-05-07 19:01:00","hallId":1774}
+ Номер транзакции: 409
+
+Данные из таблицы transactions:
+{"eraiId":"cac099fb-8b21-4a75-8109-0158687abda2","eraiAmount":"500.00","hallId":1900,"eraiOccurredAt":"2022-05-08 20:54:27+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"498129","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:54:00","hallId":1900}
+ Номер транзакции: 410
+
+Данные из таблицы transactions:
+{"eraiId":"cac134bd-0120-40d1-a424-80434140fd40","eraiAmount":"4000.00","hallId":1867,"eraiOccurredAt":"2022-05-08 20:56:50+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"497969","bankReport":40,"amount":"4000.00","utcDatetime":"2022-05-08 20:56:00","hallId":1867}
+ Номер транзакции: 411
+
+Данные из таблицы transactions:
+{"eraiId":"cb23765f-9b2d-4e71-80f4-5440f536f65e","eraiAmount":"1000.00","hallId":222,"eraiOccurredAt":"2022-05-08 20:57:14+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"499327","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:57:00","hallId":222}
+ Номер транзакции: 412
+
+Данные из таблицы transactions:
+{"eraiId":"cc4b3dc9-692a-4a43-a1bc-707800445666","eraiAmount":"2000.00","hallId":1669,"eraiOccurredAt":"2022-05-07 14:45:45+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469858","bankReport":38,"amount":"2000.00","utcDatetime":"2022-05-07 14:45:00","hallId":1669}
+ Номер транзакции: 413
+
+Данные из таблицы transactions:
+{"eraiId":"cc581a92-7344-4b73-a7a9-d031cc9360c6","eraiAmount":"900.00","hallId":1585,"eraiOccurredAt":"2022-05-08 20:50:40+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"495310","bankReport":40,"amount":"900.00","utcDatetime":"2022-05-08 20:49:00","hallId":1585}
+ Номер транзакции: 414
+
+Данные из таблицы transactions:
+{"eraiId":"cc5e9e4e-717b-4d66-bcc7-f6778ee8db50","eraiAmount":"1000.00","hallId":886,"eraiOccurredAt":"2022-05-08 20:47:08+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"491151","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:46:00","hallId":886}
+ Номер транзакции: 415
+
+Данные из таблицы transactions:
+{"eraiId":"cd577dd9-f776-44ac-bfda-909c89dc8f22","eraiAmount":"500.00","hallId":1900,"eraiOccurredAt":"2022-05-08 20:45:54+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"498126","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:45:00","hallId":1900}
+ Номер транзакции: 416
+
+Данные из таблицы transactions:
+{"eraiId":"cd6e439b-65bb-418f-8da2-ed7078eb6c46","eraiAmount":"1000.00","hallId":1677,"eraiOccurredAt":"2022-05-08 20:54:59+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"496031","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:54:00","hallId":1677}
+ Номер транзакции: 417
+
+Данные из таблицы transactions:
+{"eraiId":"cd7a869c-987e-4cc0-a36c-94264a788ed1","eraiAmount":"500.00","hallId":223,"eraiOccurredAt":"2022-05-08 20:45:46+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"489866","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:45:00","hallId":223}
+ Номер транзакции: 418
+
+Данные из таблицы transactions:
+{"eraiId":"cdd2a6e0-a41f-4f06-b415-ef0c819437ac","eraiAmount":"1000.00","hallId":884,"eraiOccurredAt":"2022-05-08 20:49:57+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"491084","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:49:00","hallId":884}
+ Номер транзакции: 419
+
+Данные из таблицы transactions:
+{"eraiId":"cde982cf-a63a-4e5e-98bf-9d842cfc754b","eraiAmount":"500.00","hallId":1853,"eraiOccurredAt":"2022-05-08 20:54:56+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"497787","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:54:00","hallId":1853}
+ Номер транзакции: 420
+
+Данные из таблицы transactions:
+{"eraiId":"cf2e0431-2085-4fd2-b2ad-eae42ef98be9","eraiAmount":"1500.00","hallId":223,"eraiOccurredAt":"2022-05-08 20:53:05+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"489867","bankReport":40,"amount":"1500.00","utcDatetime":"2022-05-08 20:52:00","hallId":223}
+ Номер транзакции: 421
+
+Данные из таблицы transactions:
+{"eraiId":"cf3149c1-8f28-464a-bf1a-099aeff32d75","eraiAmount":"900.00","hallId":1825,"eraiOccurredAt":"2022-05-07 20:30:56+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"471637","bankReport":38,"amount":"900.00","utcDatetime":"2022-05-07 20:30:00","hallId":1825}
+ Номер транзакции: 422
+
+Данные из таблицы transactions:
+{"eraiId":"cf58f48e-bccb-47d7-bebf-5ea3324af82e","eraiAmount":"300.00","hallId":1227,"eraiOccurredAt":"2022-05-07 19:43:45+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"465658","bankReport":38,"amount":"300.00","utcDatetime":"2022-05-07 19:43:00","hallId":1227}
+ Номер транзакции: 423
+
+Данные из таблицы transactions:
+{"eraiId":"cf6a5474-550d-4385-9583-6f00c967b0bd","eraiAmount":"15000.00","hallId":1852,"eraiOccurredAt":"2022-05-07 20:21:42+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"474292","bankReport":38,"amount":"15000.00","utcDatetime":"2022-05-07 20:21:00","hallId":1852}
+ Номер транзакции: 424
+
+Данные из таблицы transactions:
+{"eraiId":"cfeef450-c845-4c46-bc57-e20248297ec6","eraiAmount":"100.00","hallId":1389,"eraiOccurredAt":"2022-05-07 20:41:41+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"467906","bankReport":38,"amount":"100.00","utcDatetime":"2022-05-07 20:41:00","hallId":1389}
+ Номер транзакции: 425
+
+Данные из таблицы transactions:
+{"eraiId":"d0d6ed6c-eea8-49ef-b235-dd761787ebb9","eraiAmount":"900.00","hallId":1365,"eraiOccurredAt":"2022-05-08 20:54:53+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"493501","bankReport":40,"amount":"900.00","utcDatetime":"2022-05-08 20:54:00","hallId":1365}
+ Номер транзакции: 426
+
+Данные из таблицы transactions:
+{"eraiId":"d1572f93-0317-4d57-a3c6-3afff3ee07d8","eraiAmount":"3000.00","hallId":1610,"eraiOccurredAt":"2022-05-07 20:42:01+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469169","bankReport":38,"amount":"3000.00","utcDatetime":"2022-05-07 20:41:00","hallId":1610}
+ Номер транзакции: 427
+
+Данные из таблицы transactions:
+{"eraiId":"d1cb2b1e-501b-49b5-82fb-78b4e6326c4b","eraiAmount":"2000.00","hallId":1836,"eraiOccurredAt":"2022-05-07 14:15:47+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"472470","bankReport":38,"amount":"2000.00","utcDatetime":"2022-05-07 14:15:00","hallId":1836}
+ Номер транзакции: 428
+
+Данные из таблицы transactions:
+{"eraiId":"d3441941-f559-48df-81be-bea46f438aa7","eraiAmount":"500.00","hallId":683,"eraiOccurredAt":"2022-05-07 19:26:02+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463835","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 19:25:00","hallId":683}
+ Номер транзакции: 429
+
+Данные из таблицы transactions:
+{"eraiId":"d41419f0-5c1b-4451-bf3b-5a3d76f31ba0","eraiAmount":"500.00","hallId":1900,"eraiOccurredAt":"2022-05-08 20:48:18+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"498127","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:48:00","hallId":1900}
+ Номер транзакции: 430
+
+Данные из таблицы transactions:
+{"eraiId":"d4d7824b-10b1-445c-a730-ae3cd5191b8d","eraiAmount":"20000.00","hallId":1999,"eraiOccurredAt":"2022-05-07 19:44:14+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"472920","bankReport":38,"amount":"20000.00","utcDatetime":"2022-05-07 19:44:00","hallId":1999}
+ Номер транзакции: 431
+
+Данные из таблицы transactions:
+{"eraiId":"d4fbbc2c-b751-42cb-8b93-3f08ba3c15d7","eraiAmount":"20000.00","hallId":1368,"eraiOccurredAt":"2022-05-08 20:46:58+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"493578","bankReport":40,"amount":"20000.00","utcDatetime":"2022-05-08 20:46:00","hallId":1368}
+ Номер транзакции: 432
+
+Данные из таблицы transactions:
+{"eraiId":"d56e960d-f94c-44cf-984c-54c85555d76b","eraiAmount":"1000.00","hallId":1839,"eraiOccurredAt":"2022-05-07 16:52:49+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"475268","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 16:52:00","hallId":1839}
+ Номер транзакции: 433
+
+Данные из таблицы transactions:
+{"eraiId":"d6212fe5-e121-461c-ba81-6b6811d8803a","eraiAmount":"1000.00","hallId":508,"eraiOccurredAt":"2022-05-07 20:44:29+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463548","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 20:44:00","hallId":508}
+ Номер транзакции: 434
+
+Данные из таблицы transactions:
+{"eraiId":"d67036e3-a2c3-4f86-935a-ab2490f55ff4","eraiAmount":"1000.00","hallId":1894,"eraiOccurredAt":"2022-05-07 20:03:04+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"475224","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 20:02:00","hallId":1894}
+ Номер транзакции: 435
+
+Данные из таблицы transactions:
+{"eraiId":"d6af4849-e42d-4331-8031-8a610e29ff66","eraiAmount":"500.00","hallId":1301,"eraiOccurredAt":"2022-05-08 20:53:17+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"492805","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:53:00","hallId":1301}
+ Номер транзакции: 436
+
+Данные из таблицы transactions:
+{"eraiId":"d76a2b72-554d-42ae-9cf0-bf8ddb95d741","eraiAmount":"500.00","hallId":1812,"eraiOccurredAt":"2022-05-08 20:57:26+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"497409","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:57:00","hallId":1812}
+ Номер транзакции: 437
+
+Данные из таблицы transactions:
+{"eraiId":"d770bedd-64cc-4238-81d6-fd842696f9bc","eraiAmount":"150.00","hallId":1566,"eraiOccurredAt":"2022-05-08 20:57:13+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"494946","bankReport":40,"amount":"150.00","utcDatetime":"2022-05-08 20:57:00","hallId":1566}
+ Номер транзакции: 438
+
+Данные из таблицы transactions:
+{"eraiId":"d7ffc1e5-7e69-446a-8438-e6fd558d68bd","eraiAmount":"1000.00","hallId":1391,"eraiOccurredAt":"2022-05-07 19:09:36+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"467370","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 19:09:00","hallId":1391}
+ Номер транзакции: 439
+
+Данные из таблицы transactions:
+{"eraiId":"d8275e66-df72-466e-ab8d-bd47dbbb259b","eraiAmount":"900.00","hallId":683,"eraiOccurredAt":"2022-05-07 16:30:20+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463814","bankReport":38,"amount":"900.00","utcDatetime":"2022-05-07 16:30:00","hallId":683}
+ Номер транзакции: 440
+
+Данные из таблицы transactions:
+{"eraiId":"d82f1be7-8672-4a20-b81d-3bc06ffc45a3","eraiAmount":"1000.00","hallId":1812,"eraiOccurredAt":"2022-05-08 20:57:51+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"497410","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:57:00","hallId":1812}
+ Номер транзакции: 441
+
+Данные из таблицы transactions:
+{"eraiId":"d8e29c69-54c5-4953-a2d7-658a7136efcc","eraiAmount":"600.00","hallId":1941,"eraiOccurredAt":"2022-05-08 20:55:56+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"500047","bankReport":40,"amount":"600.00","utcDatetime":"2022-05-08 20:55:00","hallId":1941}
+ Номер транзакции: 442
+
+Данные из таблицы transactions:
+{"eraiId":"d8e4a256-e303-40f8-b60e-a7795075e9bd","eraiAmount":"1000.00","hallId":1846,"eraiOccurredAt":"2022-05-07 20:03:32+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"475723","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 20:03:00","hallId":1846}
+ Номер транзакции: 443
+
+Данные из таблицы transactions:
+{"eraiId":"d94e303f-2fda-4c80-a256-027c48add7ee","eraiAmount":"2000.00","hallId":1699,"eraiOccurredAt":"2022-05-07 20:44:03+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"475794","bankReport":38,"amount":"2000.00","utcDatetime":"2022-05-07 20:43:00","hallId":1699}
+ Номер транзакции: 444
+
+Данные из таблицы transactions:
+{"eraiId":"d9dc2c36-403c-4976-a823-07f45913e54c","eraiAmount":"900.00","hallId":683,"eraiOccurredAt":"2022-05-07 15:39:00+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463810","bankReport":38,"amount":"900.00","utcDatetime":"2022-05-07 15:38:00","hallId":683}
+ Номер транзакции: 445
+
+Данные из таблицы transactions:
+{"eraiId":"dae998f2-8c75-4db4-88b5-a2ed90c6f090","eraiAmount":"1000.00","hallId":683,"eraiOccurredAt":"2022-05-07 15:16:20+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463807","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 15:16:00","hallId":683}
+ Номер транзакции: 446
+
+Данные из таблицы transactions:
+{"eraiId":"daef06ef-7051-4756-be33-9316838a0430","eraiAmount":"500.00","hallId":345,"eraiOccurredAt":"2022-05-07 15:35:54+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463326","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 15:35:00","hallId":345}
+ Номер транзакции: 447
+
+Данные из таблицы transactions:
+{"eraiId":"dc828cfd-ceb1-4ba0-8bf6-bfb9933642c9","eraiAmount":"1000.00","hallId":1777,"eraiOccurredAt":"2022-05-07 19:47:53+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"471179","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 19:47:00","hallId":1777}
+ Номер транзакции: 448
+
+Данные из таблицы transactions:
+{"eraiId":"dcd11e9d-c226-44b9-bb26-c9f0de73589f","eraiAmount":"1500.00","hallId":683,"eraiOccurredAt":"2022-05-07 18:27:36+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463831","bankReport":38,"amount":"1500.00","utcDatetime":"2022-05-07 18:27:00","hallId":683}
+ Номер транзакции: 449
+
+Данные из таблицы transactions:
+{"eraiId":"dd1fd7a5-e378-42ec-a668-6f3ac48c42ac","eraiAmount":"200.00","hallId":202,"eraiOccurredAt":"2022-05-07 20:09:24+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"462780","bankReport":38,"amount":"200.00","utcDatetime":"2022-05-07 20:09:00","hallId":202}
+ Номер транзакции: 450
+
+Данные из таблицы transactions:
+{"eraiId":"dd2ae3ab-c521-42aa-af1c-099f52f2de1a","eraiAmount":"500.00","hallId":1367,"eraiOccurredAt":"2022-05-08 20:51:16+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"499215","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:51:00","hallId":1367}
+ Номер транзакции: 451
+
+Данные из таблицы transactions:
+{"eraiId":"dda89712-f1a5-49ba-b0f3-e8f66010fb67","eraiAmount":"500.00","hallId":1383,"eraiOccurredAt":"2022-05-07 20:41:17+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"466924","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 20:41:00","hallId":1383}
+ Номер транзакции: 452
+
+Данные из таблицы transactions:
+{"eraiId":"ddb9b8f0-e530-4413-8c46-4881318c694e","eraiAmount":"4000.00","hallId":1669,"eraiOccurredAt":"2022-05-07 14:08:45+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469847","bankReport":38,"amount":"4000.00","utcDatetime":"2022-05-07 14:08:00","hallId":1669}
+ Номер транзакции: 453
+
+Данные из таблицы transactions:
+{"eraiId":"ddef35cb-19b9-499d-ad99-d687c458dd19","eraiAmount":"70.00","hallId":1359,"eraiOccurredAt":"2022-05-07 19:47:02+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"466458","bankReport":38,"amount":"70.00","utcDatetime":"2022-05-07 19:46:00","hallId":1359}
+ Номер транзакции: 454
+
+Данные из таблицы transactions:
+{"eraiId":"dee75bc2-ce01-453b-be93-317fa01304eb","eraiAmount":"1000.00","hallId":1439,"eraiOccurredAt":"2022-05-07 20:28:44+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"473214","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 20:28:00","hallId":1439}
+ Номер транзакции: 455
+
+Данные из таблицы transactions:
+{"eraiId":"dfbf003e-27d0-4027-9141-d14150de9846","eraiAmount":"500.00","hallId":1940,"eraiOccurredAt":"2022-05-08 20:50:32+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"500221","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:50:00","hallId":1940}
+ Номер транзакции: 456
+
+Данные из таблицы transactions:
+{"eraiId":"e01d1f98-a0e6-4b17-857a-bc31d9e545fa","eraiAmount":"1000.00","hallId":1370,"eraiOccurredAt":"2022-05-08 20:45:51+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"493614","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:45:00","hallId":1370}
+ Номер транзакции: 457
+
+Данные из таблицы transactions:
+{"eraiId":"e1373d01-8a77-4d22-ad2f-32f8d551755d","eraiAmount":"500.00","hallId":1707,"eraiOccurredAt":"2022-05-07 20:13:41+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"470339","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 20:13:00","hallId":1707}
+ Номер транзакции: 458
+
+Данные из таблицы transactions:
+{"eraiId":"e3d3c8f7-9ad3-41fd-8729-4a7ff72cba35","eraiAmount":"1000.00","hallId":1610,"eraiOccurredAt":"2022-05-07 18:03:07+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469156","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 18:03:00","hallId":1610}
+ Номер транзакции: 459
+
+Данные из таблицы transactions:
+{"eraiId":"e527e1db-06c4-4e7a-81a9-0a10ed8b7ab7","eraiAmount":"150.00","hallId":1840,"eraiOccurredAt":"2022-05-07 18:31:48+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"473360","bankReport":38,"amount":"150.00","utcDatetime":"2022-05-07 18:31:00","hallId":1840}
+ Номер транзакции: 460
+
+Данные из таблицы transactions:
+{"eraiId":"e5b7fde8-e089-42c4-ac92-be44d3ad28d7","eraiAmount":"1000.00","hallId":777,"eraiOccurredAt":"2022-05-07 19:50:25+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"473298","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 19:50:00","hallId":777}
+ Номер транзакции: 461
+
+Данные из таблицы transactions:
+{"eraiId":"e6104250-ca01-4457-8688-b78e13164696","eraiAmount":"500.00","hallId":1894,"eraiOccurredAt":"2022-05-07 20:11:39+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"475225","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 20:11:00","hallId":1894}
+ Номер транзакции: 462
+
+Данные из таблицы transactions:
+{"eraiId":"e639f9e4-9646-47e1-89f3-72b78039108a","eraiAmount":"300.00","hallId":1550,"eraiOccurredAt":"2022-05-07 17:58:11+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"468564","bankReport":38,"amount":"300.00","utcDatetime":"2022-05-07 17:58:00","hallId":1550}
+ Номер транзакции: 463
+
+Данные из таблицы transactions:
+{"eraiId":"e67c4dfe-fa07-42d2-90f1-d18a1334de1f","eraiAmount":"2000.00","hallId":1836,"eraiOccurredAt":"2022-05-07 17:26:56+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"472475","bankReport":38,"amount":"2000.00","utcDatetime":"2022-05-07 17:26:00","hallId":1836}
+ Номер транзакции: 464
+
+Данные из таблицы transactions:
+{"eraiId":"e6bff5fe-091c-4656-b364-1fd7a2563401","eraiAmount":"1000.00","hallId":293,"eraiOccurredAt":"2022-05-08 20:50:01+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"489980","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:49:00","hallId":293}
+ Номер транзакции: 465
+
+Данные из таблицы transactions:
+{"eraiId":"e75a94d1-18ae-48d0-8746-bd1f3ae7482c","eraiAmount":"1200.00","hallId":1566,"eraiOccurredAt":"2022-05-08 20:50:40+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"494944","bankReport":40,"amount":"1200.00","utcDatetime":"2022-05-08 20:50:00","hallId":1566}
+ Номер транзакции: 466
+
+Данные из таблицы transactions:
+{"eraiId":"e77cfddb-47a0-432f-a31a-7c873556f0db","eraiAmount":"1000.00","hallId":1669,"eraiOccurredAt":"2022-05-07 15:42:29+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469863","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 15:42:00","hallId":1669}
+ Номер транзакции: 467
+
+Данные из таблицы transactions:
+{"eraiId":"e7c12ece-9a83-4347-ac81-2bcd4afae84a","eraiAmount":"1000.00","hallId":1460,"eraiOccurredAt":"2022-05-08 20:52:28+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"500692","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:51:00","hallId":1460}
+ Номер транзакции: 468
+
+Данные из таблицы transactions:
+{"eraiId":"e7fede85-17d7-48d0-90fb-a6006459ef32","eraiAmount":"8.00","hallId":1226,"eraiOccurredAt":"2022-05-08 20:52:53+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"499778","bankReport":40,"amount":"8.00","utcDatetime":"2022-05-08 20:52:00","hallId":1226}
+ Номер транзакции: 469
+
+Данные из таблицы transactions:
+{"eraiId":"e85fc4e0-20e9-498b-8bf7-b65d1a2aead5","eraiAmount":"500.00","hallId":683,"eraiOccurredAt":"2022-05-07 19:52:07+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463840","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 19:52:00","hallId":683}
+ Номер транзакции: 470
+
+Данные из таблицы transactions:
+{"eraiId":"e8cf6206-7ed2-4f1a-b298-b567e5645057","eraiAmount":"500.00","hallId":1900,"eraiOccurredAt":"2022-05-08 20:50:22+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"498128","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:50:00","hallId":1900}
+ Номер транзакции: 471
+
+Данные из таблицы transactions:
+{"eraiId":"e8eebdf3-3840-4fb2-a770-39321662cfec","eraiAmount":"1000.00","hallId":1449,"eraiOccurredAt":"2022-05-07 19:01:03+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"468009","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 19:00:00","hallId":1449}
+ Номер транзакции: 472
+
+Данные из таблицы transactions:
+{"eraiId":"e913549a-193e-4aea-8b22-58b27dfff664","eraiAmount":"1000.00","hallId":1610,"eraiOccurredAt":"2022-05-07 20:44:23+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469172","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 20:43:00","hallId":1610}
+ Номер транзакции: 473
+
+Данные из таблицы transactions:
+{"eraiId":"ea3c3464-9c6b-4a8b-b124-e624763c1082","eraiAmount":"1000.00","hallId":345,"eraiOccurredAt":"2022-05-07 16:49:42+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463330","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 16:49:00","hallId":345}
+ Номер транзакции: 474
+
+Данные из таблицы transactions:
+{"eraiId":"ea84ac07-804c-42b6-a9e0-3d1e38ac66fb","eraiAmount":"2000.00","hallId":1661,"eraiOccurredAt":"2022-05-07 20:35:50+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469646","bankReport":38,"amount":"2000.00","utcDatetime":"2022-05-07 20:35:00","hallId":1661}
+ Номер транзакции: 475
+
+Данные из таблицы transactions:
+{"eraiId":"ea8b4c3d-fed1-496a-91a9-79163b632726","eraiAmount":"500.00","hallId":1800,"eraiOccurredAt":"2022-05-07 19:51:21+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"473506","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 19:51:00","hallId":1800}
+ Номер транзакции: 476
+
+Данные из таблицы transactions:
+{"eraiId":"ea9f38bb-3635-4298-8e6e-0214623163d2","eraiAmount":"1000.00","hallId":1789,"eraiOccurredAt":"2022-05-08 20:48:27+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"497240","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:48:00","hallId":1789}
+ Номер транзакции: 477
+
+Данные из таблицы transactions:
+{"eraiId":"eaea2fd7-b83f-440b-9f6f-8ffe9d68c4b9","eraiAmount":"1000.00","hallId":1338,"eraiOccurredAt":"2022-05-08 20:52:41+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"493297","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:52:00","hallId":1338}
+ Номер транзакции: 478
+
+Данные из таблицы transactions:
+{"eraiId":"ec0494f1-ba5d-4e18-97bc-1f59d1d0fc64","eraiAmount":"500.00","hallId":1035,"eraiOccurredAt":"2022-05-08 20:52:27+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"491643","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:51:00","hallId":1035}
+ Номер транзакции: 479
+
+Данные из таблицы transactions:
+{"eraiId":"ec092087-7a75-4804-ab26-9334130579f8","eraiAmount":"100.00","hallId":1629,"eraiOccurredAt":"2022-05-07 19:40:28+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469274","bankReport":38,"amount":"100.00","utcDatetime":"2022-05-07 19:40:00","hallId":1629}
+ Номер транзакции: 480
+
+Данные из таблицы transactions:
+{"eraiId":"ec33c38f-5eaf-470f-bebf-e34e0eb77901","eraiAmount":"500.00","hallId":1380,"eraiOccurredAt":"2022-05-07 19:13:38+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"466687","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 19:13:00","hallId":1380}
+ Номер транзакции: 481
+
+Данные из таблицы transactions:
+{"eraiId":"ecae1486-e1df-4dfe-931c-feab30807917","eraiAmount":"400.00","hallId":777,"eraiOccurredAt":"2022-05-07 19:09:47+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"473295","bankReport":38,"amount":"400.00","utcDatetime":"2022-05-07 19:09:00","hallId":777}
+ Номер транзакции: 482
+
+Данные из таблицы transactions:
+{"eraiId":"ece72ebe-df63-43b6-bebc-ef2eab19afd1","eraiAmount":"20000.00","hallId":1699,"eraiOccurredAt":"2022-05-07 20:16:59+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"475792","bankReport":38,"amount":"20000.00","utcDatetime":"2022-05-07 20:16:00","hallId":1699}
+ Номер транзакции: 483
+
+Данные из таблицы transactions:
+{"eraiId":"ed21f6ce-0041-4dc7-8494-2911e57ae4bf","eraiAmount":"4000.00","hallId":1777,"eraiOccurredAt":"2022-05-07 19:32:20+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"471177","bankReport":38,"amount":"4000.00","utcDatetime":"2022-05-07 19:32:00","hallId":1777}
+ Номер транзакции: 484
+
+Данные из таблицы transactions:
+{"eraiId":"eda0ebbc-fc6f-4e1f-9ec9-062720be533a","eraiAmount":"3000.00","hallId":1836,"eraiOccurredAt":"2022-05-07 19:06:19+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"472479","bankReport":38,"amount":"3000.00","utcDatetime":"2022-05-07 19:06:00","hallId":1836}
+ Номер транзакции: 485
+
+Данные из таблицы transactions:
+{"eraiId":"eda650c2-fbc7-41bf-8fc7-c76431c19686","eraiAmount":"1000.00","hallId":683,"eraiOccurredAt":"2022-05-07 19:23:33+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463834","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 19:23:00","hallId":683}
+ Номер транзакции: 486
+
+Данные из таблицы transactions:
+{"eraiId":"edc1d03a-0400-4f7d-be00-2b475c2c61a8","eraiAmount":"2000.00","hallId":1544,"eraiOccurredAt":"2022-05-07 20:23:30+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"473365","bankReport":38,"amount":"2000.00","utcDatetime":"2022-05-07 20:23:00","hallId":1544}
+ Номер транзакции: 487
+
+Данные из таблицы transactions:
+{"eraiId":"ee6497cd-7409-4e75-8b0e-69523da14e35","eraiAmount":"500.00","hallId":1184,"eraiOccurredAt":"2022-05-07 20:27:57+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"465387","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 20:27:00","hallId":1184}
+ Номер транзакции: 488
+
+Данные из таблицы transactions:
+{"eraiId":"ef3feb17-3b40-47a9-800c-1b1969f3d4eb","eraiAmount":"500.00","hallId":1404,"eraiOccurredAt":"2022-05-08 20:45:38+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"494290","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:45:00","hallId":1404}
+ Номер транзакции: 489
+
+Данные из таблицы transactions:
+{"eraiId":"efee7eed-972d-4029-8db8-5a5750eec5c6","eraiAmount":"500.00","hallId":1566,"eraiOccurredAt":"2022-05-08 20:45:45+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"494943","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:45:00","hallId":1566}
+ Номер транзакции: 490
+
+Данные из таблицы transactions:
+{"eraiId":"f00d0496-b13d-40fd-8fb8-f5421098a9cb","eraiAmount":"200.00","hallId":1391,"eraiOccurredAt":"2022-05-07 19:51:34+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"467374","bankReport":38,"amount":"200.00","utcDatetime":"2022-05-07 19:51:00","hallId":1391}
+ Номер транзакции: 491
+
+Данные из таблицы transactions:
+{"eraiId":"f10ab807-63a6-4341-a6e9-3670f915e1fe","eraiAmount":"1000.00","hallId":508,"eraiOccurredAt":"2022-05-07 19:28:01+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463544","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 19:27:00","hallId":508}
+ Номер транзакции: 492
+
+Данные из таблицы transactions:
+{"eraiId":"f1f6bb76-8cba-4dec-80de-ce5f0ccae9e6","eraiAmount":"500.00","hallId":345,"eraiOccurredAt":"2022-05-07 19:35:57+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463334","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 19:35:00","hallId":345}
+ Номер транзакции: 493
+
+Данные из таблицы transactions:
+{"eraiId":"f2d006b1-d3ed-47c6-b519-7c8263843884","eraiAmount":"1000.00","hallId":1428,"eraiOccurredAt":"2022-05-08 20:45:43+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"500851","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:45:00","hallId":1428}
+ Номер транзакции: 494
+
+Данные из таблицы transactions:
+{"eraiId":"f2d2b54d-6e93-4153-b3d3-47edf4c45552","eraiAmount":"1000.00","hallId":1777,"eraiOccurredAt":"2022-05-07 19:52:17+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"471181","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 19:52:00","hallId":1777}
+ Номер транзакции: 495
+
+Данные из таблицы transactions:
+{"eraiId":"f2d46997-8fb4-4c1b-a465-f8e7b7e09986","eraiAmount":"1000.00","hallId":345,"eraiOccurredAt":"2022-05-07 15:35:04+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463325","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 15:34:00","hallId":345}
+ Номер транзакции: 496
+
+Данные из таблицы transactions:
+{"eraiId":"f39fa06e-21df-458a-8399-9d4534d08566","eraiAmount":"500.00","hallId":1627,"eraiOccurredAt":"2022-05-07 20:39:22+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469243","bankReport":38,"amount":"500.00","utcDatetime":"2022-05-07 20:39:00","hallId":1627}
+ Номер транзакции: 497
+
+Данные из таблицы transactions:
+{"eraiId":"f3c04f0b-02a1-4a9d-925c-7bf0278c186b","eraiAmount":"1000.00","hallId":345,"eraiOccurredAt":"2022-05-07 17:46:37+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463331","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 17:46:00","hallId":345}
+ Номер транзакции: 498
+
+Данные из таблицы transactions:
+{"eraiId":"f4802c3b-11a1-4f4a-ba35-20121ad301ab","eraiAmount":"1000.00","hallId":1669,"eraiOccurredAt":"2022-05-07 14:59:32+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469860","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 14:59:00","hallId":1669}
+ Номер транзакции: 499
+
+Данные из таблицы transactions:
+{"eraiId":"f48b76f2-c26d-4192-a32d-d56a3244a1ba","eraiAmount":"2000.00","hallId":976,"eraiOccurredAt":"2022-05-08 20:48:13+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"491287","bankReport":40,"amount":"2000.00","utcDatetime":"2022-05-08 20:48:00","hallId":976}
+ Номер транзакции: 500
+
+Данные из таблицы transactions:
+{"eraiId":"f55a05ed-8ba9-49ec-a8e7-d024599e9578","eraiAmount":"1000.00","hallId":1391,"eraiOccurredAt":"2022-05-07 19:35:46+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"467372","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 19:35:00","hallId":1391}
+ Номер транзакции: 501
+
+Данные из таблицы transactions:
+{"eraiId":"f5ae4eb3-fd40-4b13-bfca-548cce47a41d","eraiAmount":"100.00","hallId":1302,"eraiOccurredAt":"2022-05-08 20:59:29+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"492819","bankReport":40,"amount":"100.00","utcDatetime":"2022-05-08 20:59:00","hallId":1302}
+ Номер транзакции: 502
+
+Данные из таблицы transactions:
+{"eraiId":"f8a08b7c-d2b9-49b4-be7f-a7f188e4b3d9","eraiAmount":"15000.00","hallId":1368,"eraiOccurredAt":"2022-05-08 20:59:09+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"493580","bankReport":40,"amount":"15000.00","utcDatetime":"2022-05-08 20:59:00","hallId":1368}
+ Номер транзакции: 503
+
+Данные из таблицы transactions:
+{"eraiId":"f916dd03-b871-46dd-9622-6e041791331f","eraiAmount":"500.00","hallId":1443,"eraiOccurredAt":"2022-05-08 20:54:36+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"499711","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:54:00","hallId":1443}
+ Номер транзакции: 504
+
+Данные из таблицы transactions:
+{"eraiId":"f958ca7a-bd1b-4d62-b9c0-ebefc8bc4df1","eraiAmount":"150.00","hallId":1403,"eraiOccurredAt":"2022-05-07 20:31:30+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"467445","bankReport":38,"amount":"150.00","utcDatetime":"2022-05-07 20:31:00","hallId":1403}
+ Номер транзакции: 505
+
+Данные из таблицы transactions:
+{"eraiId":"f99a7280-cc1f-4b54-91ea-72c77a01357a","eraiAmount":"10000.00","hallId":1240,"eraiOccurredAt":"2022-05-07 19:27:04+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"465944","bankReport":38,"amount":"10000.00","utcDatetime":"2022-05-07 19:26:00","hallId":1240}
+ Номер транзакции: 506
+
+Данные из таблицы transactions:
+{"eraiId":"f9a21085-ce3a-4fa8-9551-3c7e987d633d","eraiAmount":"500.00","hallId":967,"eraiOccurredAt":"2022-05-08 20:49:31+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"499426","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:49:00","hallId":967}
+ Номер транзакции: 507
+
+Данные из таблицы transactions:
+{"eraiId":"fa0fc5dd-3291-4451-a59b-f3f20117d399","eraiAmount":"600.00","hallId":1878,"eraiOccurredAt":"2022-05-08 20:56:27+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"497992","bankReport":40,"amount":"600.00","utcDatetime":"2022-05-08 20:56:00","hallId":1878}
+ Номер транзакции: 508
+
+Данные из таблицы transactions:
+{"eraiId":"fa3e9b42-7156-46ad-9c15-898b80b58173","eraiAmount":"2000.00","hallId":1669,"eraiOccurredAt":"2022-05-07 16:24:52+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"469870","bankReport":38,"amount":"2000.00","utcDatetime":"2022-05-07 16:24:00","hallId":1669}
+ Номер транзакции: 509
+
+Данные из таблицы transactions:
+{"eraiId":"fb753fa5-b415-422e-9dd4-794846118f8d","eraiAmount":"2000.00","hallId":341,"eraiOccurredAt":"2022-05-07 16:58:56+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463243","bankReport":38,"amount":"2000.00","utcDatetime":"2022-05-07 16:58:00","hallId":341}
+ Номер транзакции: 510
+
+Данные из таблицы transactions:
+{"eraiId":"fb9701e4-43c3-423e-9e25-e75296c52651","eraiAmount":"1500.00","hallId":1935,"eraiOccurredAt":"2022-05-08 20:56:24+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"500395","bankReport":40,"amount":"1500.00","utcDatetime":"2022-05-08 20:56:00","hallId":1935}
+ Номер транзакции: 511
+
+Данные из таблицы transactions:
+{"eraiId":"fba64741-26ab-4e4f-9382-40d2a6f249ec","eraiAmount":"20000.00","hallId":1852,"eraiOccurredAt":"2022-05-07 19:14:04+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"474290","bankReport":38,"amount":"20000.00","utcDatetime":"2022-05-07 19:13:00","hallId":1852}
+ Номер транзакции: 512
+
+Данные из таблицы transactions:
+{"eraiId":"fc0765a7-a2a5-4b1b-a342-9e52ebbcaf78","eraiAmount":"1000.00","hallId":1642,"eraiOccurredAt":"2022-05-08 20:56:53+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"495624","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:56:00","hallId":1642}
+ Номер транзакции: 513
+
+Данные из таблицы transactions:
+{"eraiId":"fc0da300-475a-4c7c-bac6-8fff122205e0","eraiAmount":"20000.00","hallId":1392,"eraiOccurredAt":"2022-05-07 20:09:41+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"467430","bankReport":38,"amount":"20000.00","utcDatetime":"2022-05-07 20:09:00","hallId":1392}
+ Номер транзакции: 514
+
+Данные из таблицы transactions:
+{"eraiId":"fd3f4713-547b-43b4-9bc6-184dd05e624c","eraiAmount":"500.00","hallId":1696,"eraiOccurredAt":"2022-05-08 20:54:09+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"498442","bankReport":40,"amount":"500.00","utcDatetime":"2022-05-08 20:53:00","hallId":1696}
+ Номер транзакции: 515
+
+Данные из таблицы transactions:
+{"eraiId":"fdfabeb3-8e6c-463d-9a3c-7ccc0afc40a8","eraiAmount":"1000.00","hallId":1836,"eraiOccurredAt":"2022-05-07 19:55:45+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"472480","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 19:55:00","hallId":1836}
+ Номер транзакции: 516
+
+Данные из таблицы transactions:
+{"eraiId":"fe24c90c-f3be-48dc-862d-e5cfe42aeb3a","eraiAmount":"1000.00","hallId":1808,"eraiOccurredAt":"2022-05-08 20:51:47+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"499880","bankReport":40,"amount":"1000.00","utcDatetime":"2022-05-08 20:51:00","hallId":1808}
+ Номер транзакции: 517
+
+Данные из таблицы transactions:
+{"eraiId":"fe62d20a-48a9-46cc-8cc1-8228a45a3cb8","eraiAmount":"1000.00","hallId":341,"eraiOccurredAt":"2022-05-07 17:05:35+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"463244","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 17:05:00","hallId":341}
+ Номер транзакции: 518
+
+Данные из таблицы transactions:
+{"eraiId":"ff5b5eb4-1093-4774-89d9-5d946adfaa60","eraiAmount":"250.00","hallId":1582,"eraiOccurredAt":"2022-05-08 20:56:10+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"495002","bankReport":40,"amount":"250.00","utcDatetime":"2022-05-08 20:56:00","hallId":1582}
+ Номер транзакции: 519
+
+Данные из таблицы transactions:
+{"eraiId":"ffd926d2-48a0-4a9b-9dbd-2a0922c5d0b3","eraiAmount":"1000.00","hallId":1800,"eraiOccurredAt":"2022-05-07 19:53:33+00"}
+
+Данные из таблицы bank_transactions:
+{"bankTransactionId":"473507","bankReport":38,"amount":"1000.00","utcDatetime":"2022-05-07 19:53:00","hallId":1800}
+ Номер транзакции: 520
+

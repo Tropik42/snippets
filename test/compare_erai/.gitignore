@@ -1,0 +1,7 @@
+.idea
+node_modules
+*.dev.*
+reports/bank/*
+reports/erai/*
+logs/*
+output/*

@@ -18,7 +18,7 @@ const {
     unitIndexExportsPattern,
 } = require('./patterns/unit')
 const {
-    TOCPattern, 
+    TOCPattern,
     descriptionPattern,
 } = require('./patterns/docPattern')
 
@@ -61,24 +61,19 @@ const answers = [];
 // задать вопросик
 function ask({answerText, label}) {
     return new Promise((resolve, reject) => {
-        try {
-            rl.question(answerText, (answer) => {
-                if (answer.length < 5) {
-                    throw new Error('Коротковато будет!')
+        rl.question(answerText, (answer) => {
+            if (answer.length < 5) {
+                throw new Error('Коротковато будет!')
+            }
+            answers.push(
+                {
+                    answerText: answer,
+                    label,
                 }
-                answers.push(
-                    {
-                        answerText: answer,
-                        label,
-                    }
-                );
-                resolve(answer);
-                console.error("test: ", answer);
-            });
-        } catch (error) {
-            console.log(error);
-        }
-
+            );
+            resolve(answer);
+            console.error("test: ", answer);
+        });
     });
 }
 
@@ -86,13 +81,11 @@ function ask({answerText, label}) {
 
 // получить ответы на все вопросики
 async function getAnswers() {
-    try {
-        for (let answer of answersList) {
-            await ask(answer);
-        }
-    } catch (error) {
-        console.error(error);
+
+    for (let answer of answersList) {
+        await ask(answer);
     }
+
     rl.close();
     // console.log(answers);
     return answers;
