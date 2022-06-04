@@ -3,51 +3,67 @@ const fsPromises = require('fs/promises')
 const readline = require('readline');
 const path = require('path')
 
+// УТИЛИТЫ
+const {
+    toPascalCase,
+    toCamelCase,
+    toFlatCase,
+    toKebabCase
+} = require('./utils');
+
 // ШАБЛОНЫ
 const {
     methodPattern,
     methodIndexRequirePattern,
     methodIndexExportsPattern,
-} = require('./patterns/method')
+} = require('./patterns/method');
+
 const {
     methodSchemaPattern,
-} = require('./patterns/methodShema')
+} = require('./patterns/methodShema');
+
 const {
     unitPattern,
     unitIndexRequirePattern,
     unitIndexExportsPattern,
-} = require('./patterns/unit')
+} = require('./patterns/unit');
+
 const {
     TOCPattern,
     descriptionPattern,
-} = require('./patterns/docPattern')
+} = require('./patterns/docPattern');
 
 // МОДУЛЬ С ВЫЯСНЕНИЕМ ИНФОРМАЦИИ
-
 const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout
 });
 
-const answersList = [
+const questionList = [
     {
-        answerText: 'Название метода? (через пробел)',
+        questionText: 'Название метода? (через пробел)',
         label: 'methodName',
+        check: () => {
+            console.log('test')
+        }
     },
     {
-        answerText: 'Путь до сервиса?',
+        questionText: 'Путь до сервиса?',
         label: 'basePath',
+        check: () => {
+            console.log('test2')
+        }
     },
     {
-        answerText: 'Вставить шаблон метода?',
+        questionText: 'Вставить шаблон метода?',
         label: 'createMethod',
     },
     {
-        answerText: 'Вставить шаблон документации?',
+        questionText: 'Вставить шаблон документации?',
         label: 'createDoc',
     },
     {
-        answerText: 'Создавать файл юнит-тестов?',
+        questionText: 'Создавать файл юнит-тестов?',
         label: 'createUnit',
     },
 ];
@@ -59,12 +75,10 @@ const answersList = [
 const answers = [];
 
 // задать вопросик
-function ask({answerText, label}) {
+function ask({questionText, label, check}) {
     return new Promise((resolve, reject) => {
-        rl.question(answerText, (answer) => {
-            if (answer.length < 5) {
-                throw new Error('Коротковато будет!')
-            }
+        rl.question(questionText, (answer) => {
+            check && check();
             answers.push(
                 {
                     answerText: answer,
@@ -72,7 +86,6 @@ function ask({answerText, label}) {
                 }
             );
             resolve(answer);
-            console.error("test: ", answer);
         });
     });
 }
@@ -81,13 +94,11 @@ function ask({answerText, label}) {
 
 // получить ответы на все вопросики
 async function getAnswers() {
-
-    for (let answer of answersList) {
-        await ask(answer);
+    for (const question of questionList) {
+        await ask(question);
     }
-
     rl.close();
-    // console.log(answers);
+
     return answers;
 }
 
@@ -102,15 +113,13 @@ async function getVars() {
     const createDoc = answers.find(answer => answer.label === 'createDoc').answerText.includes('y');
     const createUnit = answers.find(answer => answer.label === 'createUnit').answerText.includes('y');
 
-    const data = {
+    return {
         methodName,
         basePath,
         createMethod,
         createDoc,
         createUnit,
     }
-
-    return data
 }
 
 // МОДУЛЬ С СОЗДАНИЕМ ПАПОК И ФАЙЛОВ
@@ -272,48 +281,6 @@ async function testFs() {
         fs.writeSync(fileRequire, bufferedTextRequire, 0, bufferedTextRequire.length, insertPositionRequire-2);//-2 чтобы вернуться на строку выше
         fs.close(fileRequire);
     }
-}
-
-// UTILS
-function toPascalCase (string) {
-    return string
-        .toLowerCase()
-        .split(' ')
-        .map(word => word
-            .charAt(0)
-            .toUpperCase() + word.slice(1)
-        )
-        .join('')
-}
-
-function toCamelCase (string) {
-    const result =
-    string
-        .toLowerCase()
-        .split(' ')
-        .map(word => word
-            .charAt(0)
-            .toUpperCase() + word.slice(1)
-        )
-        .join('')
-
-    return result
-        .charAt(0)
-        .toLowerCase() + result.slice(1)
-}
-
-function toKebabCase (string) {
-    return string
-        .toLowerCase()
-        .split(' ')
-        .join('-')
-}
-
-function toFlatCase (string) {
-    return string
-        .toLowerCase()
-        .split(' ')
-        .join('')
 }
 
 testFs()
