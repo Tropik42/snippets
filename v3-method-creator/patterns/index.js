@@ -1,7 +1,22 @@
-const {TOCPattern, descriptionPattern} = require('./docPattern');
-const {methodPattern, methodIndexRequirePattern, methodIndexExportsPattern} = require('./method');
+const {
+    TOCPattern,
+    descriptionPattern
+} = require('./docPattern');
+
+const {
+    methodPattern,
+    methodIndexRequirePattern,
+    methodIndexExportsPattern
+} = require('./method');
+
 const {methodSchemaPattern} = require('./methodShema');
-const {unitPattern, unitIndexRequirePattern, unitIndexExportsPattern} = require('./unit')
+
+const {
+    unitPattern,
+    unitIndexRequirePattern,
+    unitIndexExportsPattern
+} = require('./unit')
+
 
 module.exports = {
     TOCPattern,

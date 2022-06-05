@@ -78,29 +78,11 @@ async function testFs() {
     const {basePath, methodName, createMethod, createDoc, createUnit} = await getVars()
 
     if (createMethod) { // Создать папку с методом в src
-        await fsPromises.mkdir(
-            path.join(
-                basePath,
-                'src/lib/methods',
-                `${toKebabCase(methodName)}`
-            )
-        )
-        await fsPromises.writeFile(
-            path.join(
-                basePath,
-                'src/lib/methods',
-                `${toKebabCase(methodName)}`,
-                'index.js'
-            ),
+        await fs.mkdirSync(path.join(basePath, 'src/lib/methods', `${toKebabCase(methodName)}`))
+        await fs.writeFileSync(path.join(basePath, 'src/lib/methods', `${toKebabCase(methodName)}`, 'index.js'),
             `${patterns.methodPattern.replace(/MethodName/g, toPascalCase(methodName))}`
         )
-        await fsPromises.writeFile(
-            path.join(
-                basePath,
-                'src/lib/methods',
-                `${toKebabCase(methodName)}`,
-                'method-schema.js'
-            ),
+        await fs.writeFileSync(path.join(basePath, 'src/lib/methods', `${toKebabCase(methodName)}`, 'method-schema.js'),
             `${patterns.methodSchemaPattern.replace(/MethodName/g, toCamelCase(methodName))}`
         )
 
