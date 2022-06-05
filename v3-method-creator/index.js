@@ -12,26 +12,7 @@ const {
 } = require('./utils');
 
 // ШАБЛОНЫ
-const {
-    methodPattern,
-    methodIndexRequirePattern,
-    methodIndexExportsPattern,
-} = require('./patterns/method');
-
-const {
-    methodSchemaPattern,
-} = require('./patterns/methodShema');
-
-const {
-    unitPattern,
-    unitIndexRequirePattern,
-    unitIndexExportsPattern,
-} = require('./patterns/unit');
-
-const {
-    TOCPattern,
-    descriptionPattern,
-} = require('./patterns/docPattern');
+const patterns = require('./patterns');
 
 // МОДУЛЬ С ВЫЯСНЕНИЕМ ИНФОРМАЦИИ
 const rl = readline.createInterface({
@@ -39,39 +20,8 @@ const rl = readline.createInterface({
     output: process.stdout
 });
 
-const questionList = [
-    {
-        questionText: 'Название метода? (через пробел)',
-        label: 'methodName',
-        check: () => {
-            console.log('test')
-        }
-    },
-    {
-        questionText: 'Путь до сервиса?',
-        label: 'basePath',
-        check: () => {
-            console.log('test2')
-        }
-    },
-    {
-        questionText: 'Вставить шаблон метода?',
-        label: 'createMethod',
-    },
-    {
-        questionText: 'Вставить шаблон документации?',
-        label: 'createDoc',
-    },
-    {
-        questionText: 'Создавать файл юнит-тестов?',
-        label: 'createUnit',
-    },
-];
+const {questionList} = require('./questions')
 
-/* {
-    answerText: ''
-}
-*/
 const answers = [];
 
 // задать вопросик
@@ -142,7 +92,7 @@ async function testFs() {
                 `${toKebabCase(methodName)}`,
                 'index.js'
             ),
-            `${methodPattern.replace(/MethodName/g, toPascalCase(methodName))}`
+            `${patterns.methodPattern.replace(/MethodName/g, toPascalCase(methodName))}`
         )
         await fsPromises.writeFile(
             path.join(
@@ -151,7 +101,7 @@ async function testFs() {
                 `${toKebabCase(methodName)}`,
                 'method-schema.js'
             ),
-            `${methodSchemaPattern.replace(/MethodName/g, toCamelCase(methodName))}`
+            `${patterns.methodSchemaPattern.replace(/MethodName/g, toCamelCase(methodName))}`
         )
 
         // вставить название метода в require
@@ -167,7 +117,7 @@ async function testFs() {
         var file = fs.openSync(path.resolve(basePath, 'src/lib/methods/index.js'),'r+');
         // берём шаблон и добавляем к нему остаток файла, чтобы не перезаписалось
         var bufferedText = new Buffer(
-            methodIndexRequirePattern
+            patterns.methodIndexRequirePattern
                 .replace(/MethodName/g, toPascalCase(methodName))
                 .replace(/method-name/g, toKebabCase(methodName))
             +file_content
@@ -187,7 +137,7 @@ async function testFs() {
         var fileRequire = fs.openSync(path.resolve(basePath, 'src/lib/methods/index.js'),'r+');
         // берём шаблон и добавляем к нему остаток файла, чтобы не перезаписалось
         var bufferedTextRequire = new Buffer(
-                methodIndexExportsPattern
+            patterns.methodIndexExportsPattern
                 .replace(/MethodName/g, toPascalCase(methodName))
                 +file_content_require
             );
@@ -216,7 +166,7 @@ async function testFs() {
         const file_content = docText.substring(position);
         const file = fs.openSync(path.resolve(basePath, 'doc/api/index.md'),'r+');
         const bufferedText = new Buffer(
-                TOCPattern
+                patterns.TOCPattern
                     .replace(/methodName/g, toCamelCase(methodName)) //подставить название метода
                     .replace(/methodname/g, toFlatCase(methodName)) // подставить тег (#..)
                     .replace(/orderNumber/g, +numberOfTOCDescription + 1) // подставить циферки, увеличенные на 1
@@ -225,7 +175,7 @@ async function testFs() {
         fs.writeSync(file, bufferedText, 0, bufferedText.length, insertPosition);
         await fsPromises.appendFile( // вставить описание метода
             path.resolve(basePath, 'doc/api/index.md'),
-            descriptionPattern.replace(/MethodName/g, toCamelCase(methodName))
+            patterns.descriptionPattern.replace(/MethodName/g, toCamelCase(methodName))
         )
         fs.close(file);
     }
@@ -237,7 +187,7 @@ async function testFs() {
                 'src/test/cases',
                 `${toKebabCase(methodName)}.js`
             ),
-            `${unitPattern.replace(/MethodName/g, toCamelCase(methodName))}`
+            `${patterns.unitPattern.replace(/MethodName/g, toCamelCase(methodName))}`
         )
 
         // вставить название метода в require
@@ -253,7 +203,7 @@ async function testFs() {
         var file = fs.openSync(path.resolve(basePath, 'src/test/cases/index.js'),'r+');
         // берём шаблон и добавляем к нему остаток файла, чтобы не перезаписалось
         var bufferedText = new Buffer(
-            unitIndexRequirePattern
+            patterns.unitIndexRequirePattern
                 .replace(/methodName/g, toCamelCase(methodName))
                 .replace(/method-name/g, toKebabCase(methodName))
             +file_content
@@ -273,7 +223,7 @@ async function testFs() {
         var fileRequire = fs.openSync(path.resolve(basePath, 'src/test/cases/index.js'),'r+');
         // берём шаблон и добавляем к нему остаток файла, чтобы не перезаписалось
         var bufferedTextRequire = new Buffer(
-                unitIndexExportsPattern
+            patterns.unitIndexExportsPattern
                 .replace(/methodName/g, toCamelCase(methodName))
                 +file_content_require
             );
