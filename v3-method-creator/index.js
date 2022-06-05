@@ -216,15 +216,3 @@ async function testFs() {
 }
 
 testFs()
-
-// fs.mkdir(path.join(basePath, 'src/lib/methods/test'), err => {
-//     console.log(err)
-// })
-
-
-
-// top level await
-
-// fs.mkdir(path.join(basePath, 'src/lib/methods/test'), err => {
-//     console.log(err)
-// })
