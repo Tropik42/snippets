@@ -8,7 +8,7 @@ module.exports = {
             }
         },
         {
-            questionText: 'Путь до сервиса?',
+            questionText: 'Абсолютный путь до сервиса?',
             label: 'basePath',
             check: () => {
                 console.log('test2')
