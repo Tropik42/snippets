@@ -1,7 +1,7 @@
 module.exports = {
     questionList: [
         {
-            questionText: 'Название метода? (через пробел)',
+            questionText: 'Название метода? (слова через пробел)',
             label: 'methodName',
             check: () => {
                 console.log('test')
