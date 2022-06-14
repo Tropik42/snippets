@@ -15,15 +15,15 @@ module.exports = {
             }
         },
         {
-            questionText: 'Вставить шаблон метода?',
+            questionText: 'Вставить шаблон метода? (y/n)',
             label: 'createMethod',
         },
         {
-            questionText: 'Вставить шаблон документации?',
+            questionText: 'Вставить шаблон документации? (y/n)',
             label: 'createDoc',
         },
         {
-            questionText: 'Создавать файл юнит-тестов?',
+            questionText: 'Создавать файл юнит-тестов? (y/n),
             label: 'createUnit',
         },
     ]
