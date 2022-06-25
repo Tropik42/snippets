@@ -23,7 +23,7 @@ module.exports = {
             label: 'createDoc',
         },
         {
-            questionText: 'Создавать файл юнит-тестов? (y/n),
+            questionText: 'Создавать файл юнит-тестов? (y/n)',
             label: 'createUnit',
         },
     ]
