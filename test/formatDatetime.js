@@ -10,8 +10,8 @@ function formatDateTimezone(dttm, hallTz) {
         .replace('Z', `${tzH > 0 ? '+' : '-'}${(`0${~~tzH}`).slice(-2)}:${(`0${tzM}`).slice(-2)}`);
 }
 
-const tz = 5
-const receiptDate = "2017.06.23 18:58:00.000"
+const tz = 7
+const receiptDate = "2022.05.09 00:04:00.000"
 const dttm = new Date(+new Date(`${receiptDate.split(' ')[0].replace(/\./g, '-')}T${receiptDate.split(' ')[1]}Z`) - tz * MS_IN_HOUR)
 const beginDttm = new Date(+dttm - 60 * 1000);
 const endDttm = new Date(+dttm + 60 * 1000);
