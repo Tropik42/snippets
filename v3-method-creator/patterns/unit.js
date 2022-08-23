@@ -2,16 +2,13 @@ module.exports = {
 
 unitIndexRequirePattern:
 `
-const methodName = require('./method-name.js');
-
-`,
+const methodName = require('./method-name.js');`,
 
 unitIndexExportsPattern:
 `
-    methodName,
-`,
-    
-unitPattern: 
+    methodName,`,
+
+unitPattern:
 `const {testUtils, testStorage} = require('@bb/offline-test');
 
 const MSG = {
@@ -30,8 +27,7 @@ module.exports = [
             return {
                 message: {
                     ...testStorage.core.commons.getMessage(MSG),
-                    data: {
-                    },
+                    data: {},
                 },
             };
         },
@@ -39,9 +35,8 @@ module.exports = [
             message: {data: {}},
         },
         sourcesRmqPublishAdvanced: request => testUtils.done(request),
-        sourcesDbGetConnection: options => {
-            const name = options.name.split('_')[0];
-            switch (name) {
+        sourcesDbExecQuery: ({queryName}) => {
+            switch (queryName) {
                 case 'methodName':
                     return;
                 default:
@@ -57,8 +52,7 @@ module.exports = [
             return {
                 message: {
                     ...testStorage.core.commons.getMessage(MSG),
-                    data: {
-                    },
+                    data: {},
                 },
             };
         },
@@ -75,7 +69,6 @@ module.exports = [
         },
         sourcesRmqPublishAdvanced: request => testUtils.done(request),
     },
-];    
+];
 `
 };
-        

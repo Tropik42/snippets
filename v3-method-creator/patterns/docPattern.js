@@ -1,6 +1,7 @@
 module.exports = {
 TOCPattern:
-`      - [methodName](#methodname)
+`      
+      - [methodName](#methodname)
         - [Description](#description-orderNumber)
         - [Input](#input-orderNumber)
         - [Output](#output-orderNumber)
@@ -18,15 +19,20 @@ descriptionPattern:
 
 Описание
 
-- Получает запрос на обработку
+- Валидирует сообщение
+  - Если есть ошибка валидации - возвращает ошибку
+- 
+- Возвращает ответ
 
 ###### Input
 
 Принимает параметры
 
+- 
+
 ###### Output
 
-Выходные параметры 
+Возвращает параметры 
 
 - No
 `

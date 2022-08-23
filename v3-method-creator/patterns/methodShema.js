@@ -1,6 +1,5 @@
-module.exports = {methodSchemaPattern: 
-`const {                
-} = require('../schema-properties.js');
+module.exports = {methodSchemaPattern:
+`const {} = require('../schema-properties.js');
 
 module.exports = {
     id: 'MethodName',
@@ -9,13 +8,10 @@ module.exports = {
     properties: {
         data: {
             type: 'object',
-            required: [
-            ],
-            properties: {
-            },
+            required: [],
+            properties: {},
         },
     },
 };
 `
 };
-    
