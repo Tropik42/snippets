@@ -20,7 +20,7 @@ const answers = [];
 function ask({questionText, label, check}) {
     return new Promise((resolve, reject) => {
         rl.question(questionText, (answer) => {
-            check && check();
+            check && check(answer);
             answers.push(
                 {
                     answerText: answer,
@@ -64,12 +64,14 @@ async function getVars() {
     }
 }
 
-async function testFs() {
+async function startCreator() {
     const {basePath, methodName, createMethod, createDoc, createUnit} = await getVars()
 
     createMethod && createSrcMethodFiles(methodName, basePath);
     createUnit && createUnitTestFiles(methodName, basePath);
     createDoc && createDocFiles(methodName, basePath);
+
+    console.log('Создание структуры успешно завершено')
 }
 
-testFs()
+startCreator()

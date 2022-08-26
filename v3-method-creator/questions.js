@@ -3,8 +3,9 @@ module.exports = {
         {
             questionText: 'Название метода? (слова через пробел)',
             label: 'methodName',
-            check: () => {
-                console.log('test')
+            check: (answer) => {
+                answer.length < 3 &&
+                console.log('Название метода должно быть длиннее 3 символов')
             }
         },
         {

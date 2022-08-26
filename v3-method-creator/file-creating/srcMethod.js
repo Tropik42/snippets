@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path')
-const {toCamelCase, toKebabCase, insertPattern} = require('../utils.js')
+const {toCamelCase, toKebabCase, toPascalCase, insertPattern} = require('../utils.js')
 const patterns = require('../patterns')
 
 function createSrcMethodFiles(methodName, basePath) {
