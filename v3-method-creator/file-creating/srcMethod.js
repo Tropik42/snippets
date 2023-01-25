@@ -12,24 +12,32 @@ function createSrcMethodFiles(methodName, basePath) {
         `${patterns.methodSchemaPattern.replace(/MethodName/g, toCamelCase(methodName))}`
     )
 
-    insertPattern(
-        basePath,
-        `src/lib/methods/index.js`,
-        'module.exports',
-        patterns.methodIndexRequirePattern
-            .replace(/MethodName/g, toPascalCase(methodName))
-            .replace(/method-name/g, toKebabCase(methodName)),
-        -1
-    );
+    try {
+        insertPattern(
+            basePath,
+            `src/lib/methods/index.js`,
+            'module.exports',
+            patterns.methodIndexRequirePattern
+                .replace(/MethodName/g, toPascalCase(methodName))
+                .replace(/method-name/g, toKebabCase(methodName)),
+            -1
+        );
+    } catch (error) {
+        console.log(error);
+    }
 
-    insertPattern(
-        basePath,
-        'src/lib/methods/index.js',
-        '};',
-        patterns.methodIndexExportsPattern
-            .replace(/MethodName/g, toPascalCase(methodName)),
-        -1
-    );
+    try {
+        insertPattern(
+            basePath,
+            'src/lib/methods/index.js',
+            '};',
+            patterns.methodIndexExportsPattern
+                .replace(/MethodName/g, toPascalCase(methodName)),
+            -1
+        );
+    } catch (error) {
+        console.log(error);
+    }
 }
 
 module.exports = {createSrcMethodFiles};
