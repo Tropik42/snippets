@@ -34,7 +34,7 @@ function createDocFiles(methodName, basePath) {
         path.resolve(basePath, 'doc/api/index.md'),
         patterns.descriptionPattern.replace(/MethodName/g, toCamelCase(methodName))
     )
-    fs.close(file);
+    fs.close(file, function(err, result) {if (err) console.log('Ошибко: ', err)});
 }
 
 module.exports = {createDocFiles};

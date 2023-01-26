@@ -51,7 +51,7 @@ function insertPattern (basePath, relativePath, insertBefore, pattern, offset = 
     const fileDescriptor = fs.openSync(path.resolve(basePath, relativePath),'r+');                 // получаем дескриптор файла
     const bufferedText = new Buffer.from(pattern + textAfterInsertPosition)                   // берём шаблон и добавляем к нему остаток файла, чтобы не перезаписалось
     fs.writeSync(fileDescriptor, bufferedText, 0, bufferedText.length, insertPosition);           // записываем в файл шаблон+остаток
-    fs.close(fileDescriptor);
+    fs.close(fileDescriptor, function(err, result) {if (err) console.log('Ошибко: ', err)});
 }
 
 
