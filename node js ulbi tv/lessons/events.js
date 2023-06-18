@@ -1,4 +1,4 @@
-const Emitter = require('events');
+const Emitter = require('node js ulbi tv/lessons/events');
 
 const emitter = new Emitter();
 

@@ -1,4 +1,4 @@
-const os = require('os');
+const os = require('node js ulbi tv/lessons/os');
 const cluster = require('cluster');
 
 // Показать платформу, на которой идёт работа
